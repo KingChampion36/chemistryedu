@@ -8,13 +8,13 @@
 sudo apt-get install python3-pip
 ```
 
-2. Install mkdocs using pip
+2. Install `mkdocs` using pip
 
 ```shell
 pip3 install mkdocs
 ```
 
-3. Install mkdocs and material theme
+3. Install `mkdocs` and material theme
 
 ```shell
 pip3 install mkdocs-bootswatch
