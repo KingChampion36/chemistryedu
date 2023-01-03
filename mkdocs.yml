@@ -40,6 +40,7 @@ extra_css:
 
 plugins:
   - glightbox
+  - search
 
 theme:
   name: material
@@ -49,8 +50,14 @@ theme:
   palette:
     primary: teal
     accent: teal
+  features:
+    - search.suggest
 
 nav:
   - Home: index.md
   - Physical Chemistry: physical-chemistry/index.md
-  - Terms and Conditions: terms-and-conditions/index.md
+  - Policies:
+    - Terms and Conditions: policies/terms-and-conditions.md
+    - Disclaimer: policies/disclaimer.md
+    - Privacy Policy: policies/privacy-policy.md
+  - Contact Us: contact-us/index.md

@@ -1,4 +1,4 @@
-# ![ChemistryEdu Logo](../images/favicon.svg){ align=left, width=3.8% }  ChemistryEdu | Terms and Conditions
+# [![ChemistryEdu Logo](../images/favicon.svg){ align=left, width=3.8% }](/)  ChemistryEdu | Terms and Conditions
 
 The Terms and Conditions written on this web page shall manage your use of our website, ChemistryEdu accessible at https://chemistryedu.org.
 
