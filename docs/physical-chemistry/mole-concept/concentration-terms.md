@@ -89,6 +89,8 @@ title: Mole Concept | Concentration Terms
 * Both ppm and ppb are unitless quantities.
 * Both ppm and ppb are temperature independent because mass does not depend on temperature.
 
+## Questions
+
 ??? question "A 1M H<sub>2</sub>SO<sub>4</sub> solution is taken whose density is 1.1 g/mL. Calculate its molality."
 
     $$Molarity\ of\ H_2SO_4\ solution = 1\ M$$
