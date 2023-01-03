@@ -50,7 +50,7 @@ title: Mole Concept | Empirical and Molecular Formula
 
 * Mass percentage of each element in the compound will be same in both empirical and molecular formula.
 
-## Questions
+## Question
 
 ??? question "An organic compound having mass percentage of C = 53.33%, mass percentage of H = 11.11%, mass percentage of O = 35.56%. Molecular weight of the organic compound is 90 g/mole. Find its empirical formula and molecular formula."
 
