@@ -1,1 +1,1 @@
-# ChemistryEdu
+# [![ChemistryEdu Logo](images/favicon.svg){ align=left, width=3.8% }](/) ChemistryEdu
