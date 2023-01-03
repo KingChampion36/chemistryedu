@@ -30,7 +30,7 @@ pip3 install mkdocs-material
 pip3 install mkdocs-glightbox
 ```
 
-5Preview the website locally
+5. Preview the website locally
 
 ```shell
 python3 -m mkdocs serve
@@ -38,7 +38,7 @@ python3 -m mkdocs serve
 
 Website can be viewed at [localhost:8000](http://localhost:8000) or [127.0.0.1:800](http://127.0.0.1:8000).
 
-5. Build the website (This step will generate the source code of website).
+6. Build the website (This step will generate the source code of website).
 
 ```shell
 python3 -m mkdocs build
