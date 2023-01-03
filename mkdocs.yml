@@ -70,6 +70,10 @@ nav:
           - Introduction: physical-chemistry/mole-concept/introduction.md
           - Calculation of Moles: physical-chemistry/mole-concept/calculation-of-moles.md
           - Calculation of Moles for an ideal gas: physical-chemistry/mole-concept/calculation-of-moles-for-gases.md
+          - Limiting Reagent: physical-chemistry/mole-concept/limiting-reagent.md
+          - Vapour Density: physical-chemistry/mole-concept/vapour-density.md
+          - Empirical and Molecular Formula: physical-chemistry/mole-concept/empirical-and-molecular-formula.md
+          - Concentration Terms: physical-chemistry/mole-concept/concentration-terms.md
   - Policies:
     - Terms and Conditions: policies/terms-and-conditions.md
     - Disclaimer: policies/disclaimer.md
