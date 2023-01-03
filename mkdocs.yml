@@ -69,6 +69,7 @@ nav:
       - Mole Concept:
           - Introduction: physical-chemistry/mole-concept/introduction.md
           - Calculation of Moles: physical-chemistry/mole-concept/calculation-of-moles.md
+          - Calculation of Moles for an ideal gas: physical-chemistry/mole-concept/calculation-of-moles-for-gases.md
   - Policies:
     - Terms and Conditions: policies/terms-and-conditions.md
     - Disclaimer: policies/disclaimer.md
