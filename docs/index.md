@@ -1,1 +1,5 @@
+---
+title: ChemistryEdu
+---
+
 # [![ChemistryEdu Logo](images/favicon.svg){ align=left, width=3.8% }](index.md) ChemistryEdu
