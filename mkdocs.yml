@@ -20,6 +20,9 @@ markdown_extensions:
   - sane_lists
   - attr_list
   - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+
 
 extra:
   generator: false
@@ -38,6 +41,11 @@ extra:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
 plugins:
   - glightbox
   - search
@@ -52,10 +60,14 @@ theme:
     accent: teal
   features:
     - search.suggest
+    - navigation.indexes
 
 nav:
   - Home: index.md
-  - Physical Chemistry: physical-chemistry/index.md
+  - Physical Chemistry:
+      - physical-chemistry/index.md
+      - Mole Concept:
+          - Introduction: physical-chemistry/mole-concept/introduction.md
   - Policies:
     - Terms and Conditions: policies/terms-and-conditions.md
     - Disclaimer: policies/disclaimer.md
