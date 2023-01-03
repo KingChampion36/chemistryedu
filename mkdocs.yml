@@ -68,6 +68,7 @@ nav:
       - physical-chemistry/index.md
       - Mole Concept:
           - Introduction: physical-chemistry/mole-concept/introduction.md
+          - Calculation of Moles: physical-chemistry/mole-concept/calculation-of-moles.md
   - Policies:
     - Terms and Conditions: policies/terms-and-conditions.md
     - Disclaimer: policies/disclaimer.md
