@@ -14,7 +14,7 @@ title: Mole Concept | Limiting Reagent
 * Divide the number of moles of reactants by their respective stoichiometric coefficient. The lesser value will indicate that the reactant is limiting reagent.
 * After identifying limiting reagent, **make all calculations with respect to limiting reagent only**.
 
-## Question
+## Questions
 
 ??? question "For the given chemical reaction, find the mass of SO<sub>2</sub> formed: <br> S<sub>(10 g)</sub> + O<sub>2</sub><sub>(10 g)</sub> &rarr; SO<sub>2</sub>"
 
