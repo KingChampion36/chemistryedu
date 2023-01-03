@@ -3,21 +3,9 @@ site_url: https://chemistryedu.org
 copyright: Copyright © chemistryedu.org 2023
 
 markdown_extensions:
-  - toc:
-      permalink: "#"
-      toc_depth: 2
   - admonition
   - codehilite
   - def_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-  - pymdownx.details
-  - pymdownx.snippets:
-      check_paths: true
-  - pymdownx.superfences
-  - pymdownx.tabbed
-  - sane_lists
   - attr_list
   - md_in_html
 
