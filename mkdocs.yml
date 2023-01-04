@@ -74,6 +74,13 @@ nav:
           - Vapour Density: physical-chemistry/mole-concept/vapour-density.md
           - Empirical and Molecular Formula: physical-chemistry/mole-concept/empirical-and-molecular-formula.md
           - Concentration Terms: physical-chemistry/mole-concept/concentration-terms.md
+      - Chemical Equilibrium:
+          - Introduction: physical-chemistry/chemical-equilibrium/introduction.md
+          - Law of Mass Action: physical-chemistry/chemical-equilibrium/law-of-mass-action.md
+          - Equilibrium Constant: physical-chemistry/chemical-equilibrium/equilibrium-constant.md
+          - Degree of Dissociation: physical-chemistry/chemical-equilibrium/degree-of-dissociation.md
+          - Reaction Quotient: physical-chemistry/chemical-equilibrium/reaction-quotient.md
+          - Le Chatelier's Principle: physical-chemistry/chemical-equilibrium/le-chateliers-principle.md
   - Policies:
     - Terms and Conditions: policies/terms-and-conditions.md
     - Disclaimer: policies/disclaimer.md
