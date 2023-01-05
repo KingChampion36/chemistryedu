@@ -47,7 +47,7 @@ Google is one of a third-party vendor on our site. It also uses cookies, known a
 
 Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
 
-* Google: [https://policies.google.com/technologies/ads]()
+* Google: [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads) {:target="_blank"}
 
 ## Advertising Partners Privacy Policies
 
