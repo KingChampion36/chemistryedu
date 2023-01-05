@@ -16,10 +16,10 @@ You are granted limited license only for purposes of viewing the material contai
 
 ## Restrictions of use:
 
-You are specifically restricted from all of the following:
+You are specifically restricted from:
 
 * publishing any Website material in any other media.
-* selling, sublicensing and/or otherwise commercializing any website material.
+* selling, sub-licensing and/or otherwise commercializing any website material.
 * publicly performing and/or showing any website material.
 * using this website in any way that is or may be damaging to this website.
 * using this website in any way that impacts user access to this website.
