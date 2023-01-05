@@ -8,7 +8,7 @@ At chemistryedu, accessible from chemistryedu.org, one of our main priorities is
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
-This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in chemistryedu. This policy is not applicable to any information collected offline or via channels other than this website.
+This Privacy Policy applies only to our online activities and is valid for visitors to our website regarding the information that they shared and/or collect in chemistryedu. This policy is not applicable to any information collected offline or via channels other than this website.
 
 ## Consent
 
@@ -45,7 +45,7 @@ Google is one of a third-party vendor on our site. It also uses cookies, known a
 
 ## Our Advertising Partners
 
-Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
+Some advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
 
 * Google: [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads) {:target="_blank"}
 
