@@ -82,6 +82,11 @@ nav:
           - Enthalpy: physical-chemistry/thermodynamics/enthalpy.md
           - Heat Capacity: physical-chemistry/thermodynamics/heat-capacity.md
           - Degree of Freedom: physical-chemistry/thermodynamics/degree-of-freedom.md
+          - Reversible and Irreversible Processes: physical-chemistry/thermodynamics/reversible-and-irreversible-processes.md
+          - Analysis of Thermodynamic Processes: physical-chemistry/thermodynamics/analysis-of-thermodynamic-processes.md
+          - Questions based on Work done: physical-chemistry/thermodynamics/questions-based-on-work-done.md
+          - Questions based on First Law of Thermodynamics: physical-chemistry/thermodynamics/questions-based-on-first-law-of-thermodynamics.md
+          - Graph Based Questions: physical-chemistry/thermodynamics/graph-based-questions.md
       - Chemical Equilibrium:
           - Introduction: physical-chemistry/chemical-equilibrium/introduction.md
           - Law of Mass Action: physical-chemistry/chemical-equilibrium/law-of-mass-action.md
