@@ -7,15 +7,15 @@ title: Chemical Equilibrium | Introduction
 ## Equilibrium State
 
 * Equilibrium is defined as the state of a system in which the measurable properties of a system like colour,
-  concentration, pressure etc become constant. 
-* There are two types of equilibrium: (a) Physical equilibrium (b) Chemical equilibrium. 
+  concentration, pressure etc become constant.
+* There are two types of equilibrium: (a) Physical equilibrium (b) Chemical equilibrium.
 * Equilibrium involving physical processes is called physical equilibrium.
 
 !!! example "Examples of physical equilibrium"
 
     (i) Melting of solids (solid &#8652; liquid).
 
-    (ii) Vaporization of liquids (Liquid &#8652; Gas). 
+    (ii) Vaporization of liquids (Liquid &#8652; Gas).
 
 
 * Equilibrium involving chemical processes is called chemical equilibrium.
@@ -46,13 +46,13 @@ title: Chemical Equilibrium | Introduction
 * The concentration of reactants decreases and that of products increases and both become constant at equilibrium. It should be noted that the concentration of reactants and products may or may not be equal at equilibrium
   but they are always constant at equilibrium.
 
-![Equilibrium graph](images/equi_graph.png)
+![Equilibrium graph](images/equi_graph.png){ loading=lazy }
 
 At point P, the concentration of both reactants and products are equal but equilibrium has not been achieved. At time = t, equilibrium is achieved.
 
 * The rate of forward reaction decreases and that of backward reaction increases and both become equal at equilibrium.
 
-![Rate of forward and backward reaction](images/equi_rate.png)
+![Rate of forward and backward reaction](images/equi_rate.png){ loading=lazy }
 
 At point P, rate of forward reaction becomes equal to that of backward reaction and equilibrium has been achieved.
 

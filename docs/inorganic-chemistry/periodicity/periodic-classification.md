@@ -13,7 +13,7 @@ title: Periodicity | Periodic classification
 
 ## Modern Periodic Table
 
-![Modern periodic table](images/modern_periodic_table.png)
+![Modern periodic table](images/modern_periodic_table.png){ loading=lazy }
 
 Image Credit: [https://en.wikipedia.org/wiki/Periodic_table](https://en.wikipedia.org/wiki/Periodic_table){:target="_blank"}
 

@@ -10,7 +10,7 @@ title: Thermodynamics | Reversible and Irreversible Processes
 
 * It is a very fast process and takes a very little time to complete.
 
-![Irreversible Process](images/irreversible_process.png)
+![Irreversible Process](images/irreversible_process.png){ loading=lazy }
 
 * In case of irreversible expansion, P<sub>gas</sub> is much greater than P<sub>ext</sub> (P<sub>gas</sub> >> P<sub>ext</sub>).
 
@@ -21,11 +21,11 @@ title: Thermodynamics | Reversible and Irreversible Processes
 !!! tip ""
 
     $$W_{irr} = - \int\limits_{V_1}^{V_2} P_{ext}dV$$
-    
+
     Since, irreversible processes take place against constant external pressure.
-    
+
     $$W_{irr} = -P_{ext}(V_2 - V_1)$$
-    
+
     $$W_{irr} = -P_{ext}&Delta;V$$
 
 ## Reversible Process
@@ -35,8 +35,8 @@ title: Thermodynamics | Reversible and Irreversible Processes
 * If the opposing force is increased by an infinitesimally small amount, the process returns back to its previous state. Therefore, it is called reversible.
 
 * Reversible processes are generally very slow processes.
-  
-![Reversible Process](images/irreversible_process.png)
+
+![Reversible Process](images/irreversible_process.png){ loading=lazy }
 
 * For a reversible expansion, P<sub>gas</sub> is infinitesimally greater than P<sub>ext</sub>.
 
@@ -49,8 +49,8 @@ title: Thermodynamics | Reversible and Irreversible Processes
 !!! tip ""
 
     $$W_{rev} = - \int\limits_{V_1}^{V_2} P_{ext}dV$$
-    
+
     Since, P<sub>ext</sub> &thickapprox; P<sub>gas</sub>, we can write:
-    
+
     $$W_{rev} = - \int\limits_{V_1}^{V_2} P_{gas}dV$$
-    
+
