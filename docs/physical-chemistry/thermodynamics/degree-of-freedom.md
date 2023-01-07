@@ -90,7 +90,7 @@ Note that Fig (a) and Fig (b) may look different but they actually represent the
 
 * **Rotational degree of freedom:** In a triatomic linear gas, there are two external axes, so f<sub>r</sub> = 2.
 
-![Rotational degree of freedom for triatomic linear gas](images/rotational_dof_triatomic_linear.png)    { loading=lazy }
+![Rotational degree of freedom for triatomic linear gas](images/rotational_dof_triatomic_linear.png){ loading=lazy }
 
 * **Vibrational degree of freedom:** At room temperature, vibrational degree of freedom, f<sub>v</sub> = 0.
 
