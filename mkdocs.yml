@@ -7,6 +7,7 @@ markdown_extensions:
       permalink: "#"
       toc_depth: 2
   - admonition
+  - tables
   - codehilite
   - def_list
   - pymdownx.emoji:
@@ -100,6 +101,14 @@ nav:
           - Degree of Dissociation: physical-chemistry/chemical-equilibrium/degree-of-dissociation.md
           - Reaction Quotient: physical-chemistry/chemical-equilibrium/reaction-quotient.md
           - Le Chatelier's Principle: physical-chemistry/chemical-equilibrium/le-chateliers-principle.md
+  - Inorganic Chemistry:
+      - Periodicity:
+          - Periodic Classification: inorganic-chemistry/periodicity/periodic-classification.md
+          - Electronic configuration of atoms and Periodic Table: inorganic-chemistry/periodicity/electronic-configuration-and-periodic-table.md
+          - Types of Elements: inorganic-chemistry/periodicity/types-of-elements.md
+          - Metals, Non-Metals and Metalloids: inorganic-chemistry/periodicity/metals-non-metals-and-metalloids.md
+          - Trends in Physical Properties: inorganic-chemistry/periodicity/trends-in-physical-properties.md
+          - Trends in Chemical Properties: inorganic-chemistry/periodicity/trends-in-chemical-properties.md
   - Policies:
     - Terms and Conditions: policies/terms-and-conditions.md
     - Disclaimer: policies/disclaimer.md
