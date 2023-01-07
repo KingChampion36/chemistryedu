@@ -6,7 +6,7 @@ title: Periodicity | Electronic configuration and periodic table
 
 
 * We can predict the properties of an atom by seeing its electronic configuration. Thus, electronic configuration and periodic table are closely related.
-  
+
 * There are a set of four quantum numbers, which determine the characteristic of an atom. For details on these quantum numbers, please go through this [link](https://en.wikipedia.org/wiki/Quantum_number){:target="_blank"}.
 
 * The principal quantum number (n) defines the main energy level known as shell.
@@ -15,7 +15,7 @@ title: Periodicity | Electronic configuration and periodic table
 
 * An element's location in the Periodic Table reflects the quantum numbers of the last orbital filled.
 
-![Modern periodic table](images/modern_periodic_table.png)
+![Modern periodic table](images/modern_periodic_table.png){ loading=lazy }
 
 Image Credit: [https://en.wikipedia.org/wiki/Periodic_table](https://en.wikipedia.org/wiki/Periodic_table){:target="_blank"}
 
@@ -40,13 +40,13 @@ Image Credit: [https://en.wikipedia.org/wiki/Periodic_table](https://en.wikipedi
 ??? question "How would you justify the presence of 18 elements in the 5th period of the Periodic Table?"
 
     For n = 5, l = 0, 1, 2, 3. Here, l refers to azimuthal quantum number.
-    
+
     General Electronic configuration of element in group 5 is:
-    
+
     1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>3d<sup>10</sup>4s<sup>2</sup>4p<sup>6</sup>5s<sup>1-2</sup>4d<sup>1-10</sup>5p<sup>1-6</sup>
-    
+
     We can see that 5s can accommodate a maximum of 2 electrons, 4d can have a maximum of 10 electrons and 5p can have 6 at most electrons.
-                
+
     Thus, the number of electrons contained in the valence shell is at most 18, which justifies the presence of 18 elements in the 5th period of the Periodic Table.
 
 ## Groupwise Electronic Configurations
@@ -57,7 +57,7 @@ Image Credit: [https://en.wikipedia.org/wiki/Periodic_table](https://en.wikipedi
 
 * We can classify the elements into four blocks viz., s-block, p-block, d-block and f-block depending on the type of atomic orbitals that are being filled with electrons.
 
-![Modern periodic table](images/blocks.png)
+![Modern periodic table](images/blocks.png){ loading=lazy }
 
 * We notice two exceptions to this categorisation. Strictly, helium belongs to the s-block but its positioning in the p-block along with other group 18 elements is justified because it has a completely filled valence shell (1s<sup>2</sup>) and as a result, exhibits properties characteristic of other noble gases.
 

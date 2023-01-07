@@ -24,7 +24,7 @@ In addition to dividing elements into s, p, d and f blocks, elements can also be
     There are some elements whose characteristics lie between metals and non-metals and are called semi-metals or metalloids.
     The examples of metalloids are silicon, germanium, arsenic, antimony and tellurium.
 
-![Modern periodic table](images/modern_periodic_table.png)
+![Modern periodic table](images/modern_periodic_table.png){ loading=lazy }
 
 Image Credit: [https://en.wikipedia.org/wiki/Periodic_table](https://en.wikipedia.org/wiki/Periodic_table){:target="_blank"}
 
@@ -33,5 +33,5 @@ Image Credit: [https://en.wikipedia.org/wiki/Periodic_table](https://en.wikipedi
 ??? question "Considering the atomic number and position in the periodic table, arrange the following elements in the increasing order of metallic character : Si, Be, Mg, Na, P."
 
     We know that metallic character increases down the group and decreases across the period.
-    
+
     So, the order of increasing metallic character is P < Si < Be < Mg < Na.

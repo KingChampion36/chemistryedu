@@ -6,7 +6,7 @@ title: Periodicity | Trends in physical properties
 
 There are many patterns and trends in physical properties of elements which can be observed in the periodic table.
 
-![Modern periodic table](images/modern_periodic_table.png)
+![Modern periodic table](images/modern_periodic_table.png){ loading=lazy }
 
 Image Credit: [https://en.wikipedia.org/wiki/Periodic_table](https://en.wikipedia.org/wiki/Periodic_table){:target="_blank"}
 
@@ -18,11 +18,11 @@ Image Credit: [https://en.wikipedia.org/wiki/Periodic_table](https://en.wikipedi
 * In this article, we will refer both types of radii as atomic radii for simplicity.
 * The atomic radius increases down the group because of addition of new shells as we move down the group.
 
-![Atomic radius variation down the group](images/atomic_radius2.png)
+![Atomic radius variation down the group](images/atomic_radius2.png){ loading=lazy }
 
 * The atomic radius decreases across the period because within the period the outer electrons are in the same valence shell and the effective nuclear charge increases as the atomic number increases resulting in the increased attraction of electrons to the nucleus.
 
-![Atomic radius variation across period](images/atomic_radius1.png)
+![Atomic radius variation across period](images/atomic_radius1.png){ loading=lazy }
 
 * Atomic radius of noble gas is very large because being monoatomic, their non-bonded radius value is very high.
 
@@ -52,7 +52,7 @@ Image Credit: [https://en.wikipedia.org/wiki/Periodic_table](https://en.wikipedi
     $$X(g) &rarr; X^+(g) + e^-$$
 
 * Second ionization enthalpy is the energy required to remove second outermost electron from a cation (with +1 charge) in gaseous state.
-  
+
 !!! tip ""
 
     $$X^+(g) &rarr; X^{2+}(g) + e^-$$
@@ -65,7 +65,7 @@ Image Credit: [https://en.wikipedia.org/wiki/Periodic_table](https://en.wikipedi
 
 * Shielding effect is generally more powerful in alkali metals and alkaline earth metals because of noble gas configuration in inner shells. Hence, they readily lose electrons.
 
-![Ionization enthalpy across period](images/ionization_enthalpy1.png)
+![Ionization enthalpy across period](images/ionization_enthalpy1.png){ loading=lazy }
 
 * From the graph, we can see that the first ionization enthalpy of boron is slightly less than beryllium although boron has higher nuclear charge. When we consider the same principal quantum level, an s-electron is attracted to the nucleus
   more than a p-electron. In beryllium, the electron removed during the ionization is an s-electron whereas the electron removed during ionization of boron is a p-electron. The penetration of a 2s-electron to the nucleus is
@@ -77,7 +77,7 @@ Image Credit: [https://en.wikipedia.org/wiki/Periodic_table](https://en.wikipedi
 
 * Electron gain enthalpy decreases down the group because outermost electrons get farther from the nucleus making them easier to remove.
 
-![Ionization enthalpy down the group](images/ionization_enthalpy2.png)
+![Ionization enthalpy down the group](images/ionization_enthalpy2.png){ loading=lazy }
 
 ## Electron Gain Enthalpy
 
