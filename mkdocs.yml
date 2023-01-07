@@ -89,6 +89,10 @@ nav:
           - Graph Based Questions: physical-chemistry/thermodynamics/graph-based-questions.md
           - Polytropic Process: physical-chemistry/thermodynamics/polytropic-process.md
           - Spontaneous and Non-Spontaneous Processes: physical-chemistry/thermodynamics/spontaneous-and-non-spontaneous-processes.md
+          - Entropy: physical-chemistry/thermodynamics/entropy.md
+          - Questions based on Entropy: physical-chemistry/thermodynamics/questions-based-on-entropy.md
+          - Carnot Cycle and Second Law of Thermodynamics: physical-chemistry/thermodynamics/carnot-cycle-and-second-law-of-thermodynamics.md
+          - Gibbs Free Energy and Third Law of Thermodynamics: physical-chemistry/thermodynamics/gibbs-free-energy-and-third-law-of-thermodynamics.md
       - Chemical Equilibrium:
           - Introduction: physical-chemistry/chemical-equilibrium/introduction.md
           - Law of Mass Action: physical-chemistry/chemical-equilibrium/law-of-mass-action.md
