@@ -4,7 +4,6 @@ title: Periodicity | Electronic configuration and periodic table
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Periodicity | Electronic configuration and periodic table
 
-
 * We can predict the properties of an atom by seeing its electronic configuration. Thus, electronic configuration and periodic table are closely related.
 
 * There are a set of four quantum numbers, which determine the characteristic of an atom. For details on these quantum numbers, please go through this [link](https://en.wikipedia.org/wiki/Quantum_number){:target="_blank"}.

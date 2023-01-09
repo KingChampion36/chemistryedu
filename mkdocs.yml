@@ -109,6 +109,11 @@ nav:
           - Metals, Non-Metals and Metalloids: inorganic-chemistry/periodicity/metals-non-metals-and-metalloids.md
           - Trends in Physical Properties: inorganic-chemistry/periodicity/trends-in-physical-properties.md
           - Trends in Chemical Properties: inorganic-chemistry/periodicity/trends-in-chemical-properties.md
+      - p-block Elements:
+        - Group 17:
+          - Physical and Atomic Properties: inorganic-chemistry/p-block-elements/group-17/physical-and-atomic-properties.md
+          - Chemical Properties: inorganic-chemistry/p-block-elements/group-17/chemical-properties.md
+          - Oxoacids and Interhalogen Compounds: inorganic-chemistry/p-block-elements/group-17/oxoacids-and-interhalogen-compounds.md
   - Policies:
     - Terms and Conditions: policies/terms-and-conditions.md
     - Disclaimer: policies/disclaimer.md
