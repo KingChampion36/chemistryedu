@@ -110,6 +110,6 @@ XX'<sub>7</sub>	| IF<sub>7</sub>     |	Colourless gas                      |	 Pe
 
     The structure of BrF<sub>3</sub> is:
 
-    ![Geometry of BrF3](images/BrF3.webp)
+    ![Geometry of BrF3](images/BrF3.webp){loading=lazy}
 
     **Geometry:** Trigonal bipyrmaidal, **Shape:** Bent T-shaped, **Hybridization:** sp<sup>3</sup>d
