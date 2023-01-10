@@ -110,14 +110,14 @@ nav:
           - Trends in Physical Properties: inorganic-chemistry/periodicity/trends-in-physical-properties.md
           - Trends in Chemical Properties: inorganic-chemistry/periodicity/trends-in-chemical-properties.md
       - p-block Elements:
-        - Group 17:
-            - Physical and Atomic Properties: inorganic-chemistry/p-block-elements/group-17/physical-and-atomic-properties.md
-            - Chemical Properties: inorganic-chemistry/p-block-elements/group-17/chemical-properties.md
-            - Oxoacids and Interhalogen Compounds: inorganic-chemistry/p-block-elements/group-17/oxoacids-and-interhalogen-compounds.md
-            - Important Compounds - Chlorine and HCl: inorganic-chemistry/p-block-elements/group-17/important-compounds-chlorine-and-hydrogen-chloride.md
-        - Group 18:
-            - Physical and Atomic Properties: inorganic-chemistry/p-block-elements/group-18/physical-and-atomic-properties.md
-            - Chemical Properties: inorganic-chemistry/p-block-elements/group-18/chemical-properties.md
+          - Group 17:
+              - Physical and Atomic Properties: inorganic-chemistry/p-block-elements/group-17/physical-and-atomic-properties.md
+              - Chemical Properties: inorganic-chemistry/p-block-elements/group-17/chemical-properties.md
+              - Oxoacids and Interhalogen Compounds: inorganic-chemistry/p-block-elements/group-17/oxoacids-and-interhalogen-compounds.md
+              - Important Compounds - Chlorine and HCl: inorganic-chemistry/p-block-elements/group-17/important-compounds-chlorine-and-hydrogen-chloride.md
+          - Group 18:
+              - Physical and Atomic Properties: inorganic-chemistry/p-block-elements/group-18/physical-and-atomic-properties.md
+              - Chemical Properties: inorganic-chemistry/p-block-elements/group-18/chemical-properties.md
   - Policies:
     - Terms and Conditions: policies/terms-and-conditions.md
     - Disclaimer: policies/disclaimer.md
