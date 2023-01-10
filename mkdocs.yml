@@ -119,7 +119,7 @@ nav:
               - Physical and Atomic Properties: inorganic-chemistry/p-block-elements/group-18/physical-and-atomic-properties.md
               - Chemical Properties: inorganic-chemistry/p-block-elements/group-18/chemical-properties.md
   - Policies:
-    - Terms and Conditions: policies/terms-and-conditions.md
-    - Disclaimer: policies/disclaimer.md
-    - Privacy Policy: policies/privacy-policy.md
+      - Terms and Conditions: policies/terms-and-conditions.md
+      - Disclaimer: policies/disclaimer.md
+      - Privacy Policy: policies/privacy-policy.md
   - Contact Us: contact-us/index.md
