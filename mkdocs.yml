@@ -101,6 +101,12 @@ nav:
           - Degree of Dissociation: physical-chemistry/chemical-equilibrium/degree-of-dissociation.md
           - Reaction Quotient: physical-chemistry/chemical-equilibrium/reaction-quotient.md
           - Le Chatelier's Principle: physical-chemistry/chemical-equilibrium/le-chateliers-principle.md
+      - Solution:
+          - Introduction: physical-chemistry/solution/introduction.md
+          - Concentration Terms: physical-chemistry/solution/concentration-terms.md
+          - Questions based on Concentration Terms: physical-chemistry/solution/questions-based-on-concentration-terms.md
+          - Solubility of Solid in Liquid: physical-chemistry/solution/solubility-of-solid-in-liquid.md
+          - Solubility of Gas in Liquid: physical-chemistry/solution/solubility-of-gas-in-liquid.md
   - Inorganic Chemistry:
       - Periodicity:
           - Periodic Classification: inorganic-chemistry/periodicity/periodic-classification.md
