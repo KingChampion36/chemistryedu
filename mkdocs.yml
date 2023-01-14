@@ -29,7 +29,7 @@ extra:
 # TODO: Uncomment analytics later
 #  analytics:
 #    provider: google
-#    property: G-XYZX98MFG8
+#    property: !ENV GOOGLE_ANALYTICS_KEY
   consent:
     title: Cookie consent
     description: >-
