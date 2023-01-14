@@ -76,12 +76,12 @@ Conductivity and resistivity depend on following factors:
 ### Electrolytic or Ionic Conductance
 
 * The conductance of electricity by ions present in the solutions is called electrolytic or ionic conductance.
-  * The conductivity of electrolytic (ionic) solutions depends on following factors:
-      1. the nature of electrolyte added.
-      2. size of the ions produced and their solvation.
-      3. the nature of the solvent and its viscosity.
-      4. concentration of the electrolyte.
-      5. temperature (it increases with increase in temperature).
+* The conductivity of electrolytic (ionic) solutions depends on following factors:
+    1. the nature of electrolyte added.
+    2. size of the ions produced and their solvation.
+    3. the nature of the solvent and its viscosity.
+    4. concentration of the electrolyte.
+    5. temperature (it increases with increase in temperature).
 
 ## Measurement of the conductivity of ionic solutions
 

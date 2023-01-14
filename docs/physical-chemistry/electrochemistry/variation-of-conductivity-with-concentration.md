@@ -42,7 +42,7 @@ description: Conductivity always decreases with decrease in concentration both f
 
 ## Variation of Molar Conductivity with Concentration in Strong Electrolytes
 
-![Variation of Molar Conductivity with Concentration in Strong Electrolytes](images/strong_electrolyte_molar_conductivity.webp)
+![Variation of Molar Conductivity with Concentration in Strong Electrolytes](images/strong_electrolyte_molar_conductivity.webp){loading=lazy}
 
 * For strong electrolytes, &lambda;<sub>m</sub> increases slowly with dilution and can be represented by the equation:
 
@@ -70,7 +70,7 @@ description: Conductivity always decreases with decrease in concentration both f
 
 ## Variation of Molar Conductivity with Concentration in Weak Electrolytes
 
-![Variation of Molar Conductivity with Concentration in Weak Electrolytes](images/molar_conductivity_in_weak_electrolyte.webp)
+![Variation of Molar Conductivity with Concentration in Weak Electrolytes](images/molar_conductivity_in_weak_electrolyte.webp){loading=lazy}
 
 * For weak electrolytes, molar conductivity (&lambda;<sub>m</sub>) increases steeply on dilution, especially near lower concentrations. Therefore, limiting molar conductivity (&lambda;<sup>0</sup><sub>m</sub>) cannot be
   obtained by extrapolation of &lambda;<sub>m</sub> to zero concentration.
