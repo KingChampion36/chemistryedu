@@ -157,6 +157,12 @@ nav:
           - Azeotropes and Zeotropes: physical-chemistry/solution/azeotropes-and-zeotropes.md
           - Solution of Solids in Liquid: physical-chemistry/solution/solution-of-solids-in-liquids.md
           - Colligative Properties of Dilute Solution: physical-chemistry/solution/colligative-properties-of-dilute-solutions.md
+      - Electrochemistry:
+          - Introduction: physical-chemistry/electrochemistry/introduction.md
+          - Faraday's Laws of Electrolysis: physical-chemistry/electrochemistry/faraday's-laws-of-electrolysis.md
+          - Electrochemical Cells: physical-chemistry/electrochemistry/electrochemical-cells.md
+          - Electrode Potential: physical-chemistry/electrochemistry/electrode-potential.md
+          - EMF of a Cell: physical-chemistry/electrochemistry/emf-of-a-cell.md
   - Inorganic Chemistry:
       - Periodicity:
           - Periodic Classification: inorganic-chemistry/periodicity/periodic-classification.md
