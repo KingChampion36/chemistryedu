@@ -98,8 +98,15 @@ theme:
       accent: teal
 
   features:
-    - search.suggest
     - navigation.prune
+    - navigation.tabs
+    - navigation.top
+    - navigation.tabs.sticky
+    - navigation.tracking
+    - navigation.footer
+    - toc.follow
+    - search.highlight
+    - search.suggest
 
 nav:
   - Home: index.md
