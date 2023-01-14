@@ -24,7 +24,6 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
 
-
 extra:
   generator: false
 # TODO: Uncomment analytics later
@@ -38,6 +37,11 @@ extra:
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to
       make our documentation better.
+# TODO: Uncomment analytics later
+#    cookies:
+#      analytics:
+#        name: Google Analytics
+#        checked: true
 
 extra_css:
   - stylesheets/extra.css
@@ -50,6 +54,16 @@ extra_javascript:
 plugins:
   - glightbox
   - search
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+        remove_comments: true
+      js_files:
+        - javascripts/mathjax.js
+      css_files:
+        - stylesheets/extra.css
 
 theme:
   name: material
@@ -85,12 +99,11 @@ theme:
 
   features:
     - search.suggest
-    - navigation.indexes
+    - navigation.prune
 
 nav:
   - Home: index.md
   - Physical Chemistry:
-      - physical-chemistry/index.md
       - Mole Concept:
           - Introduction: physical-chemistry/mole-concept/introduction.md
           - Calculation of Moles: physical-chemistry/mole-concept/calculation-of-moles.md
