@@ -163,6 +163,10 @@ nav:
           - Electrochemical Cells: physical-chemistry/electrochemistry/electrochemical-cells.md
           - Electrode Potential: physical-chemistry/electrochemistry/electrode-potential.md
           - EMF of a Cell: physical-chemistry/electrochemistry/emf-of-a-cell.md
+          - Nernst Equation: physical-chemistry/electrochemistry/nernst-equation.md
+          - Questions Based on Nernst Equation: physical-chemistry/electrochemistry/questions-based-on-nernst-equation.md
+          - Conductance of Electrolytic Solutions: physical-chemistry/electrochemistry/conductance-of-electrolytic-solutions.md
+          - Variation of Conductivity and Molar Conductivity with Concentration: physical-chemistry/electrochemistry/variation-of-conductivity-with-concentration.md
   - Inorganic Chemistry:
       - Periodicity:
           - Periodic Classification: inorganic-chemistry/periodicity/periodic-classification.md
