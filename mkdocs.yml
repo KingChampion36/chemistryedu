@@ -119,6 +119,10 @@ nav:
           - Vapour Density: physical-chemistry/mole-concept/vapour-density.md
           - Empirical and Molecular Formula: physical-chemistry/mole-concept/empirical-and-molecular-formula.md
           - Concentration Terms: physical-chemistry/mole-concept/concentration-terms.md
+      - Gaseous State:
+          - Introduction: physical-chemistry/gaseous-state/introduction.md
+          - Gas Laws: physical-chemistry/gaseous-state/gas-laws.md
+          - Ideal Gas Equation: physical-chemistry/gaseous-state/ideal-gas-equation.md
       - Thermodynamics:
           - Introduction: physical-chemistry/thermodynamics/introduction.md
           - Thermodynamic Processes: physical-chemistry/thermodynamics/thermodynamic-processes.md
