@@ -190,6 +190,13 @@ nav:
           - Group 18:
               - Physical and Atomic Properties: inorganic-chemistry/p-block-elements/group-18/physical-and-atomic-properties.md
               - Chemical Properties: inorganic-chemistry/p-block-elements/group-18/chemical-properties.md
+      - d- and f-block Elements:
+          - d-block Elements:
+              - Transition Elements: inorganic-chemistry/d-and-f-block-elements/d-block/transition-elements.md
+              - Atomic and Ionic Sizes: inorganic-chemistry/d-and-f-block-elements/d-block/atomic-and-ionic-sizes.md
+              - Ionization Enthalpy: inorganic-chemistry/d-and-f-block-elements/d-block/ionization-enthalpy.md
+              - Oxidation States: inorganic-chemistry/d-and-f-block-elements/d-block/oxidation-states.md
+              - Magnetic, Catalytic and Other Properties: inorganic-chemistry/d-and-f-block-elements/d-block/magnetic-catalytic-and-other-properties.md
   - Policies:
       - Terms and Conditions: policies/terms-and-conditions.md
       - Disclaimer: policies/disclaimer.md
