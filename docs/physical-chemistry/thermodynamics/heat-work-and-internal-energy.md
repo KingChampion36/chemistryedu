@@ -108,7 +108,7 @@ title: Thermodynamics | Heat, Work and Internal Energy
 
     $$&Delta;U = nC_v(T_2 - T_1)$$
 
-    $$where,\ C_v = Molar\ heat\ capacity\ at\ constant\ volume
+    $$where,\ C_v = Molar\ heat\ capacity\ at\ constant\ volume$$
 
 !!! note "Note"
 
