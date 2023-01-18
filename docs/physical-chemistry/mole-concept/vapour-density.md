@@ -13,7 +13,7 @@ title: Mole Concept | Vapour Density
     $$Vapour\ Density = {&rho;_{gas} \over &rho;_{H_2}}$$
 
 * Let us consider that in a container of capacity 'V' litres, we have 'n' moles of H<sub>2</sub> gas and in another container of capacity 'V' litres, we have 'n' moles of a gas of molecular mass 'M'.
-  
+
 * Then, the density of H<sub>2</sub> gas is given by:
 
 !!! tip ""
@@ -52,17 +52,17 @@ title: Mole Concept | Vapour Density
 
 !!! example "Examples"
 
-    * $Relative\ density\ of\ gas\ of\ molecular\ mass\ M\ w.r.t\ O_2 = {M \over 32}$
-    * $Relative\ density\ of\ gas\ of\ molecular\ mass\ M\ w.r.t\ N_2 = {M \over 28}$
+    * $$Relative\ density\ of\ gas\ of\ molecular\ mass\ M\ w.r.t\ O_2 = {M \over 32}$$
+    * $$Relative\ density\ of\ gas\ of\ molecular\ mass\ M\ w.r.t\ N_2 = {M \over 28}$$
 
 ## Relative Density of a gas w.r.t air
 
 !!! tip ""
 
-    $Relative\ density\ of\ gas\ of\ molecular\ mass\ M\ w.r.t\ air = {M \over M_{air}}$
-    
+    $$Relative\ density\ of\ gas\ of\ molecular\ mass\ M\ w.r.t\ air = {M \over M_{air}}$$
+
     Here, M<sub>air</sub> = Average molecular mass of air
-              
+
 * Air consists of approximately 20% oxygen and 80% nitrogen. So, calculating average molecular mass of air:
 
 !!! tip ""

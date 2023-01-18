@@ -7,7 +7,7 @@ description: In this article, we will solve some questions related to Nernst Equ
 
 ## Questions
 
-??? question "Represent the cell in which the following reaction takes place: <br>$Mg_{(s)} + 2Ag^+_{(0.0001\ M)} &rarr; Mg^{2+}_{(0.130\ M)} + 2Ag_{(s)}$ <br>Calculate its E<sub>cell</sub> if $E^0_{cell} = 3.17\ V$."
+??? question "Represent the cell in which the following reaction takes place: <br>Mg<sub>(s)</sub> + 2Ag<sup>+</sup><sub>(0.0001 M)</sub> &rarr; Mg<sup>2+</sup><sub>(0.130 M)</sub> + 2Ag<sub>(s)</sub> <br>Calculate its E<sub>cell</sub> if E<sup>0</sup><sub>cell</sub> = 3.17 V."
 
     * The half cell reactions can be written as:
 
@@ -31,7 +31,7 @@ description: In this article, we will solve some questions related to Nernst Equ
 
     $$E_{cell} = 3.17 - {0.0591 \over 2}log(1.3 \times 10^7) = 2.96\ V$$
 
-??? question "Calculate the emf of cell in which the following reaction takes place: <br>$Ni_{(s)} + 2Ag^+_{(0.002\ M)} &rarr; Ni^{2+}_{(0.160\ M)} + 2Ag_{(s)}$ <br>Given that: $E^0_{cell} = 1.05\ V$."
+??? question "Calculate the emf of cell in which the following reaction takes place: <br>Ni<sub>(s)</sub> + 2Ag<sup>+</sup><sub>(0.002 M)</sub> &rarr; Ni<sup>2+</sup><sub>(0.160 M)</sub> + 2Ag<sub>(s)</sub> <br>Given that: E<sup>0</sup><sub>cell</sub> = 1.05 V."
 
     * The half cell reactions can be written as:
 
@@ -55,7 +55,7 @@ description: In this article, we will solve some questions related to Nernst Equ
 
     $$E_{cell} = 1.05 - {0.0591 \over 2}log(4 \times 10^4) = 0.91\ V$$
 
-??? question "Calculate the equilibrium constant of the reaction: <br>$Cu_{(s)} + 2Ag^+_{(aq)} &rarr; Cu^{2+}_{(aq)} + 2Ag_{(s)}$ <br>Given that: $E^0_{cell} = 0.46\ V$."
+??? question "Calculate the equilibrium constant of the reaction: <br>Cu<sub>(s)</sub> + 2Ag<sup>+</sup><sub>(aq)</sub> &rarr; Cu<sup>2+</sup><sub>(aq)</sub> + 2Ag<sub>(s)</sub> <br>Given that: E<sup>0</sup><sub>cell</sub> = 0.46 V."
 
     * The half cell reactions can be written as:
 
@@ -73,7 +73,7 @@ description: In this article, we will solve some questions related to Nernst Equ
 
     $$K_c = 3.92 \times 10^{15}$$
 
-??? question "The cell in which the following reaction occurs: <br>$2Fe^{3+}_{(aq)} + 2I^-_{(aq)} &rarr; 2Fe^+_{(aq)} + I_{2(aq)}$ <br>has $E^0_{cell} = 0.236\ V$ at 298 K. Calculate the standard Gibbs energy and the equilibrium constant of the reaction."
+??? question "The cell in which the following reaction occurs: <br>2Fe<sup>3+</sup><sub>(aq)</sub> + 2I<sup>-</sup><sub>(aq)</sub> &rarr; 2Fe<sup>+</sup><sub>(aq)</sub> + I<sub>2(aq)</sub> <br>has E<sup>0</sup><sub>cell</sub> = 0.236 V$ at 298 K. Calculate the standard Gibbs energy and the equilibrium constant of the reaction."
 
     * The half cell reactions can be written as:
 
@@ -101,7 +101,7 @@ description: In this article, we will solve some questions related to Nernst Equ
 
     $$K_c = 9.6 \times 10^7$$
 
-??? question "The standard electrode potential for Daniell cell is 1.1 V. Calculate the standard Gibbs Energy for the reaction: <br>$Zn_{(s)} + Cu^{2+}_{(aq)} &rarr; Zn^{2+}_{(aq)} + Cu_{(s)}$"
+??? question "The standard electrode potential for Daniell cell is 1.1 V. Calculate the standard Gibbs Energy for the reaction: <br>Zn<sub>(s)</sub> + Cu<sup>2+</sup><sub>(aq)</sub> &rarr; Zn<sup>2+</sup><sub>(aq)</sub> + Cu<sub>(s)</sub>"
 
     Number of electrons exchanged, n = 2
 
