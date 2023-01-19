@@ -9,7 +9,7 @@ Documentation for intermediate level chemistry.
 
 ## Live website
 
-See live website [here](https://kingchampion36.github.io/chemistryedu/).
+See live website [here](https://chemistryedu.org).
 
 ## Build and run locally
 
