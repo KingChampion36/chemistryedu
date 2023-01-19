@@ -1,5 +1,6 @@
 ---
 title: Chemical Equilibrium | Introduction
+description: Equilibrium is defined as the state of a system in which measurable properties of a system like colour, concentration, pressure etc become constant.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Chemical Equilibrium | Introduction
