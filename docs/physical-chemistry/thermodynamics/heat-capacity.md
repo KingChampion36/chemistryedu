@@ -160,4 +160,4 @@ Poisson's ratio is defined as the ratio of molar heat capacity at constant press
 
     * &gamma; = C<sub>p</sub> / C<sub>v</sub>
 
-    Here, U = internal energy, C<sub>v</sub> = molar heat capacity at constant volume, C<sub>p</sub> = molar heat capacity at constant pressure, n = moles, q = heat, T = temperature, &gamma; = Poisson's ration
+    Here, U = internal energy, C<sub>v</sub> = molar heat capacity at constant volume, C<sub>p</sub> = molar heat capacity at constant pressure, n = moles, q = heat, T = temperature, &gamma; = Poisson's ratio
