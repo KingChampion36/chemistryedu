@@ -1,5 +1,6 @@
 ---
 title: Periodicity | Periodic classification
+description: Periodic classification is a method to group similar elements together and separating them from dissimilar elements.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Periodicity | Periodic classification

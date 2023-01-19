@@ -30,6 +30,10 @@ pip3 install mkdocs-material
 pip3 install mkdocs-glightbox
 ```
 
+```shell
+pip3 install mkdocs-minify-plugin
+```
+
 5. Preview the website locally
 
 ```shell

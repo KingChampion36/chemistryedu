@@ -1,6 +1,6 @@
 ![ChemistryEdu](docs/images/logo-lite.png)
 
-An Open source project containing documentations for intermediate level chemistry.
+Documentation for intermediate level chemistry.
 
 [build_icon]: https://github.com/KingChampion36/chemistryedu/actions/workflows/ci.yml/badge.svg?branch=master
 [build_url]: https://github.com/KingChampion36/chemistryedu/actions
@@ -14,7 +14,3 @@ See live website [here](https://kingchampion36.github.io/chemistryedu/).
 ## Build and run locally
 
 See instructions [here](SETUP.md).
-
-## Want to contribute?
-
-See instructions [here](CONTRIBUTING.md).
