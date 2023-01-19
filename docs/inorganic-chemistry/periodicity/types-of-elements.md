@@ -1,6 +1,6 @@
 ---
 title: Periodicity | Types of Elements
-description: Based on electronic configuration, elements have been classified into four broad types: s-block, p-block, d-block and f-block.
+description: Based on electronic configuration, elements have been classified into four broad types - s-block, p-block, d-block and f-block.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Periodicity | Types of Elements
