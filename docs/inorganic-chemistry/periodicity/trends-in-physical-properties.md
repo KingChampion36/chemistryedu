@@ -1,5 +1,6 @@
 ---
 title: Periodicity | Trends in physical properties
+description: There are many patterns and trends in physical properties which can be observed in the periodic table.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Periodicity | Trends in physical properties

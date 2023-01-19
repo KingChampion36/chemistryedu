@@ -1,5 +1,6 @@
 ---
 title: Periodicity | Electronic configuration and periodic table
+description: The distribution of electrons into orbitals of an atom is called its electronic configuration. An element's location in the Periodic Table reflects the quantum numbers of the last orbital filled.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Periodicity | Electronic configuration and periodic table

@@ -1,5 +1,6 @@
 ---
 title: Periodicity | Metals, Non-Metals and Metalloids
+description: In addition to dividing elements into s, p, d and f blocks, elements can also be divided into three categories: metals, non-metals and metalloids.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Periodicity | Metals, Non-Metals and Metalloids
