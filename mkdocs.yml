@@ -27,10 +27,9 @@ markdown_extensions:
 
 extra:
   generator: false
-# TODO: Uncomment analytics later
-#  analytics:
-#    provider: google
-#    property: !ENV GOOGLE_ANALYTICS_KEY
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
   consent:
     title: Cookie consent
     description: >-
