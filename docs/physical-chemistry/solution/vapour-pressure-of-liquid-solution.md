@@ -1,5 +1,6 @@
 ---
 title: Solution | Vapour Pressure
+description: The pressure exerted by vapours of a liquid over its liquid surface when the liquid and vapours are in equilibrium is known as vapour pressure.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Solution | Vapour Pressure of Liquid Solution

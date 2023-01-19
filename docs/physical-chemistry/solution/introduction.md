@@ -1,5 +1,6 @@
 ---
 title: Solution | Introduction
+description: Solutions are homogeneous mixtures of two or more components, i.e, the composition and properties of all the components are uniform throughout the mixture.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Solution | Introduction

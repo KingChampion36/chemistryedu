@@ -1,5 +1,6 @@
 ---
 title: Solution | Colligative Properties of Dilute Solution
+description: Colligative properties are the properties which depend on the number of solute particles present in the solution irrespective of nature of solute.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Solution | Colligative Properties of Dilute Solution

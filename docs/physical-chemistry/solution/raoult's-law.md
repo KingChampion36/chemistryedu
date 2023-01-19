@@ -1,5 +1,6 @@
 ---
 title: Solution | Raoult's Law
+description: The partial pressure or vapour pressure of any volatile constituent of solution at a given temperature is equal to the product of vapour pressure of pure constituent and its mole fraction in the solution.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Solution | Raoult's Law
