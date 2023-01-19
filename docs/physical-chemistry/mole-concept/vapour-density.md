@@ -1,5 +1,6 @@
 ---
 title: Mole Concept | Vapour Density
+description: Density of a gas relative to hydrogen is called its vapour density.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Mole Concept | Vapour Density

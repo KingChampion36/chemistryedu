@@ -1,5 +1,6 @@
 ---
 title: Mole Concept | Introduction
+description: In this article, we will introduce ourselves with mole concept.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Mole Concept | Introduction
@@ -17,8 +18,8 @@ title: Mole Concept | Introduction
 ## Atomic Number and Mass Number
 
 !!! info "Any atom can be represented by:"
-    $$X_p^m$$ 
-    
+    $$X_p^m$$
+
     Here, p = Atomic number and m = Mass number
 
 * Atomic number represents the number of protons in an atom. If atomic number of two atoms are same, then they represent the same atom although they may be isotopes. For example, $C_6^{12}$ and $C_6^{14}$ both represent
@@ -42,9 +43,9 @@ carbons and are isotopes of carbon.
 
 !!! tip ""
     If Z = atomic number, m<sub>p</sub> = mass of proton, m<sub>n</sub> = mass of neutron, A = mass number, M = Mass of atom, then:
-    
+
     $$Zm_p + (A-Z) m_n = M + B.E $$
-                  
+
     where, B.E = Binding energy of atom
 
 ## Mass of one atom
@@ -72,22 +73,22 @@ carbons and are isotopes of carbon.
 
     $$1\ a.m.u = 1.67 \times 10^{-24} g$$
 
-* Atomic mass unit (a.m.u or u) is the standard unit relative to which mass of every atom can be measured. 
+* Atomic mass unit (a.m.u or u) is the standard unit relative to which mass of every atom can be measured.
 Thus, mass number is the relative number which says how many times an atom is heavier than ${1 \over 12} \times Mass\ of\ one\ C^{12} atom$.
 * Atomic mass unit (a.m.u or u) is used to measure mass of atom or masses comparable to mass of atoms.
-  
+
 !!! tip "Remember:"
 
     $$1\ a.m.u. = {1 \over 12} \times Mass\ of one\ C^{12} atom$$
-    
+
     $$1\ a.m.u. = {1 \over 6.022 \times 10^{23}} g = {1 \over {N_A}} g$$
-    
+
     $$1\ a.m.u = 1.67 \times 10^{-24} g$$
-    
+
     Here, N<sub>A</sub> = Avogadro Number = 6.022 x 10<sup>23</sup>
 
 ## Question
 
 ??? question "If mass of protons and neutrons are known, why do we not write: Mass of one C<sup>12</sup> atom = 6 x Mass of proton + 6 x Mass of neutron?"
-    
+
     It is because the sum of masses of all nucleons is greater than the actual mass of atom due to binding energy.

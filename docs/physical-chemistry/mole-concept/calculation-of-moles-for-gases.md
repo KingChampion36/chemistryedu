@@ -1,5 +1,6 @@
 ---
 title: Mole Concept | Calculation of Number of Moles for an Ideal Gas
+description: In this article, we will see how can we calculate number of moles for an ideal gas. One mole is numerically equal to Avogadro number or 6.022 x 10<sup>23</sup> substances.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Mole Concept | Calculation of Number of Moles for an Ideal Gas
@@ -9,7 +10,7 @@ title: Mole Concept | Calculation of Number of Moles for an Ideal Gas
 Number of moles of an ideal gas can be calculated by ideal gas equation:
 
 !!! tip ""
-          
+
     $PV = nRT$
     <hr>
     Here, P = Pressure<br>
@@ -76,21 +77,21 @@ Number of moles of an ideal gas can be calculated by ideal gas equation:
 ??? question "An ideal nitrogen gas is kept in a container of 10 litres under 1.5 atm pressure at 300 K. Calculate (a) number of moles of nitrogen gas (b) mass of nitrogen gas. Molecular mass of nitrogen = 28 u."
 
     (a) The number of moles of ideal nitrogen gas can be calculated by ideal gas equation:
-              
+
     $$PV = nRT$$
-              
+
     $$1.5 \times 10 = n \times 0.0821 \times 300$$
-              
+
     $$n = {{1.5 \times 10} \over {0.0821 \times 300}}$$
-              
+
     $$n = {500 \over 821}$$
-              
+
     (b) The mass of nitrogen can be calculated by:
-              
+
     $$Mass = Number\ of\ moles \times molecular\ mass$$
-              
+
     $$Mass\ of\ N_2\ gas = {500 \over 821} \times 28\ grams$$
-              
+
     $$Mass\ of\ N_2\ gas = {1400 \over 821}\ grams$$
 
 ??? question "Calculate in 5.6 L ideal N<sub>2</sub> gas at STP, (a) number of moles (b) mass."
@@ -98,13 +99,13 @@ Number of moles of an ideal gas can be calculated by ideal gas equation:
     (a) The number of moles of ideal nitrogen gas can be calculated by:
 
     $$Moles = {5.6 \over 22.4}$$
-              
+
     $$Moles = 0.25\ L$$
-              
+
     (b) The mass of nitrogen can be calculated by:
 
     $$Mass = Number\ of\ moles \times molecular\ mass$$
-    
+
     $$Mass\ of\ N_2\ gas = 0.25 \times 28\ grams$$
-              
+
     $$Mass\ of\ N_2\ gas = 7\ grams$$
