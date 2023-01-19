@@ -1,5 +1,6 @@
 ---
 title: Solution | Solubility of Solid in Liquid
+description: Solubility of a substance can be defined as its maximum amount that can be dissolved in a specified amount of solvent at a specified temperature.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Solution | Solubility of Solid in Liquid

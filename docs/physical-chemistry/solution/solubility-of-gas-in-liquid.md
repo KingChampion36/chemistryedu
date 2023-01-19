@@ -1,5 +1,6 @@
 ---
 title: Solution | Solubility of Gas in Liquid
+description: All gases are soluble in all liquids to some extent depending on pressure.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Solution | Solubility of Gas in Liquid

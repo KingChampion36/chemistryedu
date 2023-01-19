@@ -1,5 +1,6 @@
 ---
 title: Solution | Azeotropes and Zeotropes
+description: Azeotropes are constant boiling mixtures, ie, these mixtures boil at constant temperature without any change in composition.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Solution | Azeotropes and Zeotropes

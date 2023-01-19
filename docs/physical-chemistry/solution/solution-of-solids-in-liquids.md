@@ -1,5 +1,6 @@
 ---
 title: Solution | Solution of Solids in Liquid
+description: For non-volatile solute, partial pressure of solution is equal to partial pressure of solvent in vapour phase.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Solution | Solution of Solids in Liquid

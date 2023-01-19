@@ -1,5 +1,6 @@
 ---
 title: Solution | Ideal and Non-Ideal Solutions
+description: The solutions which obey Raoult's law over the entire range of concentration are known as ideal solutions.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Solution | Ideal and Non-Ideal Solutions

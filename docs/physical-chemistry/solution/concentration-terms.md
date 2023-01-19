@@ -1,5 +1,6 @@
 ---
 title: Solution | Concentration Terms
+description: Concentration Terms are used to express the amount of solute dissolved in a solvent.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Solution | Concentration Terms

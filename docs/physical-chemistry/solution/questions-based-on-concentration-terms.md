@@ -1,5 +1,6 @@
 ---
 title: Solution | Questions based on Concentration Terms
+description: In this article, we will discuss questions based on concentration terms. Concentration Terms are used to express the amount of solute dissolved in a solvent.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Solution | Questions based on Concentration Terms
