@@ -1,5 +1,6 @@
 ---
 title: ChemistryEdu | Terms and Conditions
+description: Terms and Conditions written on this webpage shall manage your use on our website, ChemistryEdu accessible at chemistryedu.org.
 ---
 
 # [![ChemistryEdu Logo](../images/favicon.svg){ align=left, width=3.8% }](../index.md)  ChemistryEdu | Terms and Conditions

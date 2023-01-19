@@ -1,5 +1,6 @@
 ---
 title: Group 17 Elements | Oxoacids and Interhalogen Compounds
+description: An oxoacid can be defined as an acid that contains oxygen and atleast one other element and atleast one hydrogen atom bonded to oxygen.
 ---
 
 # [![ChemistryEdu Logo](../../../images/favicon.svg){ align=left, width=3.8% }](../../../index.md)  Group 17 Elements | Oxoacids and Interhalogen Compounds

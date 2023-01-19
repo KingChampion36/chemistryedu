@@ -1,5 +1,6 @@
 ---
 title: Group 18 Elements | Physical and Atomic Properties
+description: Group 18 elements are also known as noble gases because they have completely filled valence shell orbitals and therefore react with a very few elements only under certain conditions.
 ---
 
 # [![ChemistryEdu Logo](../../../images/favicon.svg){ align=left, width=3.8% }](../../../index.md)  Group 18 Elements | Physical and Atomic Properties

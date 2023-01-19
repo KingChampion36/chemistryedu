@@ -1,5 +1,6 @@
 ---
 title: Thermodynamics | Thermodynamic Processes
+description: There are various thermodynamic processes like isochoric process, isobaric process, isothermal process, adiabatic process and cyclic process.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Thermodynamics | Thermodynamic Processes

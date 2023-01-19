@@ -1,5 +1,6 @@
 ---
 title: ChemistryEdu | Disclaimer
+description: If you require any more information or have any questions about our site's disclaimer, please feel free to contact us.
 ---
 
 # [![ChemistryEdu Logo](../images/favicon.svg){ align=left, width=3.8% }](../index.md)  ChemistryEdu | Disclaimer

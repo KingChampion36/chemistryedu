@@ -1,5 +1,6 @@
 ---
 title: Thermodynamics | Graph Based Questions
+description: In this article, we will see various graph based questions in which first law of thermodynamics can be applied.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Thermodynamics | Graph Based Questions

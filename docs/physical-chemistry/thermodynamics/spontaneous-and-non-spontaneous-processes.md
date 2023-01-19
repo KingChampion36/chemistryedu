@@ -1,5 +1,6 @@
 ---
 title: Thermodynamics | Spontaneous and Non-Spontaneous Processes
+description: The process which occurs on its own is called spontaneous process whereas the process which cannot occur on its own is called non-spontaneous process.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Thermodynamics | Spontaneous and Non-Spontaneous Processes
