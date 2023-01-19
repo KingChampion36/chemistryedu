@@ -1,5 +1,6 @@
 ---
 title: Group 17 Elements | Chemical Properties
+description: In this article, we will discuss chemical properties of group 17 elements like oxidation state, reactivity and oxidizing nature.
 ---
 
 # [![ChemistryEdu Logo](../../../images/favicon.svg){ align=left, width=3.8% }](../../../index.md)  Group 17 Elements | Chemical Properties

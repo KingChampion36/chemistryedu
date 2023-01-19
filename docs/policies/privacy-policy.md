@@ -1,5 +1,6 @@
 ---
 title: ChemistryEdu | Privacy Policy
+description: At ChemistryEdu, accessible from chemistryedu.org, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by chemistryedu and how we use it.
 ---
 
 # [![ChemistryEdu Logo](../images/favicon.svg){ align=left, width=3.8% }](../index.md)  ChemistryEdu | Privacy Policy

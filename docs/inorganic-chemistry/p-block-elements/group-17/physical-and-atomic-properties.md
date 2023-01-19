@@ -1,5 +1,6 @@
 ---
 title: Group 17 Elements | Physical and Atomic Properties
+description: Group 17 elements are also known as halogens. The elements of group 17 are Fluorine(F), Chlorine(Cl), Bromine(Br), Iodine(I) and Astatine(At).
 ---
 
 # [![ChemistryEdu Logo](../../../images/favicon.svg){ align=left, width=3.8% }](../../../index.md)  Group 17 Elements | Physical and Atomic Properties

@@ -1,5 +1,6 @@
 ---
 title: Thermodynamics | Carnot Cycle and Second Law of Thermodynamics
+description: In this article, we will discuss carnot cycle and second law of thermodynamics. Carnot cycle is based on first law of thermodynamics but it helps in defining second law of thermodynamics.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Thermodynamics | Carnot Cycle and Second Law of Thermodynamics

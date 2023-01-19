@@ -1,5 +1,6 @@
 ---
 title: Group 18 Elements | Chemical Properties
+description: Noble gases are mostly found to be inert but in 1962, Neil Bartlett was successful in preparing compounds of Xenon.
 ---
 
 # [![ChemistryEdu Logo](../../../images/favicon.svg){ align=left, width=3.8% }](../../../index.md)  Group 18 Elements | Chemical Properties

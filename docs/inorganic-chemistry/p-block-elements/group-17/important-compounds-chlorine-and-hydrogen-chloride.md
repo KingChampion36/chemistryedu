@@ -1,5 +1,6 @@
 ---
 title: Group 17 Elements | Important Compounds - Chlorine and HCl
+description: In this article, we will discuss two important compounds of group 17 elements: Chlorine and Hydrochloric acid.
 ---
 
 # [![ChemistryEdu Logo](../../../images/favicon.svg){ align=left, width=3.8% }](../../../index.md)  Group 17 Elements | Important Compounds - Chlorine and HCl

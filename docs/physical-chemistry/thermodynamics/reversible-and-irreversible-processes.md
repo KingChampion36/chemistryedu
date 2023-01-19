@@ -1,5 +1,6 @@
 ---
 title: Thermodynamics | Reversible and Irreversible Processes
+description: Reversible processes are those in which the driving force is infinitesimally greater than the opposing force. Irreversible processes are those in which the driving force is much greater than the opposing force.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Thermodynamics | Reversible and Irreversible Processes

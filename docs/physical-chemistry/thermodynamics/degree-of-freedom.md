@@ -1,5 +1,6 @@
 ---
 title: Thermodynamics | Degree of Freedom
+description: Degree of freedom is the number of independent ways by which a system can exchange energy.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Thermodynamics | Degree of Freedom

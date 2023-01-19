@@ -1,6 +1,6 @@
 ---
 title: Gaseous State | Gas Laws
-description: In this article, we will discuss about Boyle's law, Charle's Law, Gay Lussac's Law and Avogadro's hypothesis.
+description: In this article, we will discuss Boyle's law, Charle's Law, Gay Lussac's Law and Avogadro's hypothesis.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Gaseous State | Gas Laws
@@ -59,7 +59,7 @@ description: In this article, we will discuss about Boyle's law, Charle's Law, G
 
 !!! tip "Note"
 
-    Mean free path, $&lambda; &Proportional; {T \over P}$. If Gay Lussac's Law is valid or applicable, then mean free path is constant. We will discuss about mean free path in detail later.
+    Mean free path, $&lambda; &Proportional; {T \over P}$. If Gay Lussac's Law is valid or applicable, then mean free path is constant. We will discuss mean free path in detail later.
 
 ## Avogadro's Hypothesis
 

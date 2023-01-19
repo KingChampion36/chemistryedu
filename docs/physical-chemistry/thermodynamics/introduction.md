@@ -1,5 +1,6 @@
 ---
 title: Thermodynamics | Introduction
+description: Thermodynamics is the branch of chemistry which deals with study of the interrelationships among heat, work, and the energy content of a system.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Thermodynamics | Introduction
@@ -20,9 +21,9 @@ Thermodynamics is the branch of chemistry which deals with study of the interrel
 
     * Boundary is also known as wall. Boundary is defined as anything which separates system and surrounding. It can be real or imaginary. The point or place where the impact of system ends defines an
     imaginary boundary.
-    
+
     * There are two types of boundary or wall: (a) Diathermic wall, which allows the passage of energy through it and (b) Adiabatic wall which does not allow the passage of energy through it.
-                  
+
 ## Types of System
 
 * **Open System:** An open system can exchange both matter and energy with its surrounding.
@@ -61,5 +62,5 @@ refractive index etc.
 
 * **State Function:** The function whose value depends on initial and final state of a system and is independent of the path followed to change the state of a system is called state function. Displacement is a
 state function and distance is a path function. Other examples of path function are enthalpy, internal energy, entropy, Gibbs Free energy etc.
-              
+
 * **Path Function:** The function whose value depends on the path followed to change the state of the system is known as path function. Heat and work are path functions.

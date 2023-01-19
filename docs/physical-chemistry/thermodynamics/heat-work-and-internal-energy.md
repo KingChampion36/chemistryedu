@@ -1,5 +1,6 @@
 ---
 title: Thermodynamics | Heat, Work and Internal Energy
+description: Heat is a form of energy and work is a mode of transfer of energy. The sum of all possible kinds of energy present in the system is called its internal energy.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Thermodynamics | Heat, Work and Internal Energy

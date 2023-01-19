@@ -1,5 +1,6 @@
 ---
 title: Thermodynamics | Analysis of Thermodynamic Processes
+description: In this article, we will analyse various thermodynamic processes by applying first law of thermodynamics.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Thermodynamics | Analysis of Thermodynamic Processes

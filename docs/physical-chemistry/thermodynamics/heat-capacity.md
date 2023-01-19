@@ -1,5 +1,6 @@
 ---
 title: Thermodynamics | Heat Capacity
+description: Heat capacity is the amount of heat required to raise the temperature of a substance by 1 Kelvin.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Thermodynamics | Heat Capacity
@@ -12,7 +13,7 @@ title: Thermodynamics | Heat Capacity
 !!! tip ""
 
     $$C = {dq \over dT}$$
-    
+
     $$where,\ q = heat\ and\ T = temperature$$
 
 ## Specific Heat Capacity
@@ -25,9 +26,9 @@ title: Thermodynamics | Heat Capacity
 !!! tip ""
 
     $$S = {C \over m}$$
-    
+
     $$where,\ C = Heat\ capacity\ and\ m = mass\ in\ gram$$
-    
+
     $$S = {dq \over mdT}$$
 
 ## Molar Heat Capacity
@@ -40,25 +41,25 @@ title: Thermodynamics | Heat Capacity
 !!! tip ""
 
     $$C_m = {C \over n}$$
-    
+
     $$where,\ C = heat\ capacity\ and\ n = moles$$
-    
+
     $$C_m = {dq \over ndT}$$
-    
+
     $$Also,\ dq = nC_mdT$$
-    
+
     Let's put substitute values in the equation of C<sub>m</sub>.
-    
+
     $$C_m = {dq \over ndT}$$
-    
+
     Using first law of thermodynamics, dq = dU - dW:
-    
+
     $$C_m = {(dU - dW) \over ndT}$$
-    
+
     $$C_m = {dU \over ndT} - {dW \over ndT}$$
-    
+
     $$C_m = {nC_vdT \over ndT} - {(-PdV) \over ndT}$$
-    
+
     $$C_m = C_v + {PdV \over ndT}$$
 
 * Molar heat capacity at constant volume is denoted by C<sub>v</sub>.
@@ -79,19 +80,19 @@ title: Thermodynamics | Heat Capacity
 !!! tip ""
 
     $$dH = dU + PdV$$
-    
+
     $$dH = dU - dW$$
-    
+
     $$dU = dH + dW$$
-    
+
     $$By\ first\ law\ of\ thermodynamics:$$
-    
+
     $$dU = dq + dW$$
-    
+
     $$Hence,\ at\ constant\ pressure,\ we\ can\ write:$$
-    
+
     $$dq = dH$$
-    
+
     $$dq = nC_pdT\ (Since,\ dH = nC_pdT)$$
 
 * Also, we know that:
@@ -105,15 +106,15 @@ title: Thermodynamics | Heat Capacity
 !!! tip ""
 
     $$dU = dq + dW$$
-    
+
     $$nC_vdT = nC_pdT - PdV$$
-    
+
     $$n(C_v - C_p) dT = -PdV$$
-    
+
     $$n(C_v - C_p) dT = -nRdT$$
-    
+
     $$C_v - C_p = -R$$
-    
+
     $$C_p - C_v = R$$
 
 ## Poisson's Ratio
@@ -152,11 +153,11 @@ Poisson's ratio is defined as the ratio of molar heat capacity at constant press
 !!! tip "Important formula to remember from this article"
 
     * dU = nC<sub>v</sub>dT
-    
+
     * dq = nC<sub>p</sub>dT
-    
+
     * C<sub>p</sub> - C<sub>v</sub> = R
-    
+
     * &gamma; = C<sub>p</sub> / C<sub>v</sub>
-    
-    Here, U = internal energy, C<sub>v</sub> = molar heat capacity at constant volume, C<sub>p</sub> = molar heat capacity at constant pressure, n = moles, q = heat, T = temperature, &gamma; = Poisson's ration
+
+    Here, U = internal energy, C<sub>v</sub> = molar heat capacity at constant volume, C<sub>p</sub> = molar heat capacity at constant pressure, n = moles, q = heat, T = temperature, &gamma; = Poisson's ratio
