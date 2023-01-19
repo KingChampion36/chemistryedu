@@ -1,5 +1,6 @@
 ---
 title: Mole Concept | Limiting Reagent
+description: Limiting reagent is the reactant which gets completely consumed in a chemical reaction. It limits the amount of products formed.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Mole Concept | Limiting Reagent

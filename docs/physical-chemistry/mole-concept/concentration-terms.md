@@ -1,5 +1,6 @@
 ---
 title: Mole Concept | Concentration Terms
+description: Concentration terms are used to signify the amount of solute dissolved in a solvent.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Mole Concept | Concentration Terms

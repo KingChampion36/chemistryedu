@@ -1,5 +1,6 @@
 ---
 title: Mole Concept | Empirical and Molecular Formula
+description: Molecular formula gives the number of each atom in a single molecule of a compound whereas empirical formula gives the simplest ratio of each atom in a single molecule of the compound.
 ---
 
 # [![ChemistryEdu Logo](../../images/favicon.svg){ align=left, width=3.8% }](../../index.md)  Mole Concept | Empirical and Molecular Formula
