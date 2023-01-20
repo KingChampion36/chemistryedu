@@ -40,10 +40,6 @@ Like any other website, ChemistryEdu uses 'cookies'. These cookies are used to s
 
 For more general information on cookies, please read "What Are Cookies".
 
-## Google DoubleClick DART Cookie
-
-Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL: [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads){:target="_blank"}
-
 ## Our Advertising Partners
 
 Some advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
