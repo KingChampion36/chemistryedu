@@ -170,6 +170,11 @@ nav:
           - Metals, Non-Metals and Metalloids: inorganic-chemistry/periodicity/metals-non-metals-and-metalloids.md
           - Trends in Physical Properties: inorganic-chemistry/periodicity/trends-in-physical-properties.md
           - Trends in Chemical Properties: inorganic-chemistry/periodicity/trends-in-chemical-properties.md
+      - s-block Elements:
+          - Alkali Metals:
+              - General Characteristics: inorganic-chemistry/s-block-elements/alkali-metals/general-characteristics.md
+              - Physical Characteristics: inorganic-chemistry/s-block-elements/alkali-metals/physical-characteristics.md
+              - Chemical Characteristics: inorganic-chemistry/s-block-elements/alkali-metals/chemical-characteristics.md
       - p-block Elements:
           - Group 17:
               - Physical and Atomic Properties: inorganic-chemistry/p-block-elements/group-17/physical-and-atomic-properties.md
