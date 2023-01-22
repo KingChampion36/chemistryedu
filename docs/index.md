@@ -30,6 +30,8 @@ the transformations they undergo, and the energy that is released or absorbed du
 
     * [Periodicity](inorganic-chemistry/periodicity/periodic-classification.md)
 
+    * [s-block Elements (Alkali Metals)](inorganic-chemistry/s-block-elements/alkali-metals/general-characteristics.md)
+
     * [p-block Elements (Group 17)](inorganic-chemistry/p-block-elements/group-17/physical-and-atomic-properties.md)
 
     * [p-block Elements (Group 18)](inorganic-chemistry/p-block-elements/group-18/physical-and-atomic-properties.md)
