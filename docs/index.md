@@ -40,4 +40,4 @@ the transformations they undergo, and the energy that is released or absorbed du
 
 === "Organic Chemistry"
 
-    To be added
+    * [Alkyl Halides](organic-chemistry/alkyl-halides/introduction-and-nomenclature.md)
