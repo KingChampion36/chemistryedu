@@ -15,7 +15,7 @@ Alkyl halides of a particular kind, in which halogen atom is attached to a satur
 
 !!! example "Examples"
 
-    ![Examples of halides](images/examples.png)
+    ![Examples of halides](images/examples.png){loading=lazy}
 
 Alkyl halides are classified as primary (1<sup>0</sup>), secondary (2<sup>0</sup>) or tertiary (3<sup>0</sup>), depending upon the type of carbon to which X is bonded. When X is bonded to a carbon which is bonded to one more carbon, it is called 1<sup>0</sup> halide and their general representation is RCH<sub>2</sub>X.
 When X is linked to a carbon which is bonded to two carbons, it is called 2<sup>0</sup> halides and is denoted by R<sub>2</sub>CHX. When X is bonded to a carbon, which is attached to 3 carbons is called 3<sup>0</sup> halides and is designated as R<sub>3</sub>CX.
@@ -27,6 +27,6 @@ IUPAC nomenclature of alkyl halides with one halogen is haloalkanes and with tvv
 
 !!! example "Examples"
 
-    ![Nomenclature - 1](images/nomenclature-part1.png)
+    ![Nomenclature - 1](images/nomenclature-part1.png){loading=lazy}
 
-    ![Nomenclature - 2](images/nomenclature-part2.png)
+    ![Nomenclature - 2](images/nomenclature-part2.png){loading=lazy}
