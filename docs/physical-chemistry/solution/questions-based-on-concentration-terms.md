@@ -7,7 +7,7 @@ description: In this article, we will discuss questions based on concentration t
 
 ## Questions
 
-??? question "Calculate the mole fraction of ethylene glycol (C<sub>2</sub>H<sub>6</sub>O<sub>2</sub>) in a solution containing 20% of C<sub>2</sub>H<sub>6</sub>O<sub>2</sub> by mass."
+!!! question "Calculate the mole fraction of ethylene glycol (C<sub>2</sub>H<sub>6</sub>O<sub>2</sub>) in a solution containing 20% of C<sub>2</sub>H<sub>6</sub>O<sub>2</sub> by mass."
 
     Let the mass of solution be 100 grams
 
@@ -29,7 +29,7 @@ description: In this article, we will discuss questions based on concentration t
 
     $$&Chi;_{H_2O} = 1 - 0.068 = 0.932$$
 
-??? question "Calculate the molarity of solution containing 5 g of NaOH in 450 mL solution."
+!!! question "Calculate the molarity of solution containing 5 g of NaOH in 450 mL solution."
 
     $$n_{NAOH} = {5 \over 40} = 0.125\ moles$$
 
@@ -37,7 +37,7 @@ description: In this article, we will discuss questions based on concentration t
 
     $$M = {n_{NAOH} \over V_{solution}} = {0.125 \over 0.45} = 0.278\ mol/L$$
 
-??? question "Calculate the molality of 2.5 g of ethanoic acid (CH<sub>3</sub>COOH) dissolved in 75 g of benzene (C<sub>6</sub>H<sub>6</sub>)."
+!!! question "Calculate the molality of 2.5 g of ethanoic acid (CH<sub>3</sub>COOH) dissolved in 75 g of benzene (C<sub>6</sub>H<sub>6</sub>)."
 
     $$Molecular\ mass\ of\ CH_3COOH = 60\ g/mol$$
 
@@ -49,7 +49,7 @@ description: In this article, we will discuss questions based on concentration t
 
     $$m = {0.0417 \over 0.075} = 0.556\ mol/Kg$$
 
-??? question "Calculate the mass percentage of benzene (C<sub>6</sub>H<sub>6</sub>) and carbon tetrachloride (CCl<sub>4</sub>) if 22 g of benzene is dissolved in 122 g of carbon tetrachloride."
+!!! question "Calculate the mass percentage of benzene (C<sub>6</sub>H<sub>6</sub>) and carbon tetrachloride (CCl<sub>4</sub>) if 22 g of benzene is dissolved in 122 g of carbon tetrachloride."
 
     $$Mass\ of\ solution = 22 + 122 = 144\ g$$
 
@@ -57,7 +57,7 @@ description: In this article, we will discuss questions based on concentration t
 
     $$w/w\ of\ CCl_4 = {122 \times 100\over 144} = 84.72$$
 
-??? question "Calculate the mole fraction of benzene in solution containing 30% by mass in carbon tetrachloride."
+!!! question "Calculate the mole fraction of benzene in solution containing 30% by mass in carbon tetrachloride."
 
     Let the mass of solution be 100 g
 
@@ -75,7 +75,7 @@ description: In this article, we will discuss questions based on concentration t
 
     $$&Chi;_{CCl_4} = 1 - 0.459 = 0.541$$
 
-??? question "Calculate the molarity of each of the following solutions: (a) 30 g of Co(NO<sub>3</sub>)<sub>2</sub>.6H<sub>2</sub>O in 4.3 L of solution (b) 30 mL of 0.5 M H<sub>2</sub>SO<sub>4</sub> diluted to 500 mL."
+!!! question "Calculate the molarity of each of the following solutions: (a) 30 g of Co(NO<sub>3</sub>)<sub>2</sub>.6H<sub>2</sub>O in 4.3 L of solution (b) 30 mL of 0.5 M H<sub>2</sub>SO<sub>4</sub> diluted to 500 mL."
 
     (a)
 
@@ -95,7 +95,7 @@ description: In this article, we will discuss questions based on concentration t
 
     $$M = {0.15 \over 0.5} = 0.03\ mol/L$$
 
-??? question "Calculate the mass of urea (NH<sub>2</sub>CONH<sub>2</sub>) required in making 2.5 kg of 0.25 molal aqueous solution."
+!!! question "Calculate the mass of urea (NH<sub>2</sub>CONH<sub>2</sub>) required in making 2.5 kg of 0.25 molal aqueous solution."
 
     $$Let\ mass\ of\ urea = x\ kg$$
 
@@ -113,7 +113,7 @@ description: In this article, we will discuss questions based on concentration t
 
     $$=>\ x = 0.034946\ kg = 34.946\ g$$
 
-??? question "Calculate (a) molality (b) molarity and (c) mole fraction of KI if the density of 20% (mass/mass) aqueous KI is 1.202 g/mL."
+!!! question "Calculate (a) molality (b) molarity and (c) mole fraction of KI if the density of 20% (mass/mass) aqueous KI is 1.202 g/mL."
 
     $$w/w = 20$$
 

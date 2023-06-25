@@ -31,7 +31,7 @@ Image Credit: [https://en.wikipedia.org/wiki/Periodic_table](https://en.wikipedi
 
 ## Question
 
-??? question "Considering the atomic number and position in the periodic table, arrange the following elements in the increasing order of metallic character : Si, Be, Mg, Na, P."
+!!! question "Considering the atomic number and position in the periodic table, arrange the following elements in the increasing order of metallic character : Si, Be, Mg, Na, P."
 
     We know that metallic character increases down the group and decreases across the period.
 

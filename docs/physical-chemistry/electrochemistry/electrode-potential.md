@@ -23,7 +23,7 @@ description: The potential difference between electrode and electrolytic solutio
 * The element having more positive value of reduction potential will easily undergo reduction. It will also act as a good oxidizing agent.
 * The element having more positive value of oxidation potential will easily undergo oxidation. It will also act as a good reducing agent.
 
-??? question "The E<sup>0</sup><sub>red</sub> of I<sub>2</sub>, Br<sub>2</sub>, Cl<sub>2</sub> and F<sub>2</sub> are 0.35 V, 0.45 V, 1.3 V and 2.7 V. Arrange them in decreasing order of strength of oxidizing agent."
+!!! question "The E<sup>0</sup><sub>red</sub> of I<sub>2</sub>, Br<sub>2</sub>, Cl<sub>2</sub> and F<sub>2</sub> are 0.35 V, 0.45 V, 1.3 V and 2.7 V. Arrange them in decreasing order of strength of oxidizing agent."
 
     The element having more positive value of reduction potential will easily undergo reduction. It will also act as a good oxidizing agent. So, the order will be: F<sub>2</sub> > Cl<sub>2</sub> > Br<sub>2</sub> > I<sub>2</sub>
 

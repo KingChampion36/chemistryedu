@@ -187,7 +187,7 @@ An aqua-regia is a mixture of three parts of concentrated HCl and 1 part of conc
 
 ## Questions
 
-??? question "Write the balanced chemical equation for the reaction of Cl<sub>2</sub> with hot and concentrated NaOH. Is this a disproportionation reaction?"
+!!! question "Write the balanced chemical equation for the reaction of Cl<sub>2</sub> with hot and concentrated NaOH. Is this a disproportionation reaction?"
 
     The reaction is:
 
@@ -195,7 +195,7 @@ An aqua-regia is a mixture of three parts of concentrated HCl and 1 part of conc
 
     This is a disproportionation reaction because the oxidation state of chlorine is changed from 0 to -1 and +5.
 
-??? question "Give the reason for bleaching action of Cl<sub>2</sub>."
+!!! question "Give the reason for bleaching action of Cl<sub>2</sub>."
 
     It is due to the oxidizing property of Cl<sub>2</sub>.
 
@@ -203,7 +203,7 @@ An aqua-regia is a mixture of three parts of concentrated HCl and 1 part of conc
 
     $$Coloured\ substance + O &rarr; Colourless\ substance$$
 
-??? question "When HCl reacts with finely powdered iron, it forms ferrous chloride and not ferric chloride. Why?"
+!!! question "When HCl reacts with finely powdered iron, it forms ferrous chloride and not ferric chloride. Why?"
 
     $$Fe + 2HCl &rarr; FeCl_2 + H_2$$
 

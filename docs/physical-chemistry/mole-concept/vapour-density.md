@@ -80,7 +80,7 @@ description: Density of a gas relative to hydrogen is called its vapour density.
 
 ## Question
 
-??? question "Density of a gas relative to air is 1.17. Find the molecular mass of the gas. [M<sub>air</sub> = 29 g/mole]"
+!!! question "Density of a gas relative to air is 1.17. Find the molecular mass of the gas. [M<sub>air</sub> = 29 g/mole]"
 
     $$Relative\ density\ of\ gas\ of\ molecular\ mass\ M\ w.r.t\ air = {M \over M_{air}}$$
 

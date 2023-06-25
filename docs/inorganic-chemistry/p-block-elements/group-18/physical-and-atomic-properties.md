@@ -46,19 +46,19 @@ description: Group 18 elements are also known as noble gases because they have c
 
 ## Questions
 
-??? question "Why has it been difficult to study the chemistry of Radon?"
+!!! question "Why has it been difficult to study the chemistry of Radon?"
 
     Radon is a radioactive element with a very short half life of 3.82 days. That is why, the study of chemistry of Radon is a difficult task.
 
-??? question "Why are the elements of Group 18 known as noble gases?"
+!!! question "Why are the elements of Group 18 known as noble gases?"
 
     The elements present in group 18 have their valence shell orbitals completely filled and therefore react with a very few elements only under certain conditions. Therefore, they are called noble
     gases.
 
-??? question "Noble gases have very low boiling points. Why?"
+!!! question "Noble gases have very low boiling points. Why?"
 
     Noble gases being monoatomic have no interatomic forces except the weak dispersion forces and therefore, they are liquefied at very low temperatures. Hence, they have low boiling points.
 
-??? question "Why do noble gases have large atomic sizes?"
+!!! question "Why do noble gases have large atomic sizes?"
 
     It is because they have Van der Waals' radii which are expected to have larger magnitude.

@@ -64,15 +64,15 @@ description: The d-block of the periodic table contains the elements of the grou
 
 ## Questions
 
-??? question "On what ground can you say that Scandium (Z = 21) is a transition element but zinc (Z = 30) is not?"
+!!! question "On what ground can you say that Scandium (Z = 21) is a transition element but zinc (Z = 30) is not?"
 
     On the basis of incompletely filled 3d orbitals in case of Scandium in its ground state (3d<sup>1</sup>), it is regarded as a transition element. On the other hand, Zinc atom has completely filled
     d-orbitals (3d<sup>10</sup>) in its ground state as well as in its oxidized state, hence it is not regarded as a transition element.
 
-??? question "Silver atom has completely filled d-orbitals (4d<sup>10</sup>) in its ground state. How can you say that it is a transition element?"
+!!! question "Silver atom has completely filled d-orbitals (4d<sup>10</sup>) in its ground state. How can you say that it is a transition element?"
 
     Silver is regarded as a transition element because it can exhibit +2 oxidation state which has incompletely filled d-orbitals.
 
-??? question "Why do transition elements exhibit higher enthalpies of atomization?"
+!!! question "Why do transition elements exhibit higher enthalpies of atomization?"
 
     Because of large number of unpaired electrons in their atoms, transition elements have stronger inter-atomic interactions and hence stronger bonding between atoms resulting in higher enthalpies of atomization.

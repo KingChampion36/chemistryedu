@@ -73,18 +73,18 @@ description: The fourteen elements following lanthanum are called lanthanoids. B
 
 ## Questions
 
-??? question "Name a member of the lanthanoid series which is well known to exhibit +4 oxidation state."
+!!! question "Name a member of the lanthanoid series which is well known to exhibit +4 oxidation state."
 
     Cerium (Z = 58) is well known to exhibit +4 oxidation state.
 
-??? question "Name two members of the lanthanoid series which exhibit: (a) +2 oxidation state (b) +4 oxidation state."
+!!! question "Name two members of the lanthanoid series which exhibit: (a) +2 oxidation state (b) +4 oxidation state."
 
     (a) Europium (Z = 63) and Ytterbium (Z = 70) <br> (b) Cerium (Z = 58) and Neodymium (Z = 60)
 
-??? question "Name a member of the lanthanoid series which has: (a) maximum paramagnetic property (b) no paramagnetic property."
+!!! question "Name a member of the lanthanoid series which has: (a) maximum paramagnetic property (b) no paramagnetic property."
 
     (a) Neodymium (Z = 60) has maximum paramagnetic property. <br> (b) La<sup>3+</sup> and Ce<sup>4+</sup> have no paramagnetic property.
 
-??? question "Name a member of the lanthanoid series which is radioactive."
+!!! question "Name a member of the lanthanoid series which is radioactive."
 
     Promethium (Z = 61) is the only lanthanoid, which is radioactive.

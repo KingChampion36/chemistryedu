@@ -19,7 +19,7 @@ description: In general, ionization enthalpy increases along each series from le
 
 * Removal of one electron alters the relative energies of 4s and 3d-orbitals. Due to reorganization of energy, the irregular trend is observed in first ionization enthalpy of 3-d metals.
 
-??? question "The first ionization enthalpy of Cr is lower while that of Zn is higher. Explain."
+!!! question "The first ionization enthalpy of Cr is lower while that of Zn is higher. Explain."
 
     The first ionization enthalpy of Cr is lower because of absence of any change in the d-configuration.
 
@@ -33,11 +33,11 @@ description: In general, ionization enthalpy increases along each series from le
 * Second ionization enthalpy is the energy required to remove second outermost electron from a cation (with +1 charge) in gaseous state.
 * The second ionization enthalpy also shows very irregular trend in 3d metals.
 
-??? question "The second ionization enthalpy of Cr and Cu are very high. Explain."
+!!! question "The second ionization enthalpy of Cr and Cu are very high. Explain."
 
     In case of Cr, second electron has to be removed from stable 3d<sup>5</sup> configuration and in case of Cu, second electron has to be removed from stable 3d<sup>10</sup> configuration.
 
-??? question "The second ionization enthalpy of Zn is low. Why?"
+!!! question "The second ionization enthalpy of Zn is low. Why?"
 
     Electronic configuration of Zn<sup>+</sup>: 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>3d<sup>10</sup>4s<sup>1</sup>
 
@@ -47,11 +47,11 @@ description: In general, ionization enthalpy increases along each series from le
 
 * The third ionization enthalpy of these elements is very high because it is very difficult to remove electron from d-orbitals.
 
-??? question "Why is it difficult to obtain oxidation state greater than 2 for transition elements?"
+!!! question "Why is it difficult to obtain oxidation state greater than 2 for transition elements?"
 
     It is difficult to obtain oxidation state greater than 2 for transition elements due to high value of third ionization enthalpy.
 
-??? question "Generally, ionization enthalpy increases across a series. But third ionization enthalpy of Fe is less than that of Mn. Explain."
+!!! question "Generally, ionization enthalpy increases across a series. But third ionization enthalpy of Fe is less than that of Mn. Explain."
 
     Electronic configuration of Mn<sup>2+</sup>: 1s<sup>2</sup>2<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>3d<sup>5</sup>
 

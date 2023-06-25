@@ -74,7 +74,7 @@ Number of moles of an ideal gas can be calculated by ideal gas equation:
 
 ## Questions
 
-??? question "An ideal nitrogen gas is kept in a container of 10 litres under 1.5 atm pressure at 300 K. Calculate (a) number of moles of nitrogen gas (b) mass of nitrogen gas. Molecular mass of nitrogen = 28 u."
+!!! question "An ideal nitrogen gas is kept in a container of 10 litres under 1.5 atm pressure at 300 K. Calculate (a) number of moles of nitrogen gas (b) mass of nitrogen gas. Molecular mass of nitrogen = 28 u."
 
     (a) The number of moles of ideal nitrogen gas can be calculated by ideal gas equation:
 
@@ -94,7 +94,7 @@ Number of moles of an ideal gas can be calculated by ideal gas equation:
 
     $$Mass\ of\ N_2\ gas = {1400 \over 821}\ grams$$
 
-??? question "Calculate in 5.6 L ideal N<sub>2</sub> gas at STP, (a) number of moles (b) mass."
+!!! question "Calculate in 5.6 L ideal N<sub>2</sub> gas at STP, (a) number of moles (b) mass."
 
     (a) The number of moles of ideal nitrogen gas can be calculated by:
 

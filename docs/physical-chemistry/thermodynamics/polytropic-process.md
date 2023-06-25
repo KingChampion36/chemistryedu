@@ -81,7 +81,7 @@ For a reversible polytropic process, work done can be calculated as:
 
 ## Questions based on Polytropic Process
 
-??? question "For a monoatomic ideal gas, the ratio of pressure and square of volume is 3. How much heat should be supplied to increase the temperature of 5 moles of the gas by 50<sup>o</sup>C?"
+!!! question "For a monoatomic ideal gas, the ratio of pressure and square of volume is 3. How much heat should be supplied to increase the temperature of 5 moles of the gas by 50<sup>o</sup>C?"
 
     $$ {P \over V^2} = 3$$
 
@@ -119,7 +119,7 @@ For a reversible polytropic process, work done can be calculated as:
 
     $$q = 3810.58\ J$$
 
-??? question "The molar heat capacity of a gas (at room temperature) for which pressure and volume are equal is 7R/2. What will be the rotational degree of freedom for this gas? Also, predict the atomicity of gas."
+!!! question "The molar heat capacity of a gas (at room temperature) for which pressure and volume are equal is 7R/2. What will be the rotational degree of freedom for this gas? Also, predict the atomicity of gas."
 
     $$Given:\ P = V$$
 
@@ -157,7 +157,7 @@ For a reversible polytropic process, work done can be calculated as:
 
     Thus, rotational degree of freedom is 3.
 
-??? question "Calculate the molar heat capacity of monoatomic gas for which the ratio of pressure and volume is 1."
+!!! question "Calculate the molar heat capacity of monoatomic gas for which the ratio of pressure and volume is 1."
 
     $$Given:\ {P \over V} = 1$$
 

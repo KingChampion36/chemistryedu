@@ -37,7 +37,7 @@ Image Credit: [https://en.wikipedia.org/wiki/Periodic_table](https://en.wikipedi
 * **Isoelectronic species:** Atoms or ions with same number of electrons are known as isoelectronic species. Example: O<sup>2-</sup>, F<sup>-</sup>, Na<sup>+</sup> and Mg<sup>2+</sup> are isolectronic species with 10 electrons each.
 * For isoelectronic species, anions with larger negative charge will have larger radius as compared to anions with smaller negative charge and cations with smaller positive charge will have higher radius as compared to cations with larger positive charge.
 
-??? question "Which of the following species will have the largest and the smallest size?<br> Mg, Mg<sup>2+</sup>, Al, Al<sup>3+</sup>"
+!!! question "Which of the following species will have the largest and the smallest size?<br> Mg, Mg<sup>2+</sup>, Al, Al<sup>3+</sup>"
 
     Atomic radius decreases across a period. Size of cation is smaller than parent atom and among isoelectronic species, cation with lower positive charge has larger radius.<br>Hence, largest species is Mg and smallest species is Al<sup>3+</sup>.
 

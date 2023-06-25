@@ -17,7 +17,7 @@ description: Limiting reagent is the reactant which gets completely consumed in 
 
 ## Questions
 
-??? question "For the given chemical reaction, find the mass of SO<sub>2</sub> formed: <br> S<sub>(10 g)</sub> + O<sub>2</sub><sub>(10 g)</sub> &rarr; SO<sub>2</sub>"
+!!! question "For the given chemical reaction, find the mass of SO<sub>2</sub> formed: <br> S<sub>(10 g)</sub> + O<sub>2</sub><sub>(10 g)</sub> &rarr; SO<sub>2</sub>"
 
     $$Moles\ of\ S = {10 \over 32}$$
 
@@ -32,7 +32,7 @@ description: Limiting reagent is the reactant which gets completely consumed in 
 
     $$Mass\ of\ SO_2 = {10 \over 32} \times 64 = 20\ g$$
 
-??? question "For the given chemical reaction, find the mass of CaCl<sub>2</sub> formed:<br> Ca<sub>(10 g)</sub> + Cl<sub>2</sub><sub>(10 g)</sub> &rarr; CaCl<sub>2</sub>"
+!!! question "For the given chemical reaction, find the mass of CaCl<sub>2</sub> formed:<br> Ca<sub>(10 g)</sub> + Cl<sub>2</sub><sub>(10 g)</sub> &rarr; CaCl<sub>2</sub>"
 
     $$Moles\ of\ Ca = {10 \over 40}$$
 
@@ -46,7 +46,7 @@ description: Limiting reagent is the reactant which gets completely consumed in 
 
     $$Mass\ of\ CaCl_2 = {10 \over 71} \times 111 = {1110 \over 71}\ g$$
 
-??? question "For the given chemical reaction, find the mass of PCl<sub>5</sub> formed:<br>P<sub>4</sub><sub>(10 g)</sub> + 10Cl<sub>2</sub><sub>(10 g)</sub> &rarr; 4PCl<sub>5</sub>"
+!!! question "For the given chemical reaction, find the mass of PCl<sub>5</sub> formed:<br>P<sub>4</sub><sub>(10 g)</sub> + 10Cl<sub>2</sub><sub>(10 g)</sub> &rarr; 4PCl<sub>5</sub>"
 
     $$Moles\ of\ P_4 = {10 \over 124}$$
 

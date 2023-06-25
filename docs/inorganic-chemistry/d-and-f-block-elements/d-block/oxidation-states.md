@@ -50,67 +50,67 @@ description: Transition elements show oxidation states which differ by unity due
 
 ## Questions
 
-??? question "Name a transition element which does not exhibit variable oxidation states."
+!!! question "Name a transition element which does not exhibit variable oxidation states."
 
     Scandium (Z = 21) does not exhibit variable oxidation states.
 
     **Note:** Zn also does not exhibit variable oxidation state but it is not a transition element.
 
-??? question "Which of the 3d series of the transition metal exhibits the largest number of oxidation states and why?"
+!!! question "Which of the 3d series of the transition metal exhibits the largest number of oxidation states and why?"
 
     Mn exhibits the largest number of oxidation states because it has total 7 electrons in s- and d-orbitals which can take part in bonding.
 
-??? question "Cr(VI) in the form of dichromate in acidic medium is a strong oxidizing agent whereas MoO<sub>3</sub> and WO<sub>3</sub> are not. Explain."
+!!! question "Cr(VI) in the form of dichromate in acidic medium is a strong oxidizing agent whereas MoO<sub>3</sub> and WO<sub>3</sub> are not. Explain."
 
     It is because Mo(VI) and W(VI) are found to be more stable than Cr(VI). [Heavier elements favour higher oxidation state.]
 
-??? question "The E<sup>0</sup>(M<sup>2+</sup>/M) value of copper is positive (+0.34 V). What is possible reason for this?"
+!!! question "The E<sup>0</sup>(M<sup>2+</sup>/M) value of copper is positive (+0.34 V). What is possible reason for this?"
 
     The E<sup>0</sup>(M<sup>2+</sup>/M) value of copper is positive (+0.34 V) because hydration energy and lattice energy of Cu<sup>2+</sup> is more than that of Cu.
 
-??? question "Only oxidizing acids like HNO<sub>3</sub> and hot conc. H<sub>2</sub>SO<sub>4</sub> react with Cu, the acids being reduced. Explain."
+!!! question "Only oxidizing acids like HNO<sub>3</sub> and hot conc. H<sub>2</sub>SO<sub>4</sub> react with Cu, the acids being reduced. Explain."
 
     Because of positive E<sup>0</sup> value of Cu, it cannot liberate H<sub>2</sub> from acids. So, only oxidizing acids like HNO<sub>3</sub> and hoyt conc. H<sub>2</sub>SO<sub>4</sub> react with Cu, the acids being reduced.
 
-??? question "Why E<sup>0</sup> values for Mn, Ni and Zn are more negative than expected?"
+!!! question "Why E<sup>0</sup> values for Mn, Ni and Zn are more negative than expected?"
 
     The value of E<sup>0</sup>(M<sup>2+</sup>/M) for Mn, Ni and Zn are more negative than expected. For Mn and Zn, it is due to stability of half filled and fully filled d-orbitals respectively. For Ni, it is due to highest negative hydration enthalpy.
 
-??? question "Why is Cr<sup>2+</sup> reducing and Mn<sup>3+</sup> oxidizing when both have d<sup>4</sup> configuration?"
+!!! question "Why is Cr<sup>2+</sup> reducing and Mn<sup>3+</sup> oxidizing when both have d<sup>4</sup> configuration?"
 
     Cr<sup>2+</sup> is reducing as its configuration changes from d<sup>4</sup> to d<sup>3</sup>, the latter having a half filled t<sub>2g</sub> level. On the other hand, the change from Mn<sup>2+</sup>
     to Mn<sup>3+</sup> results in the half filled d<sup>5</sup> configuration which has extra stability.
 
-??? question "How would you account for the irregular variation of ionization enthalpies (first and second) in the first series of the transition elements?"
+!!! question "How would you account for the irregular variation of ionization enthalpies (first and second) in the first series of the transition elements?"
 
     It is due to different stability of their electronic configuration.
 
-??? question "How would you account for the increasing oxidizing power in the series VO<sub>2</sub><sup>+</sup> < Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup> < MnO<sub>4</sub><sup>-</sup>?"
+!!! question "How would you account for the increasing oxidizing power in the series VO<sub>2</sub><sup>+</sup> < Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup> < MnO<sub>4</sub><sup>-</sup>?"
 
     This is due to the increasing stability of the lower species to which they are reduced.
 
-??? question "The highest Mn fluoride known is MnF<sub>4</sub> whereas the highest oxide is Mn<sub>2</sub>O<sub>7</sub>. Explain."
+!!! question "The highest Mn fluoride known is MnF<sub>4</sub> whereas the highest oxide is Mn<sub>2</sub>O<sub>7</sub>. Explain."
 
     It is due to the fact that the ability of oxygen to stabilize the high oxidation states exceeds that of fluorine.
 
-??? question "Why is the highest oxidation state of a metal exhibited in its oxide or fluoride only?"
+!!! question "Why is the highest oxidation state of a metal exhibited in its oxide or fluoride only?"
 
     It is because O<sub>2</sub> and F<sub>2</sub> are strong oxidizing agents due to high electronegativity.
 
-??? question "Which is a stronger reducing agent Cr<sup>2+</sup> or Fe<sup>2+</sup> and why?"
+!!! question "Which is a stronger reducing agent Cr<sup>2+</sup> or Fe<sup>2+</sup> and why?"
 
     Fe<sup>2+</sup> is strong reducing agent because it will get oxidized to Fe<sup>3+</sup> which has half filled d-orbitals which is more stable.
 
-??? question "For the first row of transition metals, the E<sup>0</sup> values are:<br> <table><tbody><tr><th>Element</th><td>V</td><td>Cr</td><td>Mn</td><td>Fe</td><td>Co</td><td>Ni</td><td>Cu</td></tr><tr><th>E<sup>0</sup>(M<sup>2+</sup>/M)</th><td>-1.18</td><td>-0.91</td><td>-1.18</td><td>-0.44</td><td>-0.28</td><td>-0.25</td><td>+0.34</td></tr></tbody></table> <br>Explain the irregularity in above values."
+!!! question "For the first row of transition metals, the E<sup>0</sup> values are:<br> <table><tbody><tr><th>Element</th><td>V</td><td>Cr</td><td>Mn</td><td>Fe</td><td>Co</td><td>Ni</td><td>Cu</td></tr><tr><th>E<sup>0</sup>(M<sup>2+</sup>/M)</th><td>-1.18</td><td>-0.91</td><td>-1.18</td><td>-0.44</td><td>-0.28</td><td>-0.25</td><td>+0.34</td></tr></tbody></table> <br>Explain the irregularity in above values."
 
     The E<sup>0</sup>(M<sup>2+</sup>/M) values are not regular which can be explained from the irregular variation of ionization enthalpies and also the sublimation enthalpies which are relatively much
     less for manganese and vanadium.
 
-??? question "Why is the E<sup>0</sup> values for the Mn<sup>3+</sup>/Mn<sup>2+</sup> couple much more positive than that of Cr<sup>3+</sup>/Cr<sup>2+</sup> or Fe<sup>3+</sup>/Fe<sup>2+</sup>?"
+!!! question "Why is the E<sup>0</sup> values for the Mn<sup>3+</sup>/Mn<sup>2+</sup> couple much more positive than that of Cr<sup>3+</sup>/Cr<sup>2+</sup> or Fe<sup>3+</sup>/Fe<sup>2+</sup>?"
 
     It is due to much larger third ionization energy of Mn (where the required change is d<sup>5</sup> to d<sup>4</sup>). This also explains why the +3 oxidation state of Mn is of little importance.
 
-??? question "What is meant by disproportionation of an oxidation state? Give an example."
+!!! question "What is meant by disproportionation of an oxidation state? Give an example."
 
     When a particular oxidation state becomes less stable relative to other oxidation states: one lower and one higher, it is said to undergo disproportionation.
 
@@ -118,6 +118,6 @@ description: Transition elements show oxidation states which differ by unity due
 
     $$3MnO_4^{2-} &rarr; 2MnO_4^- + MnO_2 + 2H_2O$$
 
-??? question "Explain why Cu<sup>+</sup> ion is not stable in aqueous solutions?"
+!!! question "Explain why Cu<sup>+</sup> ion is not stable in aqueous solutions?"
 
     It is because Cu<sup>2+</sup> ion is more stable as hydration energy overcomes second ionization energy.

@@ -7,7 +7,7 @@ description: In this article, we will see various questions based on calculation
 
 ## Questions
 
-??? question "5 moles of an ideal gas expands isothermally and reversibly from 1 L to 10 L at 27<sup>o</sup>C. Calculate work done by the gas."
+!!! question "5 moles of an ideal gas expands isothermally and reversibly from 1 L to 10 L at 27<sup>o</sup>C. Calculate work done by the gas."
 
     Since this is an isothermal **reversible** process, we will use integral to calculate total work done by the gas.
 
@@ -27,7 +27,7 @@ description: In this article, we will see various questions based on calculation
 
     $$W = -28720.713\ J$$
 
-??? question "10 moles of an ideal gas expands isothermally and reversibly from pressure 12 atm to 2 atm at 127<sup>o</sup>C. Calculate work done by the gas."
+!!! question "10 moles of an ideal gas expands isothermally and reversibly from pressure 12 atm to 2 atm at 127<sup>o</sup>C. Calculate work done by the gas."
 
     Since this is an isothermal <strong>reversible</strong> process, we will use integral to calculate total work done by the gas.
 
@@ -51,7 +51,7 @@ description: In this article, we will see various questions based on calculation
 
     $$W = -\ 59586.75\ J$$
 
-??? question "3 moles of an ideal gas expands irreversibly at 27<sup>o</sup>C at an external pressure of 10 atm. If pressure of gas decreases from 20 atm to 10 atm, calculate work done by the gas."
+!!! question "3 moles of an ideal gas expands irreversibly at 27<sup>o</sup>C at an external pressure of 10 atm. If pressure of gas decreases from 20 atm to 10 atm, calculate work done by the gas."
 
     Since this is an **irreversible** process, work done can be calculated as:
 
@@ -71,7 +71,7 @@ description: In this article, we will see various questions based on calculation
 
     $$W = -36.945 \times 101.3\ J = -3742.5285\ J$$
 
-??? question "Fixed mass of helium gas expands irreversibly at constant temperature under an external pressure of 10 atm. If volume is increased from 1L to 3L, calculate work done."
+!!! question "Fixed mass of helium gas expands irreversibly at constant temperature under an external pressure of 10 atm. If volume is increased from 1L to 3L, calculate work done."
 
     Since this is **irreversible** process, work done can be calculated as:
 
@@ -85,7 +85,7 @@ description: In this article, we will see various questions based on calculation
 
     $$W = -20 \times 101.3\ J = -2026\ J$$
 
-??? question "5 moles of an ideal gas undergoes isobaric reversible process. If the initial and final temperatures are 127<sup>o</sup>C and 27<sup>o</sup>C, calculate work done."
+!!! question "5 moles of an ideal gas undergoes isobaric reversible process. If the initial and final temperatures are 127<sup>o</sup>C and 27<sup>o</sup>C, calculate work done."
 
     Since this is a <strong>reversible</strong> process, work done can be calculated as:
 
@@ -111,7 +111,7 @@ description: In this article, we will see various questions based on calculation
 
     $$W = 4157\ J$$
 
-??? question "Find the work done when one mole of an ideal gas is expanded reversibly and isothermally from pressure 5 atm to 1 atm at 27<sub>o</sub>C."
+!!! question "Find the work done when one mole of an ideal gas is expanded reversibly and isothermally from pressure 5 atm to 1 atm at 27<sub>o</sub>C."
 
     Since this is a <strong>reversible</strong> process, work done can be calculated as:
 
@@ -133,7 +133,7 @@ description: In this article, we will see various questions based on calculation
 
     $$W = - 4014.26\ J$$
 
-??? question "For a reversible process on a real gas, the volume expands from V<sub>1</sub> to V<sub>2</sub> at pressure P = &alpha;V+&beta;. Calculate the work done."
+!!! question "For a reversible process on a real gas, the volume expands from V<sub>1</sub> to V<sub>2</sub> at pressure P = &alpha;V+&beta;. Calculate the work done."
 
     Since this is a **reversible** process, work done can be calculated as:
 
@@ -147,7 +147,7 @@ description: In this article, we will see various questions based on calculation
 
     $$W = - {&alpha; \over 2}({V_2}^2 - {V_1}^2) - &beta;(V_2 - V_1)$$
 
-??? question "5 moles of a real gas following the equation P = &alpha;V<sup>2</sup> is expanded from 1 L to 5 L isothermally and reversibly at 27<sup>o</sup>C. Calculate the work done by the gas."
+!!! question "5 moles of a real gas following the equation P = &alpha;V<sup>2</sup> is expanded from 1 L to 5 L isothermally and reversibly at 27<sup>o</sup>C. Calculate the work done by the gas."
 
     Since this is a **reversible** process, work done can be calculated as:
 
@@ -161,7 +161,7 @@ description: In this article, we will see various questions based on calculation
 
     $$W = - {&alpha;(5^3 - 1^3) \over 3} = -{124&alpha; \over 3}$$
 
-??? question "5 moles of a real gas undergoing isothermal irreversible expansion from volume 5 L to 10 L at 27<sup>o</sup>C under external pressure of 10 atm. Calculate work done if P(V-0.5n) = nRT."
+!!! question "5 moles of a real gas undergoing isothermal irreversible expansion from volume 5 L to 10 L at 27<sup>o</sup>C under external pressure of 10 atm. Calculate work done if P(V-0.5n) = nRT."
 
     Since this is an irreversible process, work done can be calculated as:
 
@@ -175,7 +175,7 @@ description: In this article, we will see various questions based on calculation
 
     $$W = 5065\ J$$
 
-??? question "5 moles of a real gas undergoing isothermal irreversible expansion from pressure 20 atm to 10 atm at 27<sup>o</sup>C under external pressure of 10 atm. Calculate work done if P(V-0.5n) = nRT."
+!!! question "5 moles of a real gas undergoing isothermal irreversible expansion from pressure 20 atm to 10 atm at 27<sup>o</sup>C under external pressure of 10 atm. Calculate work done if P(V-0.5n) = nRT."
 
     This is an **irreversible** process, so work done = -P<sub>ext</sub>(V<sub>2</sub> - V<sub>1</sub>).
 

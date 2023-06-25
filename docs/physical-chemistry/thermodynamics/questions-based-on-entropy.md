@@ -7,7 +7,7 @@ description: In this article, we will discuss some questions which are based on 
 
 ## Questions
 
-??? question "For an ideal gas C<sub>p</sub> = 2.5R, calculate the change in entropy when 3 moles of this gas is heated from 300 K to 600 K at: (a) Constant pressure (b) Constant volume."
+!!! question "For an ideal gas C<sub>p</sub> = 2.5R, calculate the change in entropy when 3 moles of this gas is heated from 300 K to 600 K at: (a) Constant pressure (b) Constant volume."
 
     $$Given\ values: n = 3,\ C_p = 2.5R,\ T_1 = 300\ K,\ T_2 = 600\ K$$
 
@@ -37,7 +37,7 @@ description: In this article, we will discuss some questions which are based on 
 
     $$&Delta;S = 25.93\ JK^{-1}$$
 
-??? question "Calculate the change in entropy when 3 moles of an ideal gas is heated and compressed simultaneously from 300 K, 1 atm to 400 K, 5 atm. (C<sub>p</sub> = 7R/2)"
+!!! question "Calculate the change in entropy when 3 moles of an ideal gas is heated and compressed simultaneously from 300 K, 1 atm to 400 K, 5 atm. (C<sub>p</sub> = 7R/2)"
 
     Applying the formula of &Delta;S:
 
@@ -51,7 +51,7 @@ description: In this article, we will discuss some questions which are based on 
 
     Since, &Delta;S is negative, this process is non-spontaneous.
 
-??? question "By how much does the entropy of 3 moles of an ideal gas change if pressure is reduced from 2 bar to 1 bar without any change in temperature?"
+!!! question "By how much does the entropy of 3 moles of an ideal gas change if pressure is reduced from 2 bar to 1 bar without any change in temperature?"
 
     $$&Delta;S = nC_pln{T_2 \over T_1} + nRln{P_1 \over P_2}$$
 
@@ -63,7 +63,7 @@ description: In this article, we will discuss some questions which are based on 
 
     $$&Delta;S = 17.288\ JK^{-1}$$
 
-??? question "Evaluate the change in entropy when 3 moles of an ideal gas is heated from 27<sup>o</sup>C to 727<sup>o</sup>C at constant pressure of 1 atm. (C<sub>p</sub> = 23.7 J K<sup>-1</sup>mol<sup>-1</sup>)"
+!!! question "Evaluate the change in entropy when 3 moles of an ideal gas is heated from 27<sup>o</sup>C to 727<sup>o</sup>C at constant pressure of 1 atm. (C<sub>p</sub> = 23.7 J K<sup>-1</sup>mol<sup>-1</sup>)"
 
     $$Given:\ T_1 = (27 + 273) = 300\ K$$
 
@@ -79,7 +79,7 @@ description: In this article, we will discuss some questions which are based on 
 
     $$&Delta;S = 85.6\ JK^{-1}$$
 
-??? question "Nitrogen is heated from 300 K to 600 K at constant pressure of 1 atm. Calculate the change in molar entropy if C<sub>p</sub> = 20 + 10 T, where T = temperature."
+!!! question "Nitrogen is heated from 300 K to 600 K at constant pressure of 1 atm. Calculate the change in molar entropy if C<sub>p</sub> = 20 + 10 T, where T = temperature."
 
     $$&Delta;S = \int {dq_{rev} \over T}$$
 
@@ -103,7 +103,7 @@ description: In this article, we will discuss some questions which are based on 
 
     $$&Delta;S_m = 3013.863\ JK^{-1}mol^{-1}$$
 
-??? question "A five litre container is divided so that 1 L of O<sub>2</sub> gas at 1 atm and 4 L of N<sub>2</sub> gas at 2 atm are on the two sides of the thin membrane. The membrane is then broken, allowing the gas to mix up at 300 K. Calculate the entropy of mixing for this process."
+!!! question "A five litre container is divided so that 1 L of O<sub>2</sub> gas at 1 atm and 4 L of N<sub>2</sub> gas at 2 atm are on the two sides of the thin membrane. The membrane is then broken, allowing the gas to mix up at 300 K. Calculate the entropy of mixing for this process."
 
     * Moles of O<sub>2</sub> gas is given by:
 
@@ -143,7 +143,7 @@ description: In this article, we will discuss some questions which are based on 
 
     $$&Delta;S = (-0.745) + (-0.315) = -1.06\ JK^{-1}$$
 
-??? question "Derive the condition to obtain maximum molar entropy change if two gases are mixed to form a binary mixture."
+!!! question "Derive the condition to obtain maximum molar entropy change if two gases are mixed to form a binary mixture."
 
     * Let the two gases be denoted by A and B. Let the mole fraction of A = &Chi;<sub>A</sub> and mole fraction of B = 1 - &Chi;<sub>A</sub>. Molar entropy change of mixing of these two gases:
 
@@ -169,7 +169,7 @@ description: In this article, we will discuss some questions which are based on 
 
     * Hence, to obtain maximum molar entropy change by mixing two gases A and B, mole fraction of A, &Chi;<sub>A</sub> = 0.5 and mole fraction of B, &Chi;<sub>B</sub> = 0.5, ie, A and B should be equimolar or they should have same number of moles.
 
-??? question "One mole of an ideal gas is expanded isothermally at 298 K until its volume is tripled. Find &Delta;S<sub>gas</sub> and &Delta;S<sub>total</sub> under following conditions: (a) Expansion is reversible (b) Expansion is irreversible where 836.8 J less heat is absorbed than in the first (c) Free expansion"
+!!! question "One mole of an ideal gas is expanded isothermally at 298 K until its volume is tripled. Find &Delta;S<sub>gas</sub> and &Delta;S<sub>total</sub> under following conditions: (a) Expansion is reversible (b) Expansion is irreversible where 836.8 J less heat is absorbed than in the first (c) Free expansion"
 
     * Let's calculate the entropy change for the system or gas.
 
@@ -207,7 +207,7 @@ description: In this article, we will discuss some questions which are based on 
 
     $$So,\ &Delta;S_{total} = &Delta;S_{gas} = 9.134\ JK^{-1}$$
 
-??? question "Calculate the entropy change when 0.5 L of an ideal gas (C<sub>v</sub> = 12.6 JK<sup>-1</sup>mol<sup>-1</sup>) at 300 K and 1 atm pressure is allowed to expand to double its volume and simultaneously heated to 373 K."
+!!! question "Calculate the entropy change when 0.5 L of an ideal gas (C<sub>v</sub> = 12.6 JK<sup>-1</sup>mol<sup>-1</sup>) at 300 K and 1 atm pressure is allowed to expand to double its volume and simultaneously heated to 373 K."
 
     Number of moles, n can be calculated by ideal gas equation:
 
@@ -223,7 +223,7 @@ description: In this article, we will discuss some questions which are based on 
 
     $$&Delta;S = 0.17\ JK^{-1}$$
 
-??? question "The temperature of an ideal monoatomic gas is raised from 25<sup>o</sup>C to 250<sup>o</sup>C. What must be the accompanying pressure change in order that the entropy of gas may be unaffected by the complete process?"
+!!! question "The temperature of an ideal monoatomic gas is raised from 25<sup>o</sup>C to 250<sup>o</sup>C. What must be the accompanying pressure change in order that the entropy of gas may be unaffected by the complete process?"
 
     Given values: T<sub>1</sub> = 25 + 273 = 298 K, T<sub>2</sub> = 250 + 273 = 523 K<br>
 
@@ -247,7 +247,7 @@ description: In this article, we will discuss some questions which are based on 
 
     So, final pressure is four times of the initial pressure.
 
-??? question "By how much does the entropy of 3 moles of an ideal gas change in going from pressure of 2 bar to a pressure of 1 bar without any change in temperature? If the surrounding too is at 1 bar pressure and 300 K temperature and the expansion is against the constant external pressure of surroundings, tell whether the process is reversible or irreversible."
+!!! question "By how much does the entropy of 3 moles of an ideal gas change in going from pressure of 2 bar to a pressure of 1 bar without any change in temperature? If the surrounding too is at 1 bar pressure and 300 K temperature and the expansion is against the constant external pressure of surroundings, tell whether the process is reversible or irreversible."
 
     &Delta;S<sub>system</sub> is given by:
 
@@ -289,7 +289,7 @@ description: In this article, we will discuss some questions which are based on 
 
     Here, &Delta;S<sub>total</sub> > 0. So, process is spontaneous and irreversible.
 
-??? question "100 g of N<sub>2</sub> gas at 300 K is held by a piston under 30 atm. The pressure is suddenly released to 10 atm and gas is allowed to expand adiabatically. If C<sub>v</sub> is 20.8 JK<sup>-1</sup>mol<sup>-1</sup>, calculate &Delta;S<sub>system</sub>."
+!!! question "100 g of N<sub>2</sub> gas at 300 K is held by a piston under 30 atm. The pressure is suddenly released to 10 atm and gas is allowed to expand adiabatically. If C<sub>v</sub> is 20.8 JK<sup>-1</sup>mol<sup>-1</sup>, calculate &Delta;S<sub>system</sub>."
 
     * Moles of N<sub>2</sub>, n = 100/28
 
@@ -325,7 +325,7 @@ description: In this article, we will discuss some questions which are based on 
 
     $$&Delta;S = 10.71\ JK^{-1}$$
 
-??? question "A certain chemical reaction is spontaneous at 72<sup>o</sup>C. If the enthalpy change for the reaction is 19 KJ, what is the minimum value of &Delta;S for the reaction?"
+!!! question "A certain chemical reaction is spontaneous at 72<sup>o</sup>C. If the enthalpy change for the reaction is 19 KJ, what is the minimum value of &Delta;S for the reaction?"
 
     Since, the reaction takes place at constant temperature. So, q<sub>rev</sub> = &Delta;H = 19 KJ = 19000 J.
 

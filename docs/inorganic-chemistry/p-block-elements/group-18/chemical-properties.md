@@ -96,22 +96,22 @@ After this discovery, a number of xenon compounds mainly with most electronegati
 
 ## Questions
 
-??? question "What inspired N. Bartlett for carrying out reaction between Xe and PtF<sub>6</sub>?"
+!!! question "What inspired N. Bartlett for carrying out reaction between Xe and PtF<sub>6</sub>?"
 
     N. Bartlett found that the first ionization enthalpy of molecular oxygen and xenon are almost identical. He first prepared a compound O<sub>2</sub><sup>+</sup>PtF<sub>6</sub><sup>-</sup> and then
     successfully prepared Xe<sup>+</sup>PtF<sub>6</sub><sup>-</sup> at 278 K.
 
     $$Xe + PtF_6 &rarr; Xe^+PtF_6^-$$
 
-??? question "Why is helium gas used in diving apparatus?"
+!!! question "Why is helium gas used in diving apparatus?"
 
     It is used in diving apparatus because of its very low solubility in blood.
 
-??? question "Balance the reaction: XeF<sub>6</sub> + H<sub>2</sub>O &rarr; XeO<sub>2</sub>F<sub>2</sub> + HF"
+!!! question "Balance the reaction: XeF<sub>6</sub> + H<sub>2</sub>O &rarr; XeO<sub>2</sub>F<sub>2</sub> + HF"
 
     XeF<sub>6</sub> + 2H<sub>2</sub>O &rarr; XeO<sub>2</sub>F<sub>2</sub> + 4HF
 
-??? question "Does the hydrolysis of XeF<sub>6</sub> lead to a redox reaction?"
+!!! question "Does the hydrolysis of XeF<sub>6</sub> lead to a redox reaction?"
 
     No, the products of hydrolysis are XeOF<sub>4</sub> and XeO<sub>2</sub>F<sub>2</sub> where the oxidation states of all the elements remain same as it was in the reacting state.
 

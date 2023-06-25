@@ -134,7 +134,7 @@ Transition elements are effective as catalysts due to their ability to:
 
 ## Questions
 
-??? question "Calculate the magnetic moment of a divalent ion in aqueous solution if its atomic number is 25."
+!!! question "Calculate the magnetic moment of a divalent ion in aqueous solution if its atomic number is 25."
 
     Electronic Configuration of divalent ion with Z = 25 is: 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>3d<sup>5</sup>.
 
@@ -144,7 +144,7 @@ Transition elements are effective as catalysts due to their ability to:
 
     $$&mu; = \sqrt{5(5+2)} = 5.92\ BM$$
 
-??? question "Calculate the spin only magnetic moment of M<sup>2+</sup><sub>(aq)</sub> ion (Z = 27)."
+!!! question "Calculate the spin only magnetic moment of M<sup>2+</sup><sub>(aq)</sub> ion (Z = 27)."
 
     Electronic configuration of M<sup>2+</sup><sub>(aq)</sub>: 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>3d<sup>7</sup>.
 

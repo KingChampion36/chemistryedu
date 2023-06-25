@@ -53,7 +53,7 @@ description: In this article, we will discuss Ideal Gas Equation.
 
 ## Questions
 
-??? question "An ideal gas at 300 K is kept in an open container of volume 5 L. When temperature is raised to 500 K keeping pressure constant, calculate the percentage of moles of gas molecules escaped."
+!!! question "An ideal gas at 300 K is kept in an open container of volume 5 L. When temperature is raised to 500 K keeping pressure constant, calculate the percentage of moles of gas molecules escaped."
 
     $$PV = nRT$$
 
@@ -81,7 +81,7 @@ description: In this article, we will discuss Ideal Gas Equation.
 
     $$Percentage\ of\ moles\ of\ gas\ escaped = {1 - {3 \over 5}} \times 100 = 40$$
 
-??? question "A water bubble on the surface has volume = 4V. When it reaches at a depth of 'h', its volume becomes V. If 10 m water = 1 atm, calculate the value of 'h'. <br>![](images/bubble_question.webp){loading=lazy}"
+!!! question "A water bubble on the surface has volume = 4V. When it reaches at a depth of 'h', its volume becomes V. If 10 m water = 1 atm, calculate the value of 'h'. <br>![](images/bubble_question.webp){loading=lazy}"
 
     Let initial pressure be $P_1$, final pressure be $P_2$, initial volume be $V_1$ and final volume be $V_2$.
 
@@ -93,7 +93,7 @@ description: In this article, we will discuss Ideal Gas Equation.
 
     $$ h = 30\ m$$
 
-??? question "Find the common pressure when the stop cork is removed. The scenario is shown below: <br>![](images/stop_cork_question.webp){loading=lazy}"
+!!! question "Find the common pressure when the stop cork is removed. The scenario is shown below: <br>![](images/stop_cork_question.webp){loading=lazy}"
 
     Let the common pressure attained when the stop cork is removed be P.
 

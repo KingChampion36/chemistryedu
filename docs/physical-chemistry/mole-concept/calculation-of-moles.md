@@ -44,7 +44,7 @@ For example, if molecular mass of a molecule is 'x' a.m.u or gram/mole, then it 
 
 ## Questions
 
-??? question "Calculate the number of moles in 10 grams of Ca. Atomic mass of Ca = 40 u."
+!!! question "Calculate the number of moles in 10 grams of Ca. Atomic mass of Ca = 40 u."
 
     #### Method 1 (Unitary Method)
 
@@ -66,7 +66,7 @@ For example, if molecular mass of a molecule is 'x' a.m.u or gram/mole, then it 
 
     $$Number\ of\ moles\ of\ Ca\ atoms = 0.25\ moles$$
 
-??? question "For 5 gram of U<sup>238</sup>, find: (a) number of moles of U (b) Number of atoms of U."
+!!! question "For 5 gram of U<sup>238</sup>, find: (a) number of moles of U (b) Number of atoms of U."
 
     (a) Number of moles of U can be calculated as:
 
@@ -84,7 +84,7 @@ For example, if molecular mass of a molecule is 'x' a.m.u or gram/mole, then it 
 
     $$5\ gram\ of\ U\ has\ {6.022 \times 10^{23} \times 5 \over 238} = {1.27 \times 10^{22}} atoms.$$
 
-??? question "For 10 grams of CaCO<sub>3</sub>, calculate:<br>(a) Number of moles of CaCO<sub>3</sub>.<br>(b) Number of molecules of CaCO<sub>3</sub>.<br>(c) Number of moles of Ca.<br>(d) Number of moles of C.<br>(e) Number of moles of O.<br>(f) Mass of Ca.<br>(g) Mass of C.<br>(h) Mass of O."
+!!! question "For 10 grams of CaCO<sub>3</sub>, calculate:<br>(a) Number of moles of CaCO<sub>3</sub>.<br>(b) Number of molecules of CaCO<sub>3</sub>.<br>(c) Number of moles of Ca.<br>(d) Number of moles of C.<br>(e) Number of moles of O.<br>(f) Mass of Ca.<br>(g) Mass of C.<br>(h) Mass of O."
 
     (a) Number of moles of CaCO<sub>3</sub> is calculated as:
 
@@ -124,7 +124,7 @@ For example, if molecular mass of a molecule is 'x' a.m.u or gram/mole, then it 
 
     $$Mass\ of\ O = moles \times Atomic\ mass = 0.3 \times 16 = 4.8\ grams$$
 
-??? question "Calculate the mass of 1000 molecules of CaCO<sub>3</sub>."
+!!! question "Calculate the mass of 1000 molecules of CaCO<sub>3</sub>."
 
     $$Mass\ of\ 1\ CaCO_3\ molecule = 100\ u$$
 
@@ -134,7 +134,7 @@ For example, if molecular mass of a molecule is 'x' a.m.u or gram/mole, then it 
 
     $$Mass\ of\ 1000\ CaCO_3\ molecules = 1.67 \times 10^{-19} grams$$
 
-??? question "Calculate the mass of 10<sup>20</sup> molecules of CaCO<sub>3</sub>."
+!!! question "Calculate the mass of 10<sup>20</sup> molecules of CaCO<sub>3</sub>."
 
     $$Mass\ of\ 1\ CaCO_3\ molecule = 100\ u$$
 
@@ -144,13 +144,13 @@ For example, if molecular mass of a molecule is 'x' a.m.u or gram/mole, then it 
 
     $$Mass\ of\ 10^{20}\ CaCO_3\ molecules = 1.67 \times 10^{-2} grams$$
 
-??? question "Calculate the mass 5.5 moles of CaCO<sub>3</sub>."
+!!! question "Calculate the mass 5.5 moles of CaCO<sub>3</sub>."
 
     $$Mass\ of\ 5.5\ moles\ of\ CaCO_3 = Moles \times Molecular\ mass$$
 
     $$Mass\ of\ 5.5\ moles\ of\ CaCO_3 = 5.5 \times 100 = 550\ grams$$
 
-??? question "Calculate the number of molecules in 5 grams of CaCO<sub>3</sub>."
+!!! question "Calculate the number of molecules in 5 grams of CaCO<sub>3</sub>."
 
     $$Number\ of\ moles\ of\ CaCO_3 = Moles \times Molecular\ mass$$
 
@@ -160,7 +160,7 @@ For example, if molecular mass of a molecule is 'x' a.m.u or gram/mole, then it 
 
     $$Number\ of\ molecules\ of\ CaCO_3 = 3.011 \times 10^{22}$$
 
-??? question "Calculate the number of moles of O atoms in 10 grams of O<sub>2</sub>."
+!!! question "Calculate the number of moles of O atoms in 10 grams of O<sub>2</sub>."
 
     $$Number\ of\ moles\ of\ O_2 = Moles \times Molecular\ mass$$
 
@@ -170,7 +170,7 @@ For example, if molecular mass of a molecule is 'x' a.m.u or gram/mole, then it 
 
     $$ {10 \over 32}\ mole\ of\ O_2\ contains\ {2 \times 10 \over 32} = {5 \over 8}\ moles\ of\ O\ atoms.$$
 
-??? question "Calculate the number of moles of 10 mL H<sub>2</sub>O. Density of H<sub>2</sub>O is 1 g/mL."
+!!! question "Calculate the number of moles of 10 mL H<sub>2</sub>O. Density of H<sub>2</sub>O is 1 g/mL."
 
     Density of H<sub>2</sub>O is 1 g/mL.
 
@@ -182,7 +182,7 @@ For example, if molecular mass of a molecule is 'x' a.m.u or gram/mole, then it 
 
     $$Moles\ of\ H_2O = {10 \over 18} = {5 \over 9} $$
 
-??? question "Calculate the number of moles of 100 mL ethanol (CH<sub>3</sub>CH<sub>2</sub>OH), whose density is 0.9 g/mL. Molecular mass of ethanol = 46 u."
+!!! question "Calculate the number of moles of 100 mL ethanol (CH<sub>3</sub>CH<sub>2</sub>OH), whose density is 0.9 g/mL. Molecular mass of ethanol = 46 u."
 
     Density of ethanol is 0.9 g/mL.
 

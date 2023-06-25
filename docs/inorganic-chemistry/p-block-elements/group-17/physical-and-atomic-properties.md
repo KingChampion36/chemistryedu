@@ -71,10 +71,10 @@ So, bond dissociation order is: $Cl_2\ >\ Br_2\ >\ F_2\ >\ I_2$
 
 ## Questions
 
-??? question "Halogens have maximum negative electron gain enthalpy in the respective periods of the periodic table. Why?"
+!!! question "Halogens have maximum negative electron gain enthalpy in the respective periods of the periodic table. Why?"
 
     Halogens have the smallest size in their respective periods and therefore have high effective nuclear charge. As a consequence, they readily accept one electron to acquire noble gas electronic configuration.
 
-??? question "Although electron gain enthalpy of fluorine is less negative compared to chlorine, fluorine is a stronger oxidizing agent than chlorine. Why?"
+!!! question "Although electron gain enthalpy of fluorine is less negative compared to chlorine, fluorine is a stronger oxidizing agent than chlorine. Why?"
 
     Fluorine is a better oxidizing agent than chlorine because fluorine has low enthalpy of dissociation of F-F bond. Also, the hydration enthalpy of F<sup>-</sup> ion is high.
