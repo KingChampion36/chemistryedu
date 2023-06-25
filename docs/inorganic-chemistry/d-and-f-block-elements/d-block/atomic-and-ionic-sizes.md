@@ -30,10 +30,10 @@ description: In general, the atomic and ionic radius decreases in 3d series with
 
 ## Questions
 
-??? question "Zr belongs to 2nd d-series and Hf belongs to 3rd d-series but they have very similar physical and chemical properties. Why?"
+!!! question "Zr belongs to 2nd d-series and Hf belongs to 3rd d-series but they have very similar physical and chemical properties. Why?"
 
     It is because they exhibit similar atomic radii due to lanthanoid contraction.
 
-??? question "In the series from Ti (Z = 22) to Cu (Z = 29), copper has the highest density. Explain."
+!!! question "In the series from Ti (Z = 22) to Cu (Z = 29), copper has the highest density. Explain."
 
     It is because density increases in the series due to decrease in atomic radius and increase in atomic mass.

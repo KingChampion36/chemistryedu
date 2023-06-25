@@ -54,6 +54,6 @@ description: The fourteen elements following actinium are called actinoids. Beca
 
 ## Question
 
-??? question "Actinoid contraction is greater from element to element than lanthanoid contraction. Why?"
+!!! question "Actinoid contraction is greater from element to element than lanthanoid contraction. Why?"
 
     It is due to very poor shielding of 5f electrons as compared to 4f electrons.

@@ -129,7 +129,7 @@ Galvanic cells that are designed to convert the energy of combustion of fuels li
 * Fuel cells produce electricity with an efficiency of about 0% compared to thermal plants whose efficiency is about 40%.
 * Fuel cells are pollution free.
 
-??? question "Suggest two materials other than hydrogen that can be used as fuels in fuel cells."
+!!! question "Suggest two materials other than hydrogen that can be used as fuels in fuel cells."
 
     Methane (CH<sub>4</sub>) and methanol (CH<sub>3</sub>OH) are the two materials other than hydrogen that can be used as fuels in fuel cells.
 

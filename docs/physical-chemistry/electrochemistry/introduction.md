@@ -95,7 +95,7 @@ Cathode is an electrode where reduction takes place.
 
 ## Questions
 
-??? question "In an electrolytic solution, 10 gm of Ag needs to be deposited on Cu surface. Calculate the time taken in this process if current passed is 2 x 10<sup>-3</sup> A."
+!!! question "In an electrolytic solution, 10 gm of Ag needs to be deposited on Cu surface. Calculate the time taken in this process if current passed is 2 x 10<sup>-3</sup> A."
 
     $$Ag^+ + e^- &rarr; Ag &darr;$$
 
@@ -119,7 +119,7 @@ Cathode is an electrode where reduction takes place.
 
     Hence, the time taken for deposition of 10 g Ag is 1241 hours.
 
-??? question "In an electrolytic solution Cu gets deposited if 2 A current is passed for 3 hours. Calculate the mass of Cu deposited."
+!!! question "In an electrolytic solution Cu gets deposited if 2 A current is passed for 3 hours. Calculate the mass of Cu deposited."
 
     $$Cu^{2+} + 2e^- &rarr; Cu &darr;$$
 

@@ -65,7 +65,7 @@ Electrolysis can be defined as a process to drive a non-spontaneous reaction by 
 
 ## Question
 
-??? question "In an experiment of two cells in series, current was passed for five hours. The amount of gold deposited was 9.85 grams. Calculate the amount of copper deposited and magnitude of current. (Au = 197 u and Cu = 63.5 u)"
+!!! question "In an experiment of two cells in series, current was passed for five hours. The amount of gold deposited was 9.85 grams. Calculate the amount of copper deposited and magnitude of current. (Au = 197 u and Cu = 63.5 u)"
 
     Reactions of the process are given below:
 

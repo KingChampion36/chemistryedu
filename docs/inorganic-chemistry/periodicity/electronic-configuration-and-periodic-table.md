@@ -37,7 +37,7 @@ Image Credit: [https://en.wikipedia.org/wiki/Periodic_table](https://en.wikipedi
 
 * The 4f and 5f-inner transition series of elements are placed separately in the Periodic Table to maintain its structure and to preserve the principle of classification by keeping elements with similar properties in a single column.
 
-??? question "How would you justify the presence of 18 elements in the 5th period of the Periodic Table?"
+!!! question "How would you justify the presence of 18 elements in the 5th period of the Periodic Table?"
 
     For n = 5, l = 0, 1, 2, 3. Here, l refers to azimuthal quantum number.
 

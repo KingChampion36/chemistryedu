@@ -17,7 +17,7 @@ description: Concentration Terms are used to express the amount of solute dissol
 
     $$w/w = {Mass\ of\ component \times 100 \over Total\ mass\ of\ solution}$$
 
-??? question "If 10 gram sugar is present in 90 gram water, find its mass percentage."
+!!! question "If 10 gram sugar is present in 90 gram water, find its mass percentage."
 
     Here, the mass of solution is (10+90) grams = 100 grams.
 
@@ -33,7 +33,7 @@ description: Concentration Terms are used to express the amount of solute dissol
 
     $$v/v = {Volume\ of\ component \times 100 \over Total\ volume\ of\ solution}$$
 
-??? question "If 10 ml sugar is present in 90 ml water, find its volume percentage."
+!!! question "If 10 ml sugar is present in 90 ml water, find its volume percentage."
 
     Here, the volume of solution is (10+90) ml = 100 ml.
 
@@ -49,7 +49,7 @@ description: Concentration Terms are used to express the amount of solute dissol
 
     $$w/v = {Mass\ of\ component \times 100 \over Total\ volume\ of\ solution}$$
 
-??? question "If 10 grams sugar is present in 100 ml solution, find its volume percentage."
+!!! question "If 10 grams sugar is present in 100 ml solution, find its volume percentage."
 
     Here, the volume of solution is = 100 ml.
 

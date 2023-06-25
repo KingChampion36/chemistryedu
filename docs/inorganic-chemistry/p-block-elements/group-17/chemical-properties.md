@@ -134,21 +134,21 @@ Example: SnCl<sub>4</sub>, PbCl<sub>4</sub>, SbCl<sub>5</sub>, UF<sub>6</sub> ar
 
 ## Questions
 
-??? question "Fluorine exhibits only -1 oxidation state whereas other halogens exhibit +1, +3, +5 and +7 oxidation states. Explain."
+!!! question "Fluorine exhibits only -1 oxidation state whereas other halogens exhibit +1, +3, +5 and +7 oxidation states. Explain."
 
     Fluorine is the most electronegative element and has absence of d-orbital. So, it cannot exhibit any positive oxidation state. Other halogens have d-orbitals and therefore can expand their octets
     and show +1, +3, +5 and +7 oxidation states also.
 
-??? question "Considering the parameters such as bond dissociation enthalpy, electron gain enthalpy and hydration enthalpy, compare the oxidizing power of F<sub>2</sub> and Cl<sub>2</sub>."
+!!! question "Considering the parameters such as bond dissociation enthalpy, electron gain enthalpy and hydration enthalpy, compare the oxidizing power of F<sub>2</sub> and Cl<sub>2</sub>."
 
     Bond dissociation enthalpy: F<sub>2</sub> < Cl<sub>2</sub>, Electron gain enthalpy: F<sub>2</sub> < Cl<sub>2</sub>, Hydration enthalpy: F<sub>2</sub> > Cl<sub>2</sub><br>
     The large value of hydration enthalpy for fluorine compensates the other two effects. Thus, fluorine is the stronger oxidizing agent than chlorine.
 
-??? question "Why is ICl more reactive than I<sub>2</sub>?"
+!!! question "Why is ICl more reactive than I<sub>2</sub>?"
 
     I-Cl bond in ICl is weaker than I-I bond in I<sub>2</sub>. That is why ICl is more reactive than I<sub>2</sub>.
 
-??? question "Give two examples to show anomalous behaviour of fluorine."
+!!! question "Give two examples to show anomalous behaviour of fluorine."
 
     The two examples to show anomalous behaviour of fluorine are:
 

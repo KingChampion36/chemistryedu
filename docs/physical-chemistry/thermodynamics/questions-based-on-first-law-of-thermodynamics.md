@@ -7,7 +7,7 @@ description: In this article, we will see various questions based on first law o
 
 ## Questions
 
-??? question "For an isochoric reversible process, calculate the following if C<sub>v</sub> = 3R/2 for the gas present in the system and 5 moles of gas is heated from 27<sup>o</sup>C to 127<sup>o</sup>C.<br>(a) Work done (W) <br> (b) Heat supplied (q) <br> (c) Change in internal energy (&Delta;U)"
+!!! question "For an isochoric reversible process, calculate the following if C<sub>v</sub> = 3R/2 for the gas present in the system and 5 moles of gas is heated from 27<sup>o</sup>C to 127<sup>o</sup>C.<br>(a) Work done (W) <br> (b) Heat supplied (q) <br> (c) Change in internal energy (&Delta;U)"
 
     (a) Since this is an isochoric process, work done will be zero.
 
@@ -33,7 +33,7 @@ description: In this article, we will see various questions based on first law o
 
     $$q = 6235.5\ J$$
 
-??? question "Five moles of an ideal gas at 300 K is expanded isothermally from an initial pressure of 4 atm to a final pressure of 1 atm against a constant external pressure of 1 atm. Calculate q, W, &Delta;U and &Delta;H. Calculate the corresponding value of all if this process is carried out reversibly."
+!!! question "Five moles of an ideal gas at 300 K is expanded isothermally from an initial pressure of 4 atm to a final pressure of 1 atm against a constant external pressure of 1 atm. Calculate q, W, &Delta;U and &Delta;H. Calculate the corresponding value of all if this process is carried out reversibly."
 
     (a) If the process is carried out <strong>irreversibly</strong>, let's calculate q, W, &Delta;U and &Delta;H.
 
@@ -107,7 +107,7 @@ description: In this article, we will see various questions based on first law o
 
     $$q = 17288.48\ J$$
 
-??? question "One mole of an ideal gas is (C<sub>v</sub> = 20 J K<sup>-1</sup>mol<sup>-1</sup>) is allowed to expand reversibly and adiabatically from a temperature of 27<sup>o</sup>C. If the work done by the gas in the process is 3 KJ, what is the final temperature of the gas?"
+!!! question "One mole of an ideal gas is (C<sub>v</sub> = 20 J K<sup>-1</sup>mol<sup>-1</sup>) is allowed to expand reversibly and adiabatically from a temperature of 27<sup>o</sup>C. If the work done by the gas in the process is 3 KJ, what is the final temperature of the gas?"
 
     We know that for an adiabatic process, heat supplied (q) = 0.
 
@@ -125,7 +125,7 @@ description: In this article, we will see various questions based on first law o
 
     $$T_2 = 150\ K$$
 
-??? question "What is the change in internal energy when a gas contracts irreversibly from 377 mL to 177 mL under a constant pressure of 1520 torr while at the same time being cooled by removing 124 J of heat? (Take 1 atm = 760 torr and 1 atm L = 100 J)"
+!!! question "What is the change in internal energy when a gas contracts irreversibly from 377 mL to 177 mL under a constant pressure of 1520 torr while at the same time being cooled by removing 124 J of heat? (Take 1 atm = 760 torr and 1 atm L = 100 J)"
 
     The given process is irreversible. Heat is removed from the system, so its value will be negative. q = -124 J.
 
@@ -147,7 +147,7 @@ description: In this article, we will see various questions based on first law o
 
     $$&Delta;U = -84\ J$$
 
-??? question "A real gas is subjected to an adiabatic process from (2 bar, 40 L, 300 K) to (4 bar, 40 L, 300 K) against a constant pressure of 4 bar. Calculate the enthalpy change for the process. (Take 1 bar L = 100 J)"
+!!! question "A real gas is subjected to an adiabatic process from (2 bar, 40 L, 300 K) to (4 bar, 40 L, 300 K) against a constant pressure of 4 bar. Calculate the enthalpy change for the process. (Take 1 bar L = 100 J)"
 
     Work done is given by:
 
@@ -173,7 +173,7 @@ description: In this article, we will see various questions based on first law o
 
     $$&Delta;H = 80 \times 100 = 8000\ J$$
 
-??? question "Two moles of an ideal diatomic gas (C<sub>v</sub> = 5R/2) at 300 K and 5 atm pressure is expanded irreversibly and adiabatically to a final pressure of 2 atm against a constant pressure of 1 atm. Calculate q, W, &Delta;H and &Delta;U."
+!!! question "Two moles of an ideal diatomic gas (C<sub>v</sub> = 5R/2) at 300 K and 5 atm pressure is expanded irreversibly and adiabatically to a final pressure of 2 atm against a constant pressure of 1 atm. Calculate q, W, &Delta;H and &Delta;U."
 
     $$Poisson's\ ratio,\ &gamma; = {C_p \over C_v}$$
 
@@ -239,7 +239,7 @@ description: In this article, we will see various questions based on first law o
 
     $$&Delta;U = -4021.4818\ J$$
 
-??? question "One mole of CO<sub>2</sub> gas at 300 K is expanded under reversible adiabatic condition such that its volume becomes 27 times. <br>(a) What is the final temperature? <br>(b) Calculate work done. <br> Given: &gamma; = 4/3, C<sub>v</sub>=25.08 J mol<sup>-1</sup>K<sup>-1</sup> for CO<sub>2</sub>"
+!!! question "One mole of CO<sub>2</sub> gas at 300 K is expanded under reversible adiabatic condition such that its volume becomes 27 times. <br>(a) What is the final temperature? <br>(b) Calculate work done. <br> Given: &gamma; = 4/3, C<sub>v</sub>=25.08 J mol<sup>-1</sup>K<sup>-1</sup> for CO<sub>2</sub>"
 
     (a) Let initial volume, V<sub>1</sub> be V and final volume, V<sub>2</sub> be 27V.
 
@@ -279,7 +279,7 @@ description: In this article, we will see various questions based on first law o
 
     $$W = -4988.4\ J$$
 
-??? question "One mole of an ideal monoatomic gas is expanded irreversibly against an external pressure of 2 bar in two steps: <br>State a(8 bar, 4 L, 300 K) ----> State b(2 bar, 16 L, 300 K) ----> State c(1 bar, 32 L, 300 K)<br> Calculate total heat absorbed by the gas in this process."
+!!! question "One mole of an ideal monoatomic gas is expanded irreversibly against an external pressure of 2 bar in two steps: <br>State a(8 bar, 4 L, 300 K) ----> State b(2 bar, 16 L, 300 K) ----> State c(1 bar, 32 L, 300 K)<br> Calculate total heat absorbed by the gas in this process."
 
     Work done in path ab is given by:
 
@@ -315,7 +315,7 @@ description: In this article, we will see various questions based on first law o
 
     $$q = 5600\ J$$
 
-??? question "Consider the given reaction at 300 K: H<sub>2(g)</sub> + Cl<sub>2(g)</sub> &rarr; 2HCl<sub>(g)</sub><br>&Delta;H for this reaction is -185 KJ/mol. Calculate &Delta;U if 3 moles of H<sub>2</sub> completely react with 3 moles of Cl<sub>2</sub> to form HCl."
+!!! question "Consider the given reaction at 300 K: H<sub>2(g)</sub> + Cl<sub>2(g)</sub> &rarr; 2HCl<sub>(g)</sub><br>&Delta;H for this reaction is -185 KJ/mol. Calculate &Delta;U if 3 moles of H<sub>2</sub> completely react with 3 moles of Cl<sub>2</sub> to form HCl."
 
     For a gaseous phase chemical reaction, we know that:
 
@@ -329,7 +329,7 @@ description: In this article, we will see various questions based on first law o
 
     $$&Delta;U = -555\ KJ$$
 
-??? question "An ideal gas is expanded reversibly so that the amount of heat transferred to the gas is equal to the decrease in its internal energy. Derive the equation of this process in terms of variables T and V."
+!!! question "An ideal gas is expanded reversibly so that the amount of heat transferred to the gas is equal to the decrease in its internal energy. Derive the equation of this process in terms of variables T and V."
 
     The amount of heat transferred to the gas is equal to the decrease in its internal energy means dq = -dU.
 

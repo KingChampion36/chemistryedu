@@ -94,7 +94,7 @@ In this article, we will discuss the chemical properties of alkali metals like r
 
     Lithium is the most powerful reducing agent among alkali metals. It is due to high hydration energy of lithium.
 
-??? question "The E<sup>0</sup> value for Cl<sub>2</sub>/Cl<sup>-</sup> is 1.36, for I<sub>2</sub>/Cl<sup>-</sup> is 0.53, for Ag<sup>+</sup>/Ag is 0.79, for Na<sup>+</sup>/Na is -2.71 and for Li<sup>+</sup>/Li is -3.04. Arrange the following ionic species in decreasing order of reducing strength: I<sup>-</sup>, Ag, Cl<sup>-</sup>, Li, Na"
+!!! question "The E<sup>0</sup> value for Cl<sub>2</sub>/Cl<sup>-</sup> is 1.36, for I<sub>2</sub>/Cl<sup>-</sup> is 0.53, for Ag<sup>+</sup>/Ag is 0.79, for Na<sup>+</sup>/Na is -2.71 and for Li<sup>+</sup>/Li is -3.04. Arrange the following ionic species in decreasing order of reducing strength: I<sup>-</sup>, Ag, Cl<sup>-</sup>, Li, Na"
 
     $$Reducing\ Power &Proportional; -ve\ E^0\ value$$
 

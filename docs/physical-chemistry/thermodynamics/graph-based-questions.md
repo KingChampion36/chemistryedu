@@ -12,7 +12,7 @@ description: In this article, we will see various graph based questions in which
     Please note that in all the questions discussed below, we should assume that the process is reversible because only in case of reversible process, we can calculate work done by finding area under P-V curve (because
     P<sub>ext</sub> will be approximately equal to P<sub>gas</sub>).
 
-??? question "In the process shown in the form of graph where a gas expands from 1 L to 10 L, if heat supplied to the gas is 100 J, calculate the change in internal energy. (Take 1 atm L = 100 J)<br> ![Question 1](images/questions/question_1.png){ loading=lazy }"
+!!! question "In the process shown in the form of graph where a gas expands from 1 L to 10 L, if heat supplied to the gas is 100 J, calculate the change in internal energy. (Take 1 atm L = 100 J)<br> ![Question 1](images/questions/question_1.png){ loading=lazy }"
 
     We know that work done can be calculated by finding area under P-V curve.
 
@@ -36,7 +36,7 @@ description: In this article, we will see various graph based questions in which
 
     $$ &Delta;U = -8900\ J $$
 
-??? question "In the process shown in the form of graph, if change in internal energy is 100 J, calculate q for the process.<br> ![Question 2](images/questions/question_2.png){ loading=lazy }"
+!!! question "In the process shown in the form of graph, if change in internal energy is 100 J, calculate q for the process.<br> ![Question 2](images/questions/question_2.png){ loading=lazy }"
 
     We know that work done can be calculated by finding area under P-V curve.
 
@@ -60,7 +60,7 @@ description: In this article, we will see various graph based questions in which
 
     $$ q = 175\ J $$
 
-??? question "For the process shown below, calculate: (a) W (b) &Delta;U (c) q. <br> ![Question 3](images/questions/question_3.png){ loading=lazy }"
+!!! question "For the process shown below, calculate: (a) W (b) &Delta;U (c) q. <br> ![Question 3](images/questions/question_3.png){ loading=lazy }"
 
     We know that work done can be calculated by finding area under P-V curve.
 
@@ -84,7 +84,7 @@ description: In this article, we will see various graph based questions in which
 
     $$ q = 16&pi;\ J $$
 
-??? question "For the process shown below, calculate: (a) W (b) &Delta;U (c) q. <br> ![Question 4](images/questions/question_4.png){ loading=lazy }"
+!!! question "For the process shown below, calculate: (a) W (b) &Delta;U (c) q. <br> ![Question 4](images/questions/question_4.png){ loading=lazy }"
 
     We know that work done can be calculated by finding area under P-V curve.
 

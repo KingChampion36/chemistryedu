@@ -7,7 +7,7 @@ description: In this article, we will solve some questions related to Nernst Equ
 
 ## Questions
 
-??? question "Represent the cell in which the following reaction takes place: <br>Mg<sub>(s)</sub> + 2Ag<sup>+</sup><sub>(0.0001 M)</sub> &rarr; Mg<sup>2+</sup><sub>(0.130 M)</sub> + 2Ag<sub>(s)</sub> <br>Calculate its E<sub>cell</sub> if E<sup>0</sup><sub>cell</sub> = 3.17 V."
+!!! question "Represent the cell in which the following reaction takes place: <br>Mg<sub>(s)</sub> + 2Ag<sup>+</sup><sub>(0.0001 M)</sub> &rarr; Mg<sup>2+</sup><sub>(0.130 M)</sub> + 2Ag<sub>(s)</sub> <br>Calculate its E<sub>cell</sub> if E<sup>0</sup><sub>cell</sub> = 3.17 V."
 
     * The half cell reactions can be written as:
 
@@ -31,7 +31,7 @@ description: In this article, we will solve some questions related to Nernst Equ
 
     $$E_{cell} = 3.17 - {0.0591 \over 2}log(1.3 \times 10^7) = 2.96\ V$$
 
-??? question "Calculate the emf of cell in which the following reaction takes place: <br>Ni<sub>(s)</sub> + 2Ag<sup>+</sup><sub>(0.002 M)</sub> &rarr; Ni<sup>2+</sup><sub>(0.160 M)</sub> + 2Ag<sub>(s)</sub> <br>Given that: E<sup>0</sup><sub>cell</sub> = 1.05 V."
+!!! question "Calculate the emf of cell in which the following reaction takes place: <br>Ni<sub>(s)</sub> + 2Ag<sup>+</sup><sub>(0.002 M)</sub> &rarr; Ni<sup>2+</sup><sub>(0.160 M)</sub> + 2Ag<sub>(s)</sub> <br>Given that: E<sup>0</sup><sub>cell</sub> = 1.05 V."
 
     * The half cell reactions can be written as:
 
@@ -55,7 +55,7 @@ description: In this article, we will solve some questions related to Nernst Equ
 
     $$E_{cell} = 1.05 - {0.0591 \over 2}log(4 \times 10^4) = 0.91\ V$$
 
-??? question "Calculate the equilibrium constant of the reaction: <br>Cu<sub>(s)</sub> + 2Ag<sup>+</sup><sub>(aq)</sub> &rarr; Cu<sup>2+</sup><sub>(aq)</sub> + 2Ag<sub>(s)</sub> <br>Given that: E<sup>0</sup><sub>cell</sub> = 0.46 V."
+!!! question "Calculate the equilibrium constant of the reaction: <br>Cu<sub>(s)</sub> + 2Ag<sup>+</sup><sub>(aq)</sub> &rarr; Cu<sup>2+</sup><sub>(aq)</sub> + 2Ag<sub>(s)</sub> <br>Given that: E<sup>0</sup><sub>cell</sub> = 0.46 V."
 
     * The half cell reactions can be written as:
 
@@ -73,7 +73,7 @@ description: In this article, we will solve some questions related to Nernst Equ
 
     $$K_c = 3.92 \times 10^{15}$$
 
-??? question "The cell in which the following reaction occurs: <br>2Fe<sup>3+</sup><sub>(aq)</sub> + 2I<sup>-</sup><sub>(aq)</sub> &rarr; 2Fe<sup>+</sup><sub>(aq)</sub> + I<sub>2(aq)</sub> <br>has E<sup>0</sup><sub>cell</sub> = 0.236 V$ at 298 K. Calculate the standard Gibbs energy and the equilibrium constant of the reaction."
+!!! question "The cell in which the following reaction occurs: <br>2Fe<sup>3+</sup><sub>(aq)</sub> + 2I<sup>-</sup><sub>(aq)</sub> &rarr; 2Fe<sup>+</sup><sub>(aq)</sub> + I<sub>2(aq)</sub> <br>has E<sup>0</sup><sub>cell</sub> = 0.236 V$ at 298 K. Calculate the standard Gibbs energy and the equilibrium constant of the reaction."
 
     * The half cell reactions can be written as:
 
@@ -101,7 +101,7 @@ description: In this article, we will solve some questions related to Nernst Equ
 
     $$K_c = 9.6 \times 10^7$$
 
-??? question "The standard electrode potential for Daniell cell is 1.1 V. Calculate the standard Gibbs Energy for the reaction: <br>Zn<sub>(s)</sub> + Cu<sup>2+</sup><sub>(aq)</sub> &rarr; Zn<sup>2+</sup><sub>(aq)</sub> + Cu<sub>(s)</sub>"
+!!! question "The standard electrode potential for Daniell cell is 1.1 V. Calculate the standard Gibbs Energy for the reaction: <br>Zn<sub>(s)</sub> + Cu<sup>2+</sup><sub>(aq)</sub> &rarr; Zn<sup>2+</sup><sub>(aq)</sub> + Cu<sub>(s)</sub>"
 
     Number of electrons exchanged, n = 2
 
@@ -113,7 +113,7 @@ description: In this article, we will solve some questions related to Nernst Equ
 
     $$&Delta;G^0 = -212300\ J = 212.3\ KJ$$
 
-??? question "Calculate the potential of hydrogen electrode in contact with a solution whose pH is 10."
+!!! question "Calculate the potential of hydrogen electrode in contact with a solution whose pH is 10."
 
     * We know that pH can be calculated as:
 

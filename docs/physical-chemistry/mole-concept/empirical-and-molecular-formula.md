@@ -53,7 +53,7 @@ description: Molecular formula gives the number of each atom in a single molecul
 
 ## Question
 
-??? question "An organic compound having mass percentage of C = 53.33%, mass percentage of H = 11.11%, mass percentage of O = 35.56%. Molecular weight of the organic compound is 90 g/mole. Find its empirical formula and molecular formula."
+!!! question "An organic compound having mass percentage of C = 53.33%, mass percentage of H = 11.11%, mass percentage of O = 35.56%. Molecular weight of the organic compound is 90 g/mole. Find its empirical formula and molecular formula."
 
     Let 100 g of that organic compound is taken.
 

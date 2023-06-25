@@ -18,7 +18,7 @@ Halic(VII) acid (Perhalic acid) |	-	                      | HOClO<sub>3</sub> (P
 
 ## Structures of oxoacids
 
-??? tip "Structures of oxoacids"
+!!! tip "Structures of oxoacids"
 
     #### 1. Hypochlorous acid (HOCl)
 
@@ -107,7 +107,7 @@ XX'<sub>7</sub>	| IF<sub>7</sub>     |	Colourless gas                      |	 Pe
 
 ## Question
 
-??? question "Discuss the molecular shape of BrF<sub>3</sub> on the basis of VSEPR theory."
+!!! question "Discuss the molecular shape of BrF<sub>3</sub> on the basis of VSEPR theory."
 
     The structure of BrF<sub>3</sub> is:
 

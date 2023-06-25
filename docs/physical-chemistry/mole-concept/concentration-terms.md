@@ -92,7 +92,7 @@ description: Concentration terms are used to signify the amount of solute dissol
 
 ## Questions
 
-??? question "A 1M H<sub>2</sub>SO<sub>4</sub> solution is taken whose density is 1.1 g/mL. Calculate its molality."
+!!! question "A 1M H<sub>2</sub>SO<sub>4</sub> solution is taken whose density is 1.1 g/mL. Calculate its molality."
 
     $$Molarity\ of\ H_2SO_4\ solution = 1\ M$$
 
@@ -114,7 +114,7 @@ description: Concentration terms are used to signify the amount of solute dissol
 
     $$Molality = {1 \over 1.002} = {500 \over 501}$$
 
-??? question "Two solutions of 100 mL and 200 mL are taken. 100 mL solution containing NaCl has the molarity of 0.2 M while 200 mL solution containing CaCl<sub>2</sub> has molarity of 0.5 M. The two solutions are mixed in a beaker and an additional 100 mL water is added to it. Calculate molarity of Cl<sup>-</sup> ions."
+!!! question "Two solutions of 100 mL and 200 mL are taken. 100 mL solution containing NaCl has the molarity of 0.2 M while 200 mL solution containing CaCl<sub>2</sub> has molarity of 0.5 M. The two solutions are mixed in a beaker and an additional 100 mL water is added to it. Calculate molarity of Cl<sup>-</sup> ions."
 
     * For solution 1:
 
@@ -144,7 +144,7 @@ description: Concentration terms are used to signify the amount of solute dissol
 
     $$Molarity\ of\ Cl^- = {0.22 \over 0.4} = 0.54\ M$$
 
-??? question "5 M HCl solution is given from which x mL is taken out in a container. Water is added to it such that volume of solution becomes 5 L and molarity becomes 1.5 mL. Find x."
+!!! question "5 M HCl solution is given from which x mL is taken out in a container. Water is added to it such that volume of solution becomes 5 L and molarity becomes 1.5 mL. Find x."
 
     ![](images/molarity_quest.webp){ loading=lazy }
 

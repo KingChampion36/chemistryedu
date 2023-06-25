@@ -23,7 +23,7 @@ description: The fraction of reactant dissociated is known as degree of dissocia
 
     $$moles\ of\ A = 2-2&alpha;,\ moles\ of\ B = 2\times 2&alpha;,\ moles\ of\ C = 3\times 3&alpha;$$
 
-??? question "If degree of dissociation of NH<sub>3</sub> is 75%, then calculate the partial pressure of each gas at equilibrium. The total pressure at equilibrium is 1 atm. <br> $2NH_{3_{(g)}} &#8652; N_{2_{(g)}} + 3H_{2_{(g)}}$"
+!!! question "If degree of dissociation of NH<sub>3</sub> is 75%, then calculate the partial pressure of each gas at equilibrium. The total pressure at equilibrium is 1 atm. <br> $2NH_{3_{(g)}} &#8652; N_{2_{(g)}} + 3H_{2_{(g)}}$"
 
     Let us consider that at t = 0, moles of NH<sub>3</sub> = a, moles of N<sub>2</sub> = 0 and moles of H<sub>2</sub> = 0.
 
@@ -47,7 +47,7 @@ description: The fraction of reactant dissociated is known as degree of dissocia
 
 ### 1. Reactions with &Delta;n<sub>g</sub> = 0
 
-??? example "Let us consider an example where &Delta;n<sub>g</sub> is zero (decomposition of HI)"
+!!! example "Let us consider an example where &Delta;n<sub>g</sub> is zero (decomposition of HI)"
 
     $$2HI_{(g)} &#8652; H_{2_{(g)}} + I_{2_{(g)}}$$
 
@@ -107,7 +107,7 @@ description: The fraction of reactant dissociated is known as degree of dissocia
 
 ### 2. Reactions with &Delta;n<sub>g</sub> > 0
 
-??? example "Let us consider an example where &Delta;n<sub>g</sub> > 0 (decomposition of PCl<sub>5</sub>)"
+!!! example "Let us consider an example where &Delta;n<sub>g</sub> > 0 (decomposition of PCl<sub>5</sub>)"
 
     $$PCl_{5_{(g)}} &#8652; PCl_{3_{(g)}} + Cl_{2_{(g)}}$$
 
@@ -157,7 +157,7 @@ description: The fraction of reactant dissociated is known as degree of dissocia
 
 ### 3. Reactions with &Delta;n<sub>g</sub> < 0
 
-??? example "Let us consider a reaction in which &Delta;n<sub>g</sub> is less than 0."
+!!! example "Let us consider a reaction in which &Delta;n<sub>g</sub> is less than 0."
 
     $$N_{2_{(g)}} + 3H_{2_{(g)}} &#8652; 2NH_{3_{(g)}}$$
 

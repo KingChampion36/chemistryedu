@@ -18,7 +18,7 @@ description: First law of thermodynamics is based on energy conservation princip
 
 ## Question
 
-??? question "A gas contained in a cylinder fitted with a frictionless piston expands against a constant external pressure of 1 atm from volume 4 L to 14 L. In doing so, it absorbs 800 J from surrounding. Calculate the change in internal energy of the system."
+!!! question "A gas contained in a cylinder fitted with a frictionless piston expands against a constant external pressure of 1 atm from volume 4 L to 14 L. In doing so, it absorbs 800 J from surrounding. Calculate the change in internal energy of the system."
 
     $$W = - \int\limits_{V_1}^{V_2} P_{ext}dV$$
 

@@ -89,6 +89,6 @@ Thus, mass number is the relative number which says how many times an atom is he
 
 ## Question
 
-??? question "If mass of protons and neutrons are known, why do we not write: Mass of one C<sup>12</sup> atom = 6 x Mass of proton + 6 x Mass of neutron?"
+!!! question "If mass of protons and neutrons are known, why do we not write: Mass of one C<sup>12</sup> atom = 6 x Mass of proton + 6 x Mass of neutron?"
 
     It is because the sum of masses of all nucleons is greater than the actual mass of atom due to binding energy.

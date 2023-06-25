@@ -7,7 +7,7 @@ description: In this article, we will solve some problems based on conductivity 
 
 ## Questions
 
-??? question "Resistance of a conductivity cell filled with 0.1 molL<sup>-1</sup> KCl solution is 100 &ohm;. If the resistance of the same cell filled with 0.02 molL<sup>-1</sup> KCl solution is 520 &ohm;, calculate the conductivity and molar conductivity of 0.02 molL<sup>-1</sup> KCl solution. The conductivity of 0.1 molL<sup>-1</sup> KCL solution is 1.29 S/m."
+!!! question "Resistance of a conductivity cell filled with 0.1 molL<sup>-1</sup> KCl solution is 100 &ohm;. If the resistance of the same cell filled with 0.02 molL<sup>-1</sup> KCl solution is 520 &ohm;, calculate the conductivity and molar conductivity of 0.02 molL<sup>-1</sup> KCl solution. The conductivity of 0.1 molL<sup>-1</sup> KCL solution is 1.29 S/m."
 
     * Cell constant of 0.1 molL<sup>-1</sup> KCl solution:
 
@@ -35,7 +35,7 @@ description: In this article, we will solve some problems based on conductivity 
 
     $$&lambda;_m = 124 \times 10^{-4}\ Sm^2mol^{-1}$$
 
-??? question "The electrical resistance of a column of 0.05 molL<sup>-1</sup> NaOH solution of diameter 1 cm and length 50 cm is 5.55 x 10<sup>3</sup> ohm. Calculate its resistivity, conductivity and molar conductivity."
+!!! question "The electrical resistance of a column of 0.05 molL<sup>-1</sup> NaOH solution of diameter 1 cm and length 50 cm is 5.55 x 10<sup>3</sup> ohm. Calculate its resistivity, conductivity and molar conductivity."
 
     * Resistivity, &rho; is given by:
 
@@ -59,7 +59,7 @@ description: In this article, we will solve some problems based on conductivity 
 
     $$&lambda;_m = 229.6\ Scm^{2}mol^{-1}$$
 
-??? question "Calculate &lambda;<sup>0</sup><sub>m</sub> for CaCl<sub>2</sub> and MgSO<sub>4</sub> if: <br>$&lambda;^0_{(Ca^+)} = 119.0\ Scm^2mol^{-1}$ <br>$&lambda;^0_{(Cl^-)} = 76.3\ Scm^2mol^{-1}$ <br>$&lambda;^0_{(Mg^{2+})} = 106.0\ Scm^2mol^{-1}$ <br>$&lambda;^0_{({SO_4}^{2-})} = 160.0\ Scm^2mol^{-1}$"
+!!! question "Calculate &lambda;<sup>0</sup><sub>m</sub> for CaCl<sub>2</sub> and MgSO<sub>4</sub> if: <br>$&lambda;^0_{(Ca^+)} = 119.0\ Scm^2mol^{-1}$ <br>$&lambda;^0_{(Cl^-)} = 76.3\ Scm^2mol^{-1}$ <br>$&lambda;^0_{(Mg^{2+})} = 106.0\ Scm^2mol^{-1}$ <br>$&lambda;^0_{({SO_4}^{2-})} = 160.0\ Scm^2mol^{-1}$"
 
     &lambda;<sup>0</sup><sub>m</sub> for CaCl<sub>2</sub> and MgSO<sub>4</sub> can be calculated from Kohlraush law:
 
@@ -79,7 +79,7 @@ description: In this article, we will solve some problems based on conductivity 
 
     $$ &lambda;^0_{m(MgSO_4)} = 266\ Scm^2mol^{-1}$$
 
-??? question "&lambda;<sup>0</sup><sub>m</sub> for NaCl, HCl and NaAc are 126.4, 425.9 and 91.0 Scm<sup>2</sup>mol<sup>-1</sup> respectively. Calculate &lambda;<sup>0</sup><sub>m</sub> for HAc."
+!!! question "&lambda;<sup>0</sup><sub>m</sub> for NaCl, HCl and NaAc are 126.4, 425.9 and 91.0 Scm<sup>2</sup>mol<sup>-1</sup> respectively. Calculate &lambda;<sup>0</sup><sub>m</sub> for HAc."
 
     $$ &lambda;^0_{m(HAc)} = &lambda;^0_{m(H^{+})} + &lambda;^0_{m(Ac^-)}$$
 
@@ -91,7 +91,7 @@ description: In this article, we will solve some problems based on conductivity 
 
     $$ &lambda;^0_{m(HAc)} = 390.5\ Scm^2mol^{-1}$$
 
-??? question "The conductivity of 0.001028 molL<sup>-1</sup> acetic acid is 4.95 x 10<sup>-5</sup> Scm<Sup>-1</sup>. Calculate its dissociation constant if &lambda;<sup>0</sup><sub>m</sub> for acetic acid is 390.5 Scm<sup>2</sup>mol<sup>-1</sup>."
+!!! question "The conductivity of 0.001028 molL<sup>-1</sup> acetic acid is 4.95 x 10<sup>-5</sup> Scm<Sup>-1</sup>. Calculate its dissociation constant if &lambda;<sup>0</sup><sub>m</sub> for acetic acid is 390.5 Scm<sup>2</sup>mol<sup>-1</sup>."
 
     $$ &lambda;_m = {&Kappa; \over C} $$
 
@@ -111,7 +111,7 @@ description: In this article, we will solve some problems based on conductivity 
 
     $$ &Kappa; = 1.78 \times 10^{-5}\ molL^{-1}$$
 
-??? question "The molar conductivity of 0.025 molL<sup>-1</sup> methanoic acid is 46.1 Scm<sup>2</sup>mol<sup>-1</sup>. Calculate its degree of dissociation and dissociation constant. Given &lambda;<sup>0</sup><sub>m(H<sup>+</sup>)</sub> = 349.6 Scm<sup>2</sup>mol<sup>-1</sup> and &lambda;<sup>0</sup><sub>m(HCOO<sup>-1</sup>)</sub> = 54.6 Scm<sup>2</sup>mol<sup>-1</sup>."
+!!! question "The molar conductivity of 0.025 molL<sup>-1</sup> methanoic acid is 46.1 Scm<sup>2</sup>mol<sup>-1</sup>. Calculate its degree of dissociation and dissociation constant. Given &lambda;<sup>0</sup><sub>m(H<sup>+</sup>)</sub> = 349.6 Scm<sup>2</sup>mol<sup>-1</sup> and &lambda;<sup>0</sup><sub>m(HCOO<sup>-1</sup>)</sub> = 54.6 Scm<sup>2</sup>mol<sup>-1</sup>."
 
     $$ &lambda;_{m(HCOOH)} = (349.6 + 54.6)\ Scm^2mol^{-1} $$
 
@@ -131,7 +131,7 @@ description: In this article, we will solve some problems based on conductivity 
 
     $$ K_a = 3.67 \times 10^{-4}\ molL^{-1}$$
 
-??? question "Suggest a way to determine the &lambda;<sup>0</sup><sub>m</sub> value of water."
+!!! question "Suggest a way to determine the &lambda;<sup>0</sup><sub>m</sub> value of water."
 
     Molar conductivity of water can be calculated using the below method:
 
@@ -143,7 +143,7 @@ description: In this article, we will solve some problems based on conductivity 
 
     $$ &lambda;_{m(H_2O)} = &lambda;_{m(HCl)} + &lambda;_{m(NaOH)} - &lambda;_{m(NaCl)} $$
 
-??? question "Why does the conductivity of a solution decrease with dilution?"
+!!! question "Why does the conductivity of a solution decrease with dilution?"
 
     The conductivity of a solution is related with the number of ions present per unit volume of the solution. When the solution is diluted, the number of ions per unit volume of solution decreases.
     Hence, conductivity of the solution also decreases.
