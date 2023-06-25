@@ -133,7 +133,7 @@ description: The fraction of reactant dissociated is known as degree of dissocia
 
     $$K_c = {[PCl_3][Cl_2]\over [PCl_5]}$$
 
-    $$K_c = {{a&alpha;\over V}\times{a&alpha;\over V}\over{a(1-&alpha;)\over V}} = {a&alpha; \over (1-&alpha;)V}$$
+    $$K_c = {{a&alpha;\over V}\times{a&alpha;\over V}\over{a(1-&alpha;)\over V}} = {a&alpha;^2 \over (1-&alpha;)V}$$
 
     Now, let us calculate K<sub>p</sub> in terms of pressure. Let the total pressure be P.
 
