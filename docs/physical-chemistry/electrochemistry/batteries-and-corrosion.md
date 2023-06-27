@@ -25,7 +25,7 @@ Examples of primary batteries are:
 
 ### Dry cell or Leclanche cell
 
-* It consists of zinc container that also acts as anode and the cathode is a carbon (graphite) road surrounded by powdered manganese dioxide and carbon.
+* It consists of zinc container that also acts as anode and the cathode is a carbon (graphite) rod surrounded by powdered manganese dioxide and carbon.
 
 * The space between the electrodes is filled by a moist paste of ammonium chloride (NH<sub>4</sub>Cl) and zinc chloride (ZnCl<sub>2</sub>). The electrode reactions are complex but they can be written approximately as:
 
@@ -43,7 +43,7 @@ Examples of primary batteries are:
 
 ### Mercury Cell
 
-* Mercury cell, suitable for low current devices like hearing aids, watched etc consists of zinc in mercury amalgam as anode and a paste of HgO and carbon as cathode.
+* Mercury cell, suitable for low current devices like hearing aids, watches etc consists of zinc in mercury amalgam as anode and a paste of HgO and carbon as cathode.
 
 * The electrolyte is a paste of KOH and ZnO. The electrode reactions for the cell are given below:
 
@@ -126,7 +126,7 @@ Galvanic cells that are designed to convert the energy of combustion of fuels li
 
 ### Advantages of fuel cells
 
-* Fuel cells produce electricity with an efficiency of about 0% compared to thermal plants whose efficiency is about 40%.
+* Fuel cells produce electricity with an efficiency of about 60% compared to thermal plants whose efficiency is about 40%.
 * Fuel cells are pollution free.
 
 !!! question "Suggest two materials other than hydrogen that can be used as fuels in fuel cells."
