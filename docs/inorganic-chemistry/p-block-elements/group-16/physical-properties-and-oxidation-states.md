@@ -9,10 +9,9 @@ description: In this article, we will discuss physical properties like boiling a
 
 ### 1. Type:
 
-* Oxygen, sulphur -> Non metals
-* Selenium, tellurium -> Metalloids
-* Polonium -> Metal
-* Polonium is a radioactive element.
+* Oxygen and sulphur are non metals.
+* Selenium and tellurium are Metalloids.
+* Polonium is a metal and is a radioactive element.
 
 ### 2. Melting and boiling points:
 
