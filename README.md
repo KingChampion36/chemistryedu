@@ -2,7 +2,7 @@
 
 Documentation for intermediate level chemistry.
 
-[build_icon]: https://github.com/KingChampion36/chemistryedu/actions/workflows/ci.yml/badge.svg?branch=master
+[build_icon]: https://github.com/KingChampion36/chemistryedu/actions/workflows/ci.yml/badge.svg?branch=main
 [build_url]: https://github.com/KingChampion36/chemistryedu/actions
 
 [![GH Pages Deployment][build_icon]][build_url]
