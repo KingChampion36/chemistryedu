@@ -37,5 +37,4 @@ description: In this article, we will discuss chemical reactivity of group 16 el
 * The well known monohalides are dimeric in nature. These dimeric halides undergo disproportionation as below:
 
 !!! tip ""
-
-    $$2Se_2Cl_2 &rarr; SeCl_4 + 3Se$$
+    $$ 2Se_2Cl_2 &rarr; SeCl_4 + 3Se $$
