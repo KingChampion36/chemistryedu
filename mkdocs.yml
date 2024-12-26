@@ -1,6 +1,6 @@
 site_name: ChemistryEdu
 site_url: https://chemistryedu.org
-copyright: Copyright &copy; chemistryedu.org 2024
+copyright: Copyright &copy; chemistryedu.org <span id="year"></span> <script>document.getElementById('year').innerText = new Date().getFullYear();</script>
 
 markdown_extensions:
   - toc:
