@@ -36,4 +36,5 @@ description: In this article, we will discuss chemical reactivity of group 16 el
 * All the elements except selenium form dichlorides and dibromides. These halides are formed by sp<sup>3</sup> hybridisation and have tetrahedral structure.
 * The well known monohalides are dimeric in nature. These dimeric halides undergo disproportionation as below:
 
-  $$2Se_2Cl_2 &rarr; SeCl_4 + 3Se$$
+  $$ 2Se_2Cl_2 &rarr; SeCl_4 + 3Se $$
+
