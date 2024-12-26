@@ -180,6 +180,8 @@ nav:
               - Anomalous Properties of Lithium: inorganic-chemistry/s-block-elements/alkali-metals/anomolous-properties-of-lithium.md
               - Compounds of Sodium: inorganic-chemistry/s-block-elements/alkali-metals/compounds-of-sodium.md
       - p-block Elements:
+          - Group 16:
+            - Atomic Properties: inorganic-chemistry/p-block-elements/group-16/atomic-properties.md
           - Group 17:
               - Physical and Atomic Properties: inorganic-chemistry/p-block-elements/group-17/physical-and-atomic-properties.md
               - Chemical Properties: inorganic-chemistry/p-block-elements/group-17/chemical-properties.md
