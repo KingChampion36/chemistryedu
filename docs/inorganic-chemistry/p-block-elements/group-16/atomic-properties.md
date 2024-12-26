@@ -7,7 +7,7 @@ description: Group 16 elements are also known as chalcogens. The elements of gro
 
 Group 16 elements are also known as chalcogens. The elements of group 16 are Oxygen(O), Sulphur(S), Selenium(Se), Tellurium(Te) and Polonium(Po).
 
-## Atomic Properties
+## Atomic Properties of Group 16 Elements
 
 ### 1. Electronic Configuration
 
