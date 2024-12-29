@@ -12,8 +12,8 @@ description: In this article, we will discuss chemical reactivity of group 16 el
 ### Properties of Hydrides:
 
 * Their acidic character increases from H<sub>2</sub>O to H<sub>2</sub>Te due to decrease in bond enthalpy of H-E bond down the group.
-* Thermal stability of hydrides decreases down H<sub>2</sub>O to H<sub>2>Po due to decrease in bond dissociation enthalpy of H<sub>2</sub>O to H<sub>2>Po.
-* All the hydrides except water possess reducing property and this character increases from H<sub>2</sub>S to H<sub>2>Te.
+* Thermal stability of hydrides decreases down H<sub>2</sub>O to H<sub>2</sub>Po due to decrease in bond dissociation enthalpy of H<sub>2</sub>O to H<sub>2</sub>Po.
+* All the hydrides except water possess reducing property and this character increases from H<sub>2</sub>S to H<sub>2</sub>Te.
 
 ## 2. Reactivity with Oxygen:
 
