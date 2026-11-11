@@ -7,7 +7,7 @@ description: If you require any more information or have any questions about our
 
 If you require any more information or have any questions about our site's disclaimer, please feel free to contact us.
 
-All the information on this website - chemistryedu.org - is published in good faith and for general information purpose only. chemistryedu does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (chemistryedu), is strictly at your own risk. chemistryedu will not be liable for any losses and/or damages in connection with the use of our website.
+All the information on this website - [ChemistryEdu](../index.md) - is published in good faith and for general information purpose only. chemistryedu does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (chemistryedu), is strictly at your own risk. chemistryedu will not be liable for any losses and/or damages in connection with the use of our website.
 
 From our website, you can visit other websites by following hyperlinks to such external sites. While we strive to provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites. These links to other websites do not imply a recommendation for all the content found on these sites. Site owners and content may change without notice and may occur before we have the opportunity to remove a link which may have gone 'bad'.
 

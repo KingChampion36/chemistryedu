@@ -1,6 +1,6 @@
 ---
 title: ChemistryEdu | An educational site for learners
-description: ChemistryEdu.Org is an educational site which discusses the concepts of chemistry in very detail. Chemistry is the science that deals with the properties, composition, and structure of substances (defined as elements and compounds), the transformations they undergo, and the energy that is released or absorbed during these processes.
+description: ChemistryEdu is an educational site which discusses the concepts of chemistry in very detail. Chemistry is the science that deals with the properties, composition, and structure of substances (defined as elements and compounds), the transformations they undergo, and the energy that is released or absorbed during these processes.
 ---
 
 # [![ChemistryEdu Logo](images/favicon.svg){ align=left, width=3.8% }](index.md) ChemistryEdu
