@@ -107,6 +107,15 @@ nav:
           - Vapour Density: physical-chemistry/mole-concept/vapour-density.md
           - Empirical and Molecular Formula: physical-chemistry/mole-concept/empirical-and-molecular-formula.md
           - Concentration Terms: physical-chemistry/mole-concept/concentration-terms.md
+      - Structure of Atom:
+          - Introduction and Sub-atomic Particles: physical-chemistry/structure-of-atom/introduction.md
+          - Atomic Models: physical-chemistry/structure-of-atom/atomic-models.md
+          - Electromagnetic Radiation and Planck's Quantum Theory: physical-chemistry/structure-of-atom/electromagnetic-radiation-and-plancks-quantum-theory.md
+          - Bohr's Model and Hydrogen Spectrum: physical-chemistry/structure-of-atom/bohr-model-and-hydrogen-spectrum.md
+          - Dual Nature of Matter and Uncertainty Principle: physical-chemistry/structure-of-atom/dual-nature-and-uncertainty-principle.md
+          - Quantum Mechanical Model of Atom: physical-chemistry/structure-of-atom/quantum-mechanical-model-of-atom.md
+          - Electronic Configuration: physical-chemistry/structure-of-atom/electronic-configuration.md
+          - Questions Based on Structure of Atom: physical-chemistry/structure-of-atom/questions-based-on-structure-of-atom.md
       - Gaseous State:
           - Introduction: physical-chemistry/gaseous-state/introduction.md
           - Gas Laws: physical-chemistry/gaseous-state/gas-laws.md
@@ -138,6 +147,15 @@ nav:
           - Degree of Dissociation: physical-chemistry/chemical-equilibrium/degree-of-dissociation.md
           - Reaction Quotient: physical-chemistry/chemical-equilibrium/reaction-quotient.md
           - Le Chatelier's Principle: physical-chemistry/chemical-equilibrium/le-chateliers-principle.md
+      - Ionic Equilibrium:
+          - Introduction: physical-chemistry/ionic-equilibrium/introduction.md
+          - Ionic Product of Water and pH: physical-chemistry/ionic-equilibrium/ionic-product-of-water-and-ph.md
+          - Ionization of Weak Acids and Bases: physical-chemistry/ionic-equilibrium/ionization-of-weak-acids-and-bases.md
+          - Polybasic Acids and Acid Strength: physical-chemistry/ionic-equilibrium/polybasic-acids-and-acid-strength.md
+          - Common Ion Effect: physical-chemistry/ionic-equilibrium/common-ion-effect.md
+          - Hydrolysis of Salts: physical-chemistry/ionic-equilibrium/hydrolysis-of-salts.md
+          - Buffer Solutions: physical-chemistry/ionic-equilibrium/buffer-solutions.md
+          - Solubility Product: physical-chemistry/ionic-equilibrium/solubility-product.md
       - Solution:
           - Introduction: physical-chemistry/solution/introduction.md
           - Concentration Terms: physical-chemistry/solution/concentration-terms.md
@@ -150,6 +168,14 @@ nav:
           - Azeotropes and Zeotropes: physical-chemistry/solution/azeotropes-and-zeotropes.md
           - Solution of Solids in Liquid: physical-chemistry/solution/solution-of-solids-in-liquids.md
           - Colligative Properties of Dilute Solution: physical-chemistry/solution/colligative-properties-of-dilute-solutions.md
+      - Redox Reactions:
+          - Introduction: physical-chemistry/redox-reactions/introduction.md
+          - Oxidation Number: physical-chemistry/redox-reactions/oxidation-number.md
+          - Types of Redox Reactions: physical-chemistry/redox-reactions/types-of-redox-reactions.md
+          - Balancing of Redox Reactions: physical-chemistry/redox-reactions/balancing-redox-reactions.md
+          - Redox Titrations and Electrode Processes: physical-chemistry/redox-reactions/redox-titrations-and-electrode-processes.md
+          - Questions Based on Oxidation Number: physical-chemistry/redox-reactions/questions-based-on-oxidation-number.md
+          - Questions Based on Redox Reactions: physical-chemistry/redox-reactions/questions-based-on-redox-reactions.md
       - Electrochemistry:
           - Introduction: physical-chemistry/electrochemistry/introduction.md
           - Faraday's Laws of Electrolysis: physical-chemistry/electrochemistry/faraday's-laws-of-electrolysis.md
@@ -162,6 +188,32 @@ nav:
           - Variation of Conductivity and Molar Conductivity with Concentration: physical-chemistry/electrochemistry/variation-of-conductivity-with-concentration.md
           - Questions based on Conductivity: physical-chemistry/electrochemistry/questions-based-on-conductivity.md
           - Batteries and Corrosion: physical-chemistry/electrochemistry/batteries-and-corrosion.md
+      - Solid State:
+          - Introduction: physical-chemistry/solid-state/introduction.md
+          - Crystal Lattices and Unit Cells: physical-chemistry/solid-state/crystal-lattices-and-unit-cells.md
+          - Close Packed Structures and Voids: physical-chemistry/solid-state/close-packed-structures.md
+          - Packing Efficiency and Density: physical-chemistry/solid-state/packing-efficiency-and-density.md
+          - Imperfections in Solids: physical-chemistry/solid-state/imperfections-in-solids.md
+          - Electrical and Magnetic Properties: physical-chemistry/solid-state/electrical-and-magnetic-properties.md
+          - Questions on Solid State: physical-chemistry/solid-state/questions-on-solid-state.md
+      - Chemical Kinetics:
+          - Introduction: physical-chemistry/chemical-kinetics/introduction.md
+          - Rate Law, Order and Molecularity: physical-chemistry/chemical-kinetics/rate-law-order-and-molecularity.md
+          - Integrated Rate Equations: physical-chemistry/chemical-kinetics/integrated-rate-equations.md
+          - Half-Life and Pseudo First Order Reactions: physical-chemistry/chemical-kinetics/half-life-and-pseudo-first-order-reactions.md
+          - Temperature Dependence and Collision Theory: physical-chemistry/chemical-kinetics/temperature-dependence-and-collision-theory.md
+          - Questions Based on Rate Law: physical-chemistry/chemical-kinetics/questions-based-on-rate-law.md
+          - Questions Based on Integrated Rate Equations: physical-chemistry/chemical-kinetics/questions-based-on-integrated-rate-equations.md
+          - Questions Based on Arrhenius Equation: physical-chemistry/chemical-kinetics/questions-based-on-arrhenius-equation.md
+      - Surface Chemistry:
+          - Adsorption: physical-chemistry/surface-chemistry/adsorption.md
+          - Adsorption Isotherms: physical-chemistry/surface-chemistry/adsorption-isotherms.md
+          - Catalysis: physical-chemistry/surface-chemistry/catalysis.md
+          - Enzyme Catalysis: physical-chemistry/surface-chemistry/enzyme-catalysis.md
+          - Colloids and their Classification: physical-chemistry/surface-chemistry/classification-of-colloids.md
+          - Preparation and Purification of Colloids: physical-chemistry/surface-chemistry/preparation-and-purification-of-colloids.md
+          - Properties of Colloids: physical-chemistry/surface-chemistry/properties-of-colloids.md
+          - Emulsions and Colloids Around Us: physical-chemistry/surface-chemistry/emulsions-and-colloids-around-us.md
   - Inorganic Chemistry:
       - Periodicity:
           - Periodic Classification: inorganic-chemistry/periodicity/periodic-classification.md
@@ -170,6 +222,23 @@ nav:
           - Metals, Non-Metals and Metalloids: inorganic-chemistry/periodicity/metals-non-metals-and-metalloids.md
           - Trends in Physical Properties: inorganic-chemistry/periodicity/trends-in-physical-properties.md
           - Trends in Chemical Properties: inorganic-chemistry/periodicity/trends-in-chemical-properties.md
+      - Chemical Bonding:
+          - Kössel-Lewis Approach: inorganic-chemistry/chemical-bonding/kossel-lewis-approach.md
+          - Ionic Bond and Bond Parameters: inorganic-chemistry/chemical-bonding/ionic-bond-and-bond-parameters.md
+          - Polarity and Dipole Moment: inorganic-chemistry/chemical-bonding/polarity-and-dipole-moment.md
+          - VSEPR Theory: inorganic-chemistry/chemical-bonding/vsepr-theory.md
+          - Valence Bond Theory: inorganic-chemistry/chemical-bonding/valence-bond-theory.md
+          - Hybridisation: inorganic-chemistry/chemical-bonding/hybridisation.md
+          - Molecular Orbital Theory: inorganic-chemistry/chemical-bonding/molecular-orbital-theory.md
+          - Hydrogen Bonding: inorganic-chemistry/chemical-bonding/hydrogen-bonding.md
+      - Hydrogen:
+          - Introduction: inorganic-chemistry/hydrogen/introduction.md
+          - Dihydrogen: inorganic-chemistry/hydrogen/dihydrogen.md
+          - Hydrides: inorganic-chemistry/hydrogen/hydrides.md
+          - Water: inorganic-chemistry/hydrogen/water.md
+          - Hard and Soft Water: inorganic-chemistry/hydrogen/hard-and-soft-water.md
+          - Hydrogen Peroxide: inorganic-chemistry/hydrogen/hydrogen-peroxide.md
+          - Heavy Water and Hydrogen as a Fuel: inorganic-chemistry/hydrogen/heavy-water-and-hydrogen-as-fuel.md
       - s-block Elements:
           - Alkali Metals:
               - General Characteristics: inorganic-chemistry/s-block-elements/alkali-metals/general-characteristics.md
@@ -178,7 +247,33 @@ nav:
               - Compounds of Alkali Metals: inorganic-chemistry/s-block-elements/alkali-metals/compounds-of-alkali-metals.md
               - Anomalous Properties of Lithium: inorganic-chemistry/s-block-elements/alkali-metals/anomolous-properties-of-lithium.md
               - Compounds of Sodium: inorganic-chemistry/s-block-elements/alkali-metals/compounds-of-sodium.md
+          - Alkaline Earth Metals:
+              - General Characteristics: inorganic-chemistry/s-block-elements/alkaline-earth-metals/general-characteristics.md
+              - Physical Characteristics: inorganic-chemistry/s-block-elements/alkaline-earth-metals/physical-characteristics.md
+              - Chemical Characteristics: inorganic-chemistry/s-block-elements/alkaline-earth-metals/chemical-characteristics.md
+              - Compounds of Alkaline Earth Metals: inorganic-chemistry/s-block-elements/alkaline-earth-metals/compounds-of-alkaline-earth-metals.md
+              - Anomalous Behaviour of Beryllium: inorganic-chemistry/s-block-elements/alkaline-earth-metals/anomalous-behaviour-of-beryllium.md
+              - Compounds of Calcium: inorganic-chemistry/s-block-elements/alkaline-earth-metals/compounds-of-calcium.md
+              - Questions: inorganic-chemistry/s-block-elements/alkaline-earth-metals/questions.md
       - p-block Elements:
+          - Group 13:
+              - Physical and Atomic Properties: inorganic-chemistry/p-block-elements/group-13/physical-and-atomic-properties.md
+              - Chemical Properties: inorganic-chemistry/p-block-elements/group-13/chemical-properties.md
+              - Important Compounds of Boron: inorganic-chemistry/p-block-elements/group-13/important-compounds-of-boron.md
+              - Questions: inorganic-chemistry/p-block-elements/group-13/questions.md
+          - Group 14:
+              - Physical and Atomic Properties: inorganic-chemistry/p-block-elements/group-14/physical-and-atomic-properties.md
+              - Chemical Properties: inorganic-chemistry/p-block-elements/group-14/chemical-properties.md
+              - Allotropes of Carbon: inorganic-chemistry/p-block-elements/group-14/allotropes-of-carbon.md
+              - Important Compounds of Carbon and Silicon: inorganic-chemistry/p-block-elements/group-14/important-compounds-of-carbon-and-silicon.md
+              - Questions: inorganic-chemistry/p-block-elements/group-14/questions.md
+          - Group 15:
+              - Physical and Atomic Properties: inorganic-chemistry/p-block-elements/group-15/physical-and-atomic-properties.md
+              - Chemical Properties: inorganic-chemistry/p-block-elements/group-15/chemical-properties.md
+              - Dinitrogen and Ammonia: inorganic-chemistry/p-block-elements/group-15/dinitrogen-and-ammonia.md
+              - Oxides of Nitrogen and Nitric Acid: inorganic-chemistry/p-block-elements/group-15/oxides-of-nitrogen-and-nitric-acid.md
+              - Allotropes of Phosphorus and Phosphine: inorganic-chemistry/p-block-elements/group-15/phosphorus-allotropes-and-phosphine.md
+              - Phosphorus Halides and Oxoacids: inorganic-chemistry/p-block-elements/group-15/phosphorus-halides-and-oxoacids.md
           - Group 16:
             - Atomic Properties: inorganic-chemistry/p-block-elements/group-16/atomic-properties.md
             - Physical Properties and Oxidation States: inorganic-chemistry/p-block-elements/group-16/physical-properties-and-oxidation-states.md
@@ -201,9 +296,105 @@ nav:
           - f-block Elements:
               - Lanthanoids and their Properties: inorganic-chemistry/d-and-f-block-elements/f-block/lanthanoids-and-their-properties.md
               - Actinoids and their Properties: inorganic-chemistry/d-and-f-block-elements/f-block/actinoids-and-their-properties.md
+      - Coordination Compounds:
+          - Introduction and Werner's Theory: inorganic-chemistry/coordination-compounds/introduction.md
+          - Important Terms: inorganic-chemistry/coordination-compounds/important-terms.md
+          - IUPAC Nomenclature: inorganic-chemistry/coordination-compounds/nomenclature.md
+          - Isomerism: inorganic-chemistry/coordination-compounds/isomerism.md
+          - Valence Bond Theory: inorganic-chemistry/coordination-compounds/valence-bond-theory.md
+          - Crystal Field Theory: inorganic-chemistry/coordination-compounds/crystal-field-theory.md
+          - Metal Carbonyls, Stability and Applications: inorganic-chemistry/coordination-compounds/metal-carbonyls-stability-and-applications.md
+          - Questions: inorganic-chemistry/coordination-compounds/questions.md
+      - Metallurgy:
+          - Introduction: inorganic-chemistry/metallurgy/introduction.md
+          - Concentration of Ores: inorganic-chemistry/metallurgy/concentration-of-ores.md
+          - Conversion to Oxide and Reduction: inorganic-chemistry/metallurgy/conversion-to-oxide-and-reduction.md
+          - Thermodynamic Principles and Ellingham Diagram: inorganic-chemistry/metallurgy/thermodynamic-principles.md
+          - Extraction of Iron, Copper and Zinc: inorganic-chemistry/metallurgy/extraction-of-iron-copper-and-zinc.md
+          - Electrochemical Principles and Oxidation-Reduction: inorganic-chemistry/metallurgy/electrochemical-principles.md
+          - Refining and Uses of Metals: inorganic-chemistry/metallurgy/refining-and-uses.md
+          - Questions: inorganic-chemistry/metallurgy/questions.md
+      - Environmental Chemistry:
+          - Introduction: inorganic-chemistry/environmental-chemistry/introduction.md
+          - Tropospheric Pollution: inorganic-chemistry/environmental-chemistry/tropospheric-pollution.md
+          - Particulate Pollutants and Smog: inorganic-chemistry/environmental-chemistry/particulate-pollutants-and-smog.md
+          - Stratospheric Pollution: inorganic-chemistry/environmental-chemistry/stratospheric-pollution.md
+          - Water and Soil Pollution: inorganic-chemistry/environmental-chemistry/water-and-soil-pollution.md
+          - Pollution Control and Green Chemistry: inorganic-chemistry/environmental-chemistry/green-chemistry.md
+          - Questions: inorganic-chemistry/environmental-chemistry/questions.md
   - Organic Chemistry:
+      - Basic Principles of Organic Chemistry:
+          - Introduction and Structural Representation: organic-chemistry/basic-principles/introduction-and-structural-representation.md
+          - Classification and Isomerism: organic-chemistry/basic-principles/classification-and-isomerism.md
+          - IUPAC Nomenclature: organic-chemistry/basic-principles/iupac-nomenclature.md
+          - Fundamentals of Reaction Mechanism: organic-chemistry/basic-principles/fundamentals-of-reaction-mechanism.md
+          - Electronic Effects: organic-chemistry/basic-principles/electronic-effects.md
+          - Methods of Purification: organic-chemistry/basic-principles/methods-of-purification.md
+          - Qualitative and Quantitative Analysis: organic-chemistry/basic-principles/qualitative-and-quantitative-analysis.md
+          - Questions: organic-chemistry/basic-principles/questions.md
+      - Hydrocarbons:
+          - Introduction and Alkanes: organic-chemistry/hydrocarbons/introduction-and-alkanes.md
+          - Chemical Properties and Conformations of Alkanes: organic-chemistry/hydrocarbons/alkanes-chemical-properties-and-conformations.md
+          - Alkenes: organic-chemistry/hydrocarbons/alkenes.md
+          - Chemical Properties of Alkenes: organic-chemistry/hydrocarbons/chemical-properties-of-alkenes.md
+          - Alkynes: organic-chemistry/hydrocarbons/alkynes.md
+          - Aromatic Hydrocarbons: organic-chemistry/hydrocarbons/aromatic-hydrocarbons.md
+          - Chemical Properties of Benzene: organic-chemistry/hydrocarbons/chemical-properties-of-benzene.md
+          - Questions: organic-chemistry/hydrocarbons/questions.md
       - Alkyl Halides:
           - Introduction: organic-chemistry/alkyl-halides/introduction-and-nomenclature.md
+          - Nature of C-X Bond and Preparation: organic-chemistry/alkyl-halides/methods-of-preparation.md
+          - Physical Properties: organic-chemistry/alkyl-halides/physical-properties.md
+          - Nucleophilic Substitution: organic-chemistry/alkyl-halides/nucleophilic-substitution-reactions.md
+          - Stereochemistry of Substitution: organic-chemistry/alkyl-halides/stereochemistry-of-substitution-reactions.md
+          - Elimination and Reaction with Metals: organic-chemistry/alkyl-halides/elimination-and-reaction-with-metals.md
+          - Reactions of Haloarenes: organic-chemistry/alkyl-halides/reactions-of-haloarenes.md
+          - Polyhalogen Compounds: organic-chemistry/alkyl-halides/polyhalogen-compounds.md
+          - Questions: organic-chemistry/alkyl-halides/questions.md
+      - Alcohols, Phenols and Ethers:
+          - Introduction and Nomenclature: organic-chemistry/alcohols-phenols-and-ethers/introduction-and-nomenclature.md
+          - Preparation of Alcohols and Phenols: organic-chemistry/alcohols-phenols-and-ethers/preparation-of-alcohols-and-phenols.md
+          - Physical Properties and Acidity: organic-chemistry/alcohols-phenols-and-ethers/physical-properties-and-acidity.md
+          - Reactions of Alcohols: organic-chemistry/alcohols-phenols-and-ethers/reactions-of-alcohols.md
+          - Reactions of Phenols: organic-chemistry/alcohols-phenols-and-ethers/reactions-of-phenols.md
+          - Ethers: organic-chemistry/alcohols-phenols-and-ethers/ethers.md
+          - Questions: organic-chemistry/alcohols-phenols-and-ethers/questions.md
+      - Aldehydes, Ketones and Carboxylic Acids:
+          - Introduction and Nomenclature: organic-chemistry/aldehydes-ketones-and-carboxylic-acids/introduction-and-nomenclature.md
+          - Preparation of Aldehydes and Ketones: organic-chemistry/aldehydes-ketones-and-carboxylic-acids/preparation-of-aldehydes-and-ketones.md
+          - Physical Properties and Nucleophilic Addition: organic-chemistry/aldehydes-ketones-and-carboxylic-acids/physical-properties-and-nucleophilic-addition.md
+          - Reduction, Oxidation and Other Reactions: organic-chemistry/aldehydes-ketones-and-carboxylic-acids/reduction-oxidation-and-other-reactions.md
+          - Carboxylic Acids - Nomenclature and Preparation: organic-chemistry/aldehydes-ketones-and-carboxylic-acids/carboxylic-acids-nomenclature-and-preparation.md
+          - Acidity and Reactions of Carboxylic Acids: organic-chemistry/aldehydes-ketones-and-carboxylic-acids/acidity-and-reactions-of-carboxylic-acids.md
+          - Questions: organic-chemistry/aldehydes-ketones-and-carboxylic-acids/questions.md
+      - Amines:
+          - Introduction and Nomenclature: organic-chemistry/amines/introduction-and-nomenclature.md
+          - Preparation of Amines: organic-chemistry/amines/preparation-of-amines.md
+          - Physical Properties and Basic Character: organic-chemistry/amines/physical-properties-and-basic-character.md
+          - Chemical Reactions of Amines: organic-chemistry/amines/chemical-reactions-of-amines.md
+          - Diazonium Salts: organic-chemistry/amines/diazonium-salts.md
+          - Questions: organic-chemistry/amines/questions.md
+      - Biomolecules:
+          - Carbohydrates - Introduction and Classification: organic-chemistry/biomolecules/carbohydrates-introduction-and-classification.md
+          - Structure of Glucose and Fructose: organic-chemistry/biomolecules/structure-of-glucose-and-fructose.md
+          - Disaccharides and Polysaccharides: organic-chemistry/biomolecules/disaccharides-and-polysaccharides.md
+          - Proteins: organic-chemistry/biomolecules/proteins.md
+          - Enzymes and Vitamins: organic-chemistry/biomolecules/enzymes-and-vitamins.md
+          - Nucleic Acids: organic-chemistry/biomolecules/nucleic-acids.md
+          - Questions on Biomolecules: organic-chemistry/biomolecules/questions-on-biomolecules.md
+      - Polymers:
+          - Introduction and Classification: organic-chemistry/polymers/introduction-and-classification.md
+          - Addition Polymerisation: organic-chemistry/polymers/addition-polymerisation.md
+          - Condensation Polymerisation: organic-chemistry/polymers/condensation-polymerisation.md
+          - Copolymerisation and Rubber: organic-chemistry/polymers/copolymerisation-and-rubber.md
+          - Molecular Mass, Biodegradable and Commercial Polymers: organic-chemistry/polymers/biodegradable-and-commercial-polymers.md
+          - Questions: organic-chemistry/polymers/questions.md
+      - Chemistry in Everyday Life:
+          - Drugs and Drug-Target Interaction: organic-chemistry/chemistry-in-everyday-life/introduction-and-drug-target-interaction.md
+          - Therapeutic Action of Drugs: organic-chemistry/chemistry-in-everyday-life/therapeutic-action-of-drugs.md
+          - Chemicals in Food: organic-chemistry/chemistry-in-everyday-life/chemicals-in-food.md
+          - Cleansing Agents: organic-chemistry/chemistry-in-everyday-life/cleansing-agents.md
+          - Questions: organic-chemistry/chemistry-in-everyday-life/questions.md
   - Policies:
       - Terms and Conditions: policies/terms-and-conditions.md
       - Disclaimer: policies/disclaimer.md
